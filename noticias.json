@@ -1,13 +1,122 @@
 {
-  "atualizado_em": "2026-10-20T20:22:30.052055+00:00",
+  "atualizado_em": "2026-10-20T20:44:24.166251+00:00",
   "noticias": [
+    {
+      "titulo": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "resumo": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, ",
+      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792527696
+    },
+    {
+      "titulo": "Prêmio Lobo-guará recebe inscrições para fortalecer inovação em Guarapuava - Paraná Central",
+      "resumo": "Prêmio Lobo-guará recebe inscrições para fortalecer inovação em Guarapuava  Paraná Central",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZBTGZqQmh3UWRvaVdSblQ1VHM2QXBSU3ZhX2JDTk9RVlUzTlRxX2JwcjRmYXJwRjZyMmhFMVFacElYSTlYT1llaVNsVzFFT0FNT3hiRXpLWWQwZnhXMi0xUUJYVVRENnVQUU1sX3d5dXc3UVZoSDVkRVoyNTl0S0lQTkRJNHpBcU52eEVSb2ktaGRQNlRGZFhIOGhlR0ZUcjBjUGFB?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792524631
+    },
+    {
+      "titulo": "Prefeitura destinará recursos para projetos de ação climática com protagonismo de jovens - PJF - Prefeitura de Juiz de Fora",
+      "resumo": "Prefeitura destinará recursos para projetos de ação climática com protagonismo de jovens  PJF - Prefeitura de Juiz de Fora",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51djFSTUtZX2QwdmpyNk4yelNQekhWaVcyZ1poR1hLdDBZcm82WFZCZ19MYjJLOVBXUEFnTEduQ2RmVXdQSy1FeWdZcldBdVdBU0RwakRvWm5oc1I2dWtySVRCZkFXaVpsZFV6YTNWZWRUZ1FCV3Q4bHVSOA?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792522920
+    },
+    {
+      "titulo": "BNDES, BNB e Ministério do Meio Ambiente abrem 2º ciclo de apoio a projetos para recuperar a Caatinga - al1.com.br",
+      "resumo": "BNDES, BNB e Ministério do Meio Ambiente abrem 2º ciclo de apoio a projetos para recuperar a Caatinga  al1.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMVRBdkRiTDhlZmtIbUdWdWYwSnBlaDdvRTUyOVIwWG5YTW5VWUxiel9NemdsVHdlZnh1RnV3bzBRSTluVnZicElzTW5iWGt5blRqV3ZHYjNjQXZkWVIzbENBUDVmRWZ4STZ5SXpvWGpvN0VZRk1sLVljeWFxeHc5VXZPNzdvRTZrbmphVTVFc2d5M2l6aFZ5ZXhtOEltRUU1WDNkSXRueG0wMWhZc0M4N1R1SVhxOUlYSUdJWGlYUUxydUtaUHV5WWJlMHBqaDB2Zmw5UFhXbEFxWV9z?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792522165
+    },
+    {
+      "titulo": "Agin media visita de estudantes do IFCE – Campus Acopiara à Uece - Universidade Estadual do Ceará",
+      "resumo": "Agin media visita de estudantes do IFCE – Campus Acopiara à Uece  Universidade Estadual do Ceará",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQWRVZlpLZ202MV9reWNIOHFtTWs4TGNlUGNRT254UWwyOGhReTZrNG92YUZ6VjhOYVpqcmg4anJYWEVjTGhfLWpOeUJhZnNpN1d5OXJKaE1mSTZwcEw4Q0RzaXdjUTFJVWhTd1NwenlPbENrbHlqTGRNTDZabG1PcGlDa0dIa1JhbmJKSkwybWxpLUlqa2xN?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792521600
+    },
     {
       "titulo": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
       "resumo": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electri",
       "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
-      "timestamp": 1792519893
+      "timestamp": 1792519893,
+      "idioma": "en"
+    },
+    {
+      "titulo": "Sessão especial celebra 60 anos da Unicamp e sua importância para o Brasil - Metrô News Jornal",
+      "resumo": "Sessão especial celebra 60 anos da Unicamp e sua importância para o Brasil  Metrô News Jornal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1VkZVl2eHo4R0UzcmF2MGQwU0gyb1lhQmNzVVRfN2Y3Z2h6OE5oYXp3TVBhNEt0SmRUX1NGYzdKTDh4NkYxRG1ucHhxUnJ3ajNnYm1EcjgxazE5MVVTdjlreTZMV0JicEJ6ZndFMUt6VGRCcmJ0VHJ0aFJmTWIwSnpEN1czQXo3WERzc0FhamNSaGRmM0JSR1FqZm1mNThWaUE?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792519500
+    },
+    {
+      "titulo": "Pesquisador da Fiocruz Bahia, Mitermayer Galvão dos Reis recebe a Medalha Virgínia Schall de Mérito Educacional 2026 – Instituto Gonçalo Moniz - Fiocruz Bahia",
+      "resumo": "Pesquisador da Fiocruz Bahia, Mitermayer Galvão dos Reis recebe a Medalha Virgínia Schall de Mérito Educacional 2026 – Instituto Gonçalo Moniz  Fiocruz Bahia",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWtXQWc4UGZCZmpFdUxpb004cjlfVHQxLW1CRGZLRFYyZkhmYzNwWVcweGoxeXNrcHQ3aGNUa3RyOVUxeEhGbmRIU2JLYWdTc2wycjR6ejc3UEZFb21PREFOZEF4U0l2NGhCaGwwako2RzlKYzBpQmpHWVNzcDRxT1AtWWNCbkI0R1hqZ0xidW9zZmZHWk9VNXVhcThhSkxZb0QtM3RhdmUtek9VNzFEUXlGMVNNMWlOWG5KWHl1ODA3U2RYWGhxQmFvNVRvcHNWaERydEpWZTFodHlrblE?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792519355
+    },
+    {
+      "titulo": "Paraiba total - Paraiba total",
+      "resumo": "Paraiba total  Paraiba total",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeV9sRTJnbmtac0lyQllEVXY4MWtieWhxbVh5RWduVVlZT3ItLV80SmdQRDFhOWJHSjBiOXI0MUVuaTAxaHVYMHp3WnBwRjRLLU5OYWJLek1aUzdGUjlGS2FkS29WOGZUZ1o0TnNRX1hxNlllXzVUT3NFMlRmbWYzU3c3TkZ2VTJjWnFHU1R1Z1lVZHFxUzVkc2ZpOXNadzdQaFJWQTZNejJfVXFlMlZjc2k4dnJvRk10SktMMDVtZnhyZWE2ZjFwSkUtWQ?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792518614
+    },
+    {
+      "titulo": "Café com Agências de Fomento debate inteligência artificial na pesquisa e na pós-graduação - Universidade Estadual do Ceará",
+      "resumo": "Café com Agências de Fomento debate inteligência artificial na pesquisa e na pós-graduação  Universidade Estadual do Ceará",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXhiaHA3aWRtdWdQTV9PQy11VnZWbDdpOWtQdDFJT2l3Um5ud1hCTmJGeE9xa2h4NzBsZHhsY0xZckI5VEFPOEFZUlk5SW1SYkNkMmZvM1RMRVc0Ql9yUHlvaVJXbmN4cjlzOFo5ckZSSVVoMFczemhxOVJ1NWdxeFBPellDY1paZnFaR2RYNWY5V0RNRWRpbkUxNjFTQ0k3RWJycW9ibGt1ck55eGhmQ2hjbXZpOGMzRlpuUg?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792518420
+    },
+    {
+      "titulo": "Defender quem ensina, pesquisa, aprende: UFSC abre 23ª Sepex com compromisso pela universidade pública - Notícias da UFSC",
+      "resumo": "Defender quem ensina, pesquisa, aprende: UFSC abre 23ª Sepex com compromisso pela universidade pública  Notícias da UFSC",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ1dMeHYya1hBWFlnOVRQbGJsTzl1ak9ieHpjbUJwZEo2T3FYMzdVQ1p1cGRTbXlTYWhkOVY0c1BIMlJYM05NZlR0Tl9KcXhacmFJMm5JTlNzYUMtS2NVUnhNMGFfTVdXajVoUDBnOVRGVDFuRHJSVlhaRWxBbWVYbkdEVGtUaXc1bDVGZzQ3ekxzMTJ0NjRsV1BuZXRLRDUxaHYwYW9fbFNFMmdqWlBtX0hoTlpPSU1QVWg4NVF3akJ5Q3lrekE4a0U0LUhnQQ?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792516620
+    },
+    {
+      "titulo": "Sessão pelos 60 anos da Unicamp destaca papel da universidade pública - Tribuna do Sertão",
+      "resumo": "Sessão pelos 60 anos da Unicamp destaca papel da universidade pública  Tribuna do Sertão",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRFlsM1k1NTZOUl94ZnY0Y1NBdFJmaGVJSnY1UDFhUTZSSThLV3dQUE8xUTYzdFdQT0ZDUl82UUpjVGQtTTROUDRhMjc2TWtycXFDVTZrXzR2T1B3SEk3eWI5M3g0dnI2NllGNlhJczJQdnFXaUZVYjRZR2t1eXJFcjdDbDhmTzROVVNnVmdpa1Yxa0lDdWlobEpBRlRNVFJIQUdWRjFObHR6VWVHdEcyNmE1VVVWUWU2bTFBOXRrZmJ0RW9uRTFwbFJhY0Q?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792516111
+    },
+    {
+      "titulo": "Inteligência artificial e futuro do trabalho são temas de encontro promovido na USP - Jornal da USP",
+      "resumo": "Inteligência artificial e futuro do trabalho são temas de encontro promovido na USP  Jornal da USP",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2Jpc28wek9zVFBqMm51MEYycktTWmNpLVplSk0ySk9YdWFyS0IxTm85RFVSVHJjM1poV04zMDhiS1NLSzJtY0R6eG9GUm1ZNTlxN0h5Y3F0cl8wSXlVRGVXUUVLc3lwaVJSYlQtUW9wU1ZuSHVEdkFuQWI1Sy1BWmVBajFBSVY4VVJmMFgycE9adEZJRFlmWEU1Z0NoMnVYXzJZU1RwN1hEYWEtVGRybGxFZS0yXzFyLUJR?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792515960
     },
     {
       "titulo": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
@@ -15,7 +124,17 @@
       "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
-      "timestamp": 1792512155
+      "timestamp": 1792512155,
+      "idioma": "en"
+    },
+    {
+      "titulo": "PRPI realiza encontro com participantes do Programa de Iniciação à Pesquisa na UFG, em Cidade de Goiás - UFG - Universidade Federal de Goiás",
+      "resumo": "PRPI realiza encontro com participantes do Programa de Iniciação à Pesquisa na UFG, em Cidade de Goiás  UFG - Universidade Federal de Goiás",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORG45Mkt2ZTBxbHkyRmhTd1UxTGxyUDI5V3NQenhHa2daaHZTNGRTZEstdV9jR0xmcXdlWmxPM2J6dDZkOUNBSzZFcVRYSkpaRWZscWtyQzNuVnQ4UU9SVE1IQWlEZXJUNVIwUVhlbEpnaUdFLTNoaFV2X3plSEtxSzNQQThQd040dm5BOGZ5MzdnbUZjSFROb2lUTERaclVYVjhwWnlvM0UtZVFUbzdpWTl6YTAwbExFcnNUTV8wbzVqVjkwdU16ck9QOA?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792510680
     },
     {
       "titulo": "NASA Provides Progress Update on Moon Base Rovers",
@@ -23,7 +142,17 @@
       "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
-      "timestamp": 1792508410
+      "timestamp": 1792508410,
+      "idioma": "en"
+    },
+    {
+      "titulo": "Mudanças climáticas impulsionam busca por seguro residencial - Jornal de Uberaba",
+      "resumo": "Mudanças climáticas impulsionam busca por seguro residencial  Jornal de Uberaba",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnktZVpMRWNrWnlKRlNOOTI3RW5ja2ZyOEI1YjlzdWoxTnFpM3FIYTM3VDBDSkVydXFaTW03WVNieW5EMmhmSVltckNPUmx4NngwRUlWTzRTdFpRcGVURGh2a3VRemkyNkdCakxRdEpFc0V4VGlkeEp2a0pGZ0l1MUdWUnp2Q1BZWEdJellVNzF4WTQ5dTU1TFlPNllGck9mNzFrVEFGdlFicGNwWUsw?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792508321
     },
     {
       "titulo": "Webb Captures Stellar Jets",
@@ -31,7 +160,17 @@
       "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
-      "timestamp": 1792507449
+      "timestamp": 1792507449,
+      "idioma": "en"
+    },
+    {
+      "titulo": "Seminários Avançados debatem Geopolítica da Fome, segurança alimentar e saúde - Campus Virtual Fiocruz",
+      "resumo": "Seminários Avançados debatem Geopolítica da Fome, segurança alimentar e saúde  Campus Virtual Fiocruz",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xMDlJRDRlZWQ4YTdsdGtsOVpUYjRRdzBmU21pSXhTME9zVFMzM2V4bUxRWVJoWEU1UkpBRTBWWUxnMFNyZG1uSE9BY20temUwNG5mQ2huMGN4YzRJQnA0QmpwYUVBcnpO?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792506739
     },
     {
       "titulo": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
@@ -39,7 +178,53 @@
       "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
-      "timestamp": 1792506102
+      "timestamp": 1792506102,
+      "idioma": "en"
+    },
+    {
+      "titulo": "Feira de Ciência e Tecnologia do Goioerê Inova movimentou Goioerê nesta segunda-feira - Gazeta Regional",
+      "resumo": "Feira de Ciência e Tecnologia do Goioerê Inova movimentou Goioerê nesta segunda-feira  Gazeta Regional",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV3FmdGZLZVNxYUhiTjNqdnlYbTBSbnZDNm80NFdUckpyNC1MNzg4Q2NlcUZRT1JkM2RneUtqSUZFZXhCXzh5YXZkZHpseG5rUjZxQ2hybE1nUllka1E4N0RBZG9qRkJEaEk2dS1HZWxMdTlaU2RmUzN2RXlGWGJCZjR6cjQ2ZkRpSDhoVUZDM1VMRkRYUng5aFVFVjlfLW9oMmZSaEN0NkVoWUtRX2xnaENJOGtjWHdKdkpsU0Fybw?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792505496
+    },
+    {
+      "titulo": "Semana de Estatística e Ciência de Dados debate inteligência artificial e inovação. Inscrições abertas - Universidade Federal do Espírito Santo",
+      "resumo": "Semana de Estatística e Ciência de Dados debate inteligência artificial e inovação. Inscrições abertas  Universidade Federal do Espírito Santo",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkswektOb3dHNkFlaHdYd1JBUVlvVHd4ODBsejhxZDM1SWN2clBXUkptZ1I3UlZoUFJHWWROcENwX2FtZlhMY19ScEFQY1RYOEdlMWN4T2w4TnFfMG9pd3B2WF9NbVFKaWpXd0lQT0FkMkVrTi0xeXNKdlFZOWlDOWZhOTJWM21POVpsSEZVUm5TQk9HTFI2ODZZRkJNYWg2Vk1Gck9Hd3hnckdsdFlacg?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792504980
+    },
+    {
+      "titulo": "UEPB abre inscrições para semana de atividades científicas em Campina Grande - Cotidiano - Notícia - Portal Ponto PB",
+      "resumo": "UEPB abre inscrições para semana de atividades científicas em Campina Grande - Cotidiano - Notícia  Portal Ponto PB",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3FOSFpULXJOT1RGM0pWcmp6ZURYek54MC1zeGxjYllsS3BFSFpmZEpLY1RhcDRGSFowYXpZWXk4LXNHc2J5WktmMTl1MUo4dGdIWjJaME9SeVFDWkp2QWdHZUtWaDNBeGVBQ1FlY3JNMkZZMnJFR29NbHp4amFLVk1VQU9xOWRra0Z3TFFJVFJsOV9FdEkyajY1MTZWcHN3LXdXaHo0bXhRMjRpVlUtbDU5NThNWFpDWEJRcFZFVy1ReXM5b1RmajVzSFF4b0VNR0lV?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792504920
+    },
+    {
+      "titulo": "Pesquisa Unifor: IA aproxima cidadãos dos serviços de saúde pública pelo WhatsApp - Unifor",
+      "resumo": "Pesquisa Unifor: IA aproxima cidadãos dos serviços de saúde pública pelo WhatsApp  Unifor",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHVIVWkwc2pBODctNFZXMDdueWxXdndJdlk2OW9kQ1hpRzlQVFl1MzFnV1ZaMzE2bTFjemxZdXNGSWh2ZUl4eXo5RnFxOExjWXBiRGZzX0lHXzBOUEw4MEg5LTZQZUVhQzNNaWVxM01lUHhJeGQwdGV3QXhWOThXSGJiLW1kbVhILXhaSVFaRlZCM1lUMjZuMlFvSk5BS2JudXc?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792502880
+    },
+    {
+      "titulo": "China divulga diretriz para ampliar apoio financeiro a centros internacionais de inovação científica e tecnológica - Brasil 247",
+      "resumo": "China divulga diretriz para ampliar apoio financeiro a centros internacionais de inovação científica e tecnológica  Brasil 247",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEtVSl9aam14MTZLU09ldEZfd0hoR1hYM2RKTE5TYXNjYXN4Z2pUNXNnYWZyaFh5bG5Kck9KOTl5Nk52RExYOFByRk9qTkFUUEJ3cEtVSHZjd2U0amJ3NzAwT05iYU9WOFlkVFZJa2I1Y1NZMWlNc29PSkxlZDBReldRcFdEbkRzRWZpVlNwWHNXbVNMeTJKNVVFVmd3d1hMSlphd3VTenYtWnE3N3dPZFdJOHllY3dCVWo1Wi1kd2J3bHVWemdVZThfNE5xZDBWUWtzT0llNVozQW5rV1FpN3pR?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792502229
     },
     {
       "titulo": "Scientists finally uncover why statins can cause muscle pain",
@@ -47,7 +232,8 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
-      "timestamp": 1792501256
+      "timestamp": 1792501256,
+      "idioma": "en"
     },
     {
       "titulo": "Hurricane warning maps are improving, but a dangerous problem remains",
@@ -55,7 +241,8 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm",
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
-      "timestamp": 1792500591
+      "timestamp": 1792500591,
+      "idioma": "en"
     },
     {
       "titulo": "Astronomers uncover new secrets of the Universe’s first five minutes",
@@ -63,287 +250,161 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
-      "timestamp": 1792499655
+      "timestamp": 1792499655,
+      "idioma": "en"
     },
     {
-      "titulo": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
-      "resumo": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previou",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792498844
+      "titulo": "Universidades Federais do Nordeste: 10 pesquisas que mostram a força da ciência na região - Portal NE9",
+      "resumo": "Universidades Federais do Nordeste: 10 pesquisas que mostram a força da ciência na região  Portal NE9",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEdsV2I3WVRVTW9xNjVBTHBjQXBBRzBuREdaQVpNdzFJbXNCbk1pQ2NOUDVHR1pMcjVZUmlCTkh5RkRqd0tYRVRtUGhsMXdOWl83aXU1TS1DdWZQLVVwQ0JiRFNlS0VYcXd4U3FnLTBOdXgyQld4dkUwSktaSDJZUnhZN3BSUElqbThrZUZwUnhGRjJJQ1VvRFlLa0JjSXBOUVVIdkZlZjhPc0Jr?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792499061
     },
     {
-      "titulo": "Your aging brain may be trading memory for something more valuable",
-      "resumo": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could be an evolutionary ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792495882
+      "titulo": "AstraZeneca e Oracle firmam parceria para aplicar inteligência artificial em pesquisas clínicas - ADVFN",
+      "resumo": "AstraZeneca e Oracle firmam parceria para aplicar inteligência artificial em pesquisas clínicas  ADVFN",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMV3RReHB5ZlVnQ2ZLbG53MVV5aDRoTGNlai1ReHdKaUhjVGp3X1AyZ2hXUlQxR0FpTHhiVW43bTdhb19SdHJBeDVPU180U091ME5oSmxfYmYtT1pDenQyRHFSTmFQZ3JpcFE?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792498312
     },
     {
-      "titulo": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
-      "resumo": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers an",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792489955
+      "titulo": "23ª edição da Semana Nacional de Ciência e Tecnologia acontece em dezembro no Espaço Cultural - Inteligência Brasil Imprensa",
+      "resumo": "23ª edição da Semana Nacional de Ciência e Tecnologia acontece em dezembro no Espaço Cultural  Inteligência Brasil Imprensa",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHNWUFgtbG5EZ2ZIdTV0NVQ4YkFFdjVFUElBN2UwaDZvSEIzckFmcWZJbnJESGJfV1BnN3NGdGhFSVV6SkpkWVR6T3F1OHZnenU0R09GMDdzUjJnSHJkTnBGTEhLN0tuajRSVUpta2VDWHgtd1Z5b1FWSGtyMm0tQUNvOEtqVEJNR3JKbWZuSTBWSFRITVdYbWlfXzA1XzlFWURDdWZIX1NuYUdncUY4TUdWeF9jWGhIdHFqODVSc2lHVnFzM1E?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792497020
     },
     {
-      "titulo": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
-      "resumo": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary im",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792477075
+      "titulo": "Summit Research Unoesc celebra 30 anos da Universidade com debates e lançamento de livro sobre a pesquisa científica - Rádio Tropical FM 99.1",
+      "resumo": "Summit Research Unoesc celebra 30 anos da Universidade com debates e lançamento de livro sobre a pesquisa científica  Rádio Tropical FM 99.1",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd1RjOFdhVTl4NTB5WXNYanEyLUNCVzZSWjNKQ3ZIYkZNRkhPdnNzMjJFZUxYRGgyTE1acjZ2ZkFQN1FkVmVTMHRhN2FUMkF5dnFGUTQ2TU4yWjNtX2lkOHZobVotZzl5Tm5FOFV0cm5raUJ1WHdPZGRhbS1MXzdTT3R4SW5rYmxKOTd6NURBU1hDV195Y2FSbk1nUEVaeFotWlJsM3NNM1NCR0FBWVoyNTZrcUhINWRma1pjN3lvZGJnd1BseXlab0ZSd2RGNUd6ckZIdmxJZmJJbmdGNlNCRHc1eWlheEk?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792493400
     },
     {
-      "titulo": "Scientists discover a surprising link between vitamin C and cancer survival",
-      "resumo": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promi",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792470095
+      "titulo": "Nupad treina equipe do Paraná em técnica para testes confirmatórios da AME 5q - Faculdade de Medicina da UFMG",
+      "resumo": "Nupad treina equipe do Paraná em técnica para testes confirmatórios da AME 5q  Faculdade de Medicina da UFMG",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0k5VWRoTndGN21GcndsTThUcGdoaTJFejB4QTg1dk16eFpOUTU2UHBFRXRHWERrMnU4YUI4U3BlR0hBUVpEQ2FPSm8tc3VVMU9udm5Ial8xS3dPQTJjMXBWWUtSbDV1T1FkdjJTeVVxNmEtdDRRRlRGYl9CQ2poT0g2Z0Y3RmtsVmdWRFBOMjdLb3llcDRqSkJrSm5pdEJTYkZ1Skd5S1Q1UU0?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792475677
     },
     {
-      "titulo": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-      "resumo": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascin",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792469100
+      "titulo": "Parcerias corporativas em deep tech aceleram inovação científica e redefinem a competitividade na indústria brasileira - Brasil Inovador",
+      "resumo": "Parcerias corporativas em deep tech aceleram inovação científica e redefinem a competitividade na indústria brasileira  Brasil Inovador",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOW81YW5CYlVLWThaZHpLNW01MEJqVTJTYUhJT0ZoOUZhUU5rLVJVY0ZyNXRTY3lkenJ2VDdMdDMycWlrRWQ3OXVwY0JkZUZEQjl3aGlGbmlNWmdRT0Q1WFBfZkRUaDNvLU9DZXZHSTB5Mlg0aVFkZGtISTM5Xzh4cVByVlVTdC1QTlpTbFk2VVR3Sm1VYmpCd0laaHhRVmozbC1fM0otT0M5OUFBN1N5ZXpta093OWREN2xrcVhvRTBpbWd1bEFhVlpNc2xRS2FrVHhhMnlWdW1aSjBuN1d4RTJZOA?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792474191
     },
     {
-      "titulo": "The Human Fingerprint on Earth’s Water Cycle",
-      "resumo": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792468860
+      "titulo": "FOB-USP sediará centro de ciência, inovação e cuidados fonoaudiológicos no SUS - USP Bauru",
+      "resumo": "FOB-USP sediará centro de ciência, inovação e cuidados fonoaudiológicos no SUS  USP Bauru",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02Znk1MU1CYWRyT1U4OWJSVnhQQk9MZ3hjZy1ULVFyb1BucnMzb1JzY0NDYzZiZFhfVmJtN0lHSFlFdG5zTGZmQQ?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792463370
     },
     {
-      "titulo": "Scientists reach the ultimate quantum limit on a surface",
-      "resumo": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over mol",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792465361
+      "titulo": "SIA 2026 abre oficialmente suas atividades com o tema Ciência Delas - UFV – Universidade Federal de Viçosa",
+      "resumo": "SIA 2026 abre oficialmente suas atividades com o tema Ciência Delas  UFV – Universidade Federal de Viçosa",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUlVyV3gtY2o1bTU2ZzhYMjFkZ1pvVlFZRXA3RE5jRHZJUXBOSzVNd0tDTXdOdDhmT3g1SUdrM3B4Ri1BbEJOVUVmSHpKZ1VyQ3NpMXQwSnlUX2JqMGlyY2plakFBeU1GeEtJQm91MTd1V0IzYUlhVVpqNVN0clZqQQ?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792458991
     },
     {
-      "titulo": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
-      "resumo": "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled res",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792462980
+      "titulo": "Inovação climática abre novas portas para financiamento do meio ambiente - brazileconomy.com.br",
+      "resumo": "Inovação climática abre novas portas para financiamento do meio ambiente  brazileconomy.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUFWTjJnbmJhV1NuNHNaQ2RIMVh3ZWhld3kyd01fZXlqTG16R2VKbktVLXNnUGxTejNlZzh4LWNzRHJKSE5MUUxXSmhmdVV2bk1XRDRDTVIydE1uUWh1UVJrU3VOYUNQR0NINTUzMEhYSURhT2ljNmlUbGZ1OFpKMTBVWUFGaTVlLTZkSEhjWXFYSEMtTmw5SUhNWkFYSnBsUHpvV3lRYnlNUG8?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792458544
     },
     {
-      "titulo": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-      "resumo": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equin",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792459298
+      "titulo": "Uece abre XXXI Semana Universitária com defesa da universidade pública e da redução das desigualdades - Universidade Estadual do Ceará",
+      "resumo": "Uece abre XXXI Semana Universitária com defesa da universidade pública e da redução das desigualdades  Universidade Estadual do Ceará",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2FrSVFNMU5BTkZIaEFuVUhHNllZdlNsbHBVaGhSeW55VW83T29HbEN5QXVRTnpWU0JCXzN6MEtSZWZlZDRPSUs5XzJrUlFCczZvejVfcENZZTZ5MWloS29CTml0Xy03U2dFMkUzMGxWRlpOSTFfZk9BUlM2S19obEZrZV9objNGWEM0Unc3VjRtY3lUV2lkaEpWVHFZOXlTX0VXaWFqaEhPU000MTFKTDQzVGJ5RURBcGR5aEw2RjVFZnNMMUZRVFlQRQ?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792456560
     },
     {
-      "titulo": "NASA Improves Shock, Vibration Analysis",
-      "resumo": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresse",
-      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792438112
+      "titulo": "Especialização gratuita Fiocruz tem 20 vagas na área da saúde - PEBSP",
+      "resumo": "Especialização gratuita Fiocruz tem 20 vagas na área da saúde  PEBSP",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUpGVTVsYVY1Z0l6SkNoQmRIZlpiTXp2d2pvV3QzVUtlLUVoXzVIalpFd1c5eXctMHRQdzV2QWVWRVNsQ3lQYW56dVpsUmFhaHU0QzR1UHFHNjJydC01MXpfenpiQ3hEVk1xMkVKYWlLWng3NFhhQjhqRElHMzJYU1NnN1UxZHRvVkcydg?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792453348
     },
     {
-      "titulo": "Software",
-      "resumo": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copi",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792433500
+      "titulo": "UFU divulga lista de selecionados à Premiação do Sistema de Pesquisa, Inovação e Pós-Graduação - Comunica UFU",
+      "resumo": "UFU divulga lista de selecionados à Premiação do Sistema de Pesquisa, Inovação e Pós-Graduação  Comunica UFU",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONk45UlphQ21IWHBxbFJuSzdDRDljdElTaXhfb2dtQjJDdm42Vkx1ZWhFWk53YkJqWHhIbjRzSmhkYWQ1M2hvb3prQU9RVWJXS2MwcUhqSWdJQkMwVGpwbWxOdmhBaU03NGRFcVpESjlqQVJYejZINFhIbGZZSVVGR21UZ05BdVllZUU2SVBmWkJsc3I1Q3NabUIzN3RBSElXSlAtcDl0bVY0YU91TmJOUVFTLVNxTGhMNlRqazlB?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792444695
     },
     {
-      "titulo": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
-      "resumo": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by seve",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792415358
+      "titulo": "Notícia - Udesc realiza missão institucional em universidades de Portugal - Universidade do Estado de Santa Catarina (Udesc)",
+      "resumo": "Notícia - Udesc realiza missão institucional em universidades de Portugal  Universidade do Estado de Santa Catarina (Udesc)",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbURzZ1hkT1JwS0NxQWtWMlRJdThxVnU5Vkd4VE1xempWdFkzZnV5M21Ib1FObzlBSFhrenlWSUhMeldRRWUtbEhKcjl0TkZ1Yy1sWDZRRWdwRktUa3NJQzF0Z2haY2thNHFsWGQzVU5yYzdaUjhTZ3ZZeXlGaE1SWmUyZzdfQnJ0d0F0NDl0b1BTYUJETjZpMzlrS0lLQXM?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792444680
     },
     {
-      "titulo": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
-      "resumo": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new wa",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792414622
+      "titulo": "Sinpete 2026 é aprovada em edital nacional de feiras e mostras científicas do CNPq - al1.com.br",
+      "resumo": "Sinpete 2026 é aprovada em edital nacional de feiras e mostras científicas do CNPq  al1.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0N4bXREc3JpSkE0SkhKcUNaN2t1RTJvVzZCaXBDZFhiOERmQ3FNeDBGWUoyMDNkSUo5MlYzemo4NlVFdWl2blhQU2NZSVZOQ3R2U2I4TVpxeU9FbmZYdGFMOXQ5UFZySlpBaWhZZEZVOFVKbGZRd2xYcDVScVgydEt0VXZuU0RiT2JCSnBPUG5jb2FyUWs4eG5DLXBZbFpSQ0lvbGVVZG1uUHJYWlZyM2FHdExNWE03X0JpcGcwRUdJcU1V?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792442950
     },
     {
-      "titulo": "Something strange is happening beneath a volcano near 2 million people",
-      "resumo": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792413309
+      "titulo": "Da anatomia virtual aos testes de novas terapias: Medicina da USP dá salto tecnológico no ensino e na pesquisa clínica - Jornal da USP",
+      "resumo": "Da anatomia virtual aos testes de novas terapias: Medicina da USP dá salto tecnológico no ensino e na pesquisa clínica  Jornal da USP",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWVhNRkh4ejhobDNqNXZ3dXRnZmdRRHJmMmRNdVpJd2dxa3BBUXBvODBnakQxOXJxdUlYQ1FYcWVHMnF0aGw3dUFENDhTUHFHQ3dBSUxhbE5hbTJOejFtTTJKZVVqSzlHcTFtVURKTjlaR2Zvc01ZYUlIRjNfc0lJM1BMTGtPT19RNWdpbmEzSWpvdFZPRlRVZjBEOGNYUXREckRCdkdMaml0eXFobHQ2MUFhVjFXTmdhb3JQc3h2S3hvcEthMFZYeXl6dnM5LUdJSHRSMlFLT21oU3VMQmhHT0NkaDJCUWc3TGc?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792440240
     },
     {
-      "titulo": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
-      "resumo": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and f",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792409006
+      "titulo": "Pesquisa aponta falhas do Google e OpenAI que permitem gerar ‘deepnudes’ sem barreiras - Estadão",
+      "resumo": "Pesquisa aponta falhas do Google e OpenAI que permitem gerar ‘deepnudes’ sem barreiras  Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdHBJRG9iZVJkOWlaWnN5Zjkyb25zdGlBWlYxWGhKYjhFWHNveFBYZzhnOHZSdm5aU3U4dEFxMWdWazUtdWlxbFhHYzJDejJBUU9XUXNCTHR4b0pHeHZHcnBwUUxDd2o2RlVzemluOXFKZmxvakw3cXFoZjg2YUo0RHo5Vm54OFE5UWN2R21xTFVtTDZHYTQwTFdSUjJqUzgwY0F1U3hMcUNYUGFqZTYwUXd4eW9ucnlRT1doRVM4R0R1akYzZnp4bjlvOGYzOFBSeVcyNjhVVjBPUzJzYkHSAeMBQVVfeXFMT3VsTEJIRGtCRnBSM1diUzJLRVRyV21kbzV1YnNsWm93V0pyWTR6d083UlFYZVFnSVpaWWl1LWpkYzVKaDlCcFE4ZHNNbTUxVUM4cGROZTBSOHIxVUNzaDB1MkhuT0xLZ05HYnpvTTBiRHp0TFZ0OTY2RVhTeDE3WVpsWUptRjZoMWJsLTltR1VWNjNpc1lZZEhObjFBdGRMWW1CdHVsSm9UTmVkeU5SNmJqdFdKT2RqVzRxclhSY2treDBsMXU5UmdqaWZDOVZzdWhkUzJTZUlxaDIzTDc5Ykkybkk?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792440000
     },
     {
-      "titulo": "Astronomers discover a ghostly green star unlike any known before",
-      "resumo": "Astronomers have uncovered a surprising rainbow of dead stars, including the first known star that would appear genuinely green to human eyes. Researchers found that white dwarfs can glow in unexpected shades of pink, purple, yellow, and cy",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792405563
-    },
-    {
-      "titulo": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-      "resumo": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibi",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792404152
-    },
-    {
-      "titulo": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-      "resumo": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery cha",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792330641
-    },
-    {
-      "titulo": "Two monster black holes could collide in just 100 years",
-      "resumo": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a seco",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792324998
-    },
-    {
-      "titulo": "Scientists who discovered a third form of magnetism win major physics prize",
-      "resumo": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new front",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792316504
-    },
-    {
-      "titulo": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
-      "resumo": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific experiments to the Intern",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792292555
-    },
-    {
-      "titulo": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-      "resumo": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792243693
-    },
-    {
-      "titulo": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
-      "resumo": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792240009
-    },
-    {
-      "titulo": "SpaceX just delivered some very strange cargo to the International Space Station",
-      "resumo": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these experiments could unlock ne",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792194718
-    },
-    {
-      "titulo": "James Webb reveals a strange bulge in an alien planet's atmosphere",
-      "resumo": "Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided. Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribut",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792193249
-    },
-    {
-      "titulo": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
-      "resumo": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792153972
-    },
-    {
-      "titulo": "A quantum highway just one atom high could transform superconductors",
-      "resumo": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control over quantum motion cou",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792124521
-    },
-    {
-      "titulo": "As contribuições da Astronomia para a formação de Calendários",
-      "resumo": "Palestra no IAG-USP, em formato presencial e on-line, vai apresentar como diferentes povos, baseados em ciclos astronômicos, definiram e regraram as bases de seus próprios calendários",
-      "link": "https://agencia.fapesp.br/as-contribuicoes-da-astronomia-para-a-formacao-de-calendarios/59428",
-      "fonte": "Agência FAPESP",
-      "categoria": "Ciência",
-      "timestamp": 0
-    },
-    {
-      "titulo": "Desmistificando a radioatividade",
-      "resumo": "Oficina de física do IFGW-Unicamp, gratuita e on-line, vai tratar de temas que contemplam desde a radiação em diagnósticos de saúde até o acidente com o césio-137 em Goiânia",
-      "link": "https://agencia.fapesp.br/desmistificando-a-radioatividade/59427",
-      "fonte": "Agência FAPESP",
-      "categoria": "Ciência",
-      "timestamp": 0
-    },
-    {
-      "titulo": "UFMG lança chamada pública para projetos em mobilidade veicular inteligente",
-      "resumo": "Proposta deverá ser submetida por uma instituição de ciência e tecnologia (ICT) pública ou privada, sem fins lucrativos, localizada no Brasil, em parceria com empresas do setor automotivo",
-      "link": "https://agencia.fapesp.br/ufmg-lanca-chamada-publica-para-projetos-em-mobilidade-veicular-inteligente/59426",
-      "fonte": "Agência FAPESP",
-      "categoria": "Ciência",
-      "timestamp": 0
-    },
-    {
-      "titulo": "MIT desenvolve ferramenta baseada em IA para testar modelos de negócios",
-      "resumo": "Sistema combina pesquisas de mercado e simulação de clientes para validar viabilidade comercial de inovações em tempo recorde",
-      "link": "https://pesquisaparainovacao.fapesp.br/mit_desenvolve_ferramenta_baseada_em_ia_para_testar_modelos_de_negocios/4164",
-      "fonte": "Agência FAPESP",
-      "categoria": "Ciência",
-      "timestamp": 0
-    },
-    {
-      "titulo": "Plataforma rastreia sinais corporais para investigar origens dos transtornos mentais",
-      "resumo": "Equipamento instalado em São Paulo e Porto Alegre monitora cérebro, olhar e respostas fisiológicas de crianças durante tarefas do cotidiano. Projeto é conduzido pelo Centro de Pesquisa e Inovação em Saúde Mental",
-      "link": "https://agencia.fapesp.br/plataforma-rastreia-sinais-corporais-para-investigar-origens-dos-transtornos-mentais/59423",
-      "fonte": "Agência FAPESP",
-      "categoria": "Ciência",
-      "timestamp": 0
-    },
-    {
-      "titulo": "Investimento da FAPESP em pesquisa cresce 30% em 2025",
-      "resumo": "Relatório de Atividades destaca a contratação de 15,9 mil novos projetos e a expansão de programas voltados a políticas públicas, inovação e ciência básica",
-      "link": "https://agencia.fapesp.br/investimento-da-fapesp-em-pesquisa-cresce-30-em-2025/59421",
-      "fonte": "Agência FAPESP",
-      "categoria": "Ciência",
-      "timestamp": 0
-    },
-    {
-      "titulo": "Três em cada dez municípios brasileiros não têm plano de contingência contra desastres climáticos",
-      "resumo": "Estudo revela que 37% das cidades também não possuem sistema próprio de alerta; falta de verba, equipes reduzidas e baixa participação popular são os principais gargalos",
-      "link": "https://agencia.fapesp.br/tres-em-cada-dez-municipios-brasileiros-nao-tem-plano-de-contingencia-contra-desastres-climaticos/59420",
-      "fonte": "Agência FAPESP",
-      "categoria": "Ciência",
-      "timestamp": 0
+      "titulo": "Agin e Incubadora articulam participação da UECE no Siará Tech Summit 2026 - Universidade Estadual do Ceará",
+      "resumo": "Agin e Incubadora articulam participação da UECE no Siará Tech Summit 2026  Universidade Estadual do Ceará",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3FmSGt6S0QyOGJqY0wwbktHdGphMkxSLTZBVnpvN0lyNWJGZnVQQmx5QXFpeXNTVThoX1lvTC1qdG1rMVNUOGgwSWZhVlpfQVZPZVphd3VIdmZEZ242eVpLYXhqREptWGlVUkpPVWlUZ3ZwNzdpQ0JGOXdkdFlJd3lEcXM5ZkRMQlJqOVpLclY1TjRfNk4xanpmVy11cWZ2alNoLVFWQQ?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792437060
     }
   ]
 }
