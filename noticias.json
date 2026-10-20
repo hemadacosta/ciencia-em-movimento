@@ -1,1 +1,349 @@
-{"atualizado_em": null, "noticias": []}
+{
+  "atualizado_em": "2026-10-20T20:22:30.052055+00:00",
+  "noticias": [
+    {
+      "titulo": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "resumo": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electri",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792519893
+    },
+    {
+      "titulo": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "resumo": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tun",
+      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792512155
+    },
+    {
+      "titulo": "NASA Provides Progress Update on Moon Base Rovers",
+      "resumo": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospec",
+      "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792508410
+    },
+    {
+      "titulo": "Webb Captures Stellar Jets",
+      "resumo": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about ",
+      "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792507449
+    },
+    {
+      "titulo": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+      "resumo": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan ",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792506102
+    },
+    {
+      "titulo": "Scientists finally uncover why statins can cause muscle pain",
+      "resumo": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using advance",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792501256
+    },
+    {
+      "titulo": "Hurricane warning maps are improving, but a dangerous problem remains",
+      "resumo": "A new study reveals that improved hurricane forecast graphics may help people identify threatened areas without making them more likely to recognize the danger or take protective action. Researchers also found that a widespread misunderstan",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792500591
+    },
+    {
+      "titulo": "Astronomers uncover new secrets of the Universe’s first five minutes",
+      "resumo": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one of the world’s most p",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792499655
+    },
+    {
+      "titulo": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+      "resumo": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previou",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792498844
+    },
+    {
+      "titulo": "Your aging brain may be trading memory for something more valuable",
+      "resumo": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could be an evolutionary ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792495882
+    },
+    {
+      "titulo": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
+      "resumo": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers an",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792489955
+    },
+    {
+      "titulo": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
+      "resumo": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary im",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792477075
+    },
+    {
+      "titulo": "Scientists discover a surprising link between vitamin C and cancer survival",
+      "resumo": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promi",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792470095
+    },
+    {
+      "titulo": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "resumo": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascin",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792469100
+    },
+    {
+      "titulo": "The Human Fingerprint on Earth’s Water Cycle",
+      "resumo": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792468860
+    },
+    {
+      "titulo": "Scientists reach the ultimate quantum limit on a surface",
+      "resumo": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over mol",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792465361
+    },
+    {
+      "titulo": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
+      "resumo": "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled res",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792462980
+    },
+    {
+      "titulo": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+      "resumo": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equin",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792459298
+    },
+    {
+      "titulo": "NASA Improves Shock, Vibration Analysis",
+      "resumo": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresse",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792438112
+    },
+    {
+      "titulo": "Software",
+      "resumo": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copi",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792433500
+    },
+    {
+      "titulo": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+      "resumo": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by seve",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792415358
+    },
+    {
+      "titulo": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+      "resumo": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new wa",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792414622
+    },
+    {
+      "titulo": "Something strange is happening beneath a volcano near 2 million people",
+      "resumo": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792413309
+    },
+    {
+      "titulo": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+      "resumo": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and f",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792409006
+    },
+    {
+      "titulo": "Astronomers discover a ghostly green star unlike any known before",
+      "resumo": "Astronomers have uncovered a surprising rainbow of dead stars, including the first known star that would appear genuinely green to human eyes. Researchers found that white dwarfs can glow in unexpected shades of pink, purple, yellow, and cy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792405563
+    },
+    {
+      "titulo": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+      "resumo": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibi",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1792404152
+    },
+    {
+      "titulo": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+      "resumo": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery cha",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792330641
+    },
+    {
+      "titulo": "Two monster black holes could collide in just 100 years",
+      "resumo": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a seco",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792324998
+    },
+    {
+      "titulo": "Scientists who discovered a third form of magnetism win major physics prize",
+      "resumo": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new front",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792316504
+    },
+    {
+      "titulo": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
+      "resumo": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific experiments to the Intern",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792292555
+    },
+    {
+      "titulo": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+      "resumo": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792243693
+    },
+    {
+      "titulo": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+      "resumo": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792240009
+    },
+    {
+      "titulo": "SpaceX just delivered some very strange cargo to the International Space Station",
+      "resumo": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these experiments could unlock ne",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792194718
+    },
+    {
+      "titulo": "James Webb reveals a strange bulge in an alien planet's atmosphere",
+      "resumo": "Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided. Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribut",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792193249
+    },
+    {
+      "titulo": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
+      "resumo": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792153972
+    },
+    {
+      "titulo": "A quantum highway just one atom high could transform superconductors",
+      "resumo": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control over quantum motion cou",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792124521
+    },
+    {
+      "titulo": "As contribuições da Astronomia para a formação de Calendários",
+      "resumo": "Palestra no IAG-USP, em formato presencial e on-line, vai apresentar como diferentes povos, baseados em ciclos astronômicos, definiram e regraram as bases de seus próprios calendários",
+      "link": "https://agencia.fapesp.br/as-contribuicoes-da-astronomia-para-a-formacao-de-calendarios/59428",
+      "fonte": "Agência FAPESP",
+      "categoria": "Ciência",
+      "timestamp": 0
+    },
+    {
+      "titulo": "Desmistificando a radioatividade",
+      "resumo": "Oficina de física do IFGW-Unicamp, gratuita e on-line, vai tratar de temas que contemplam desde a radiação em diagnósticos de saúde até o acidente com o césio-137 em Goiânia",
+      "link": "https://agencia.fapesp.br/desmistificando-a-radioatividade/59427",
+      "fonte": "Agência FAPESP",
+      "categoria": "Ciência",
+      "timestamp": 0
+    },
+    {
+      "titulo": "UFMG lança chamada pública para projetos em mobilidade veicular inteligente",
+      "resumo": "Proposta deverá ser submetida por uma instituição de ciência e tecnologia (ICT) pública ou privada, sem fins lucrativos, localizada no Brasil, em parceria com empresas do setor automotivo",
+      "link": "https://agencia.fapesp.br/ufmg-lanca-chamada-publica-para-projetos-em-mobilidade-veicular-inteligente/59426",
+      "fonte": "Agência FAPESP",
+      "categoria": "Ciência",
+      "timestamp": 0
+    },
+    {
+      "titulo": "MIT desenvolve ferramenta baseada em IA para testar modelos de negócios",
+      "resumo": "Sistema combina pesquisas de mercado e simulação de clientes para validar viabilidade comercial de inovações em tempo recorde",
+      "link": "https://pesquisaparainovacao.fapesp.br/mit_desenvolve_ferramenta_baseada_em_ia_para_testar_modelos_de_negocios/4164",
+      "fonte": "Agência FAPESP",
+      "categoria": "Ciência",
+      "timestamp": 0
+    },
+    {
+      "titulo": "Plataforma rastreia sinais corporais para investigar origens dos transtornos mentais",
+      "resumo": "Equipamento instalado em São Paulo e Porto Alegre monitora cérebro, olhar e respostas fisiológicas de crianças durante tarefas do cotidiano. Projeto é conduzido pelo Centro de Pesquisa e Inovação em Saúde Mental",
+      "link": "https://agencia.fapesp.br/plataforma-rastreia-sinais-corporais-para-investigar-origens-dos-transtornos-mentais/59423",
+      "fonte": "Agência FAPESP",
+      "categoria": "Ciência",
+      "timestamp": 0
+    },
+    {
+      "titulo": "Investimento da FAPESP em pesquisa cresce 30% em 2025",
+      "resumo": "Relatório de Atividades destaca a contratação de 15,9 mil novos projetos e a expansão de programas voltados a políticas públicas, inovação e ciência básica",
+      "link": "https://agencia.fapesp.br/investimento-da-fapesp-em-pesquisa-cresce-30-em-2025/59421",
+      "fonte": "Agência FAPESP",
+      "categoria": "Ciência",
+      "timestamp": 0
+    },
+    {
+      "titulo": "Três em cada dez municípios brasileiros não têm plano de contingência contra desastres climáticos",
+      "resumo": "Estudo revela que 37% das cidades também não possuem sistema próprio de alerta; falta de verba, equipes reduzidas e baixa participação popular são os principais gargalos",
+      "link": "https://agencia.fapesp.br/tres-em-cada-dez-municipios-brasileiros-nao-tem-plano-de-contingencia-contra-desastres-climaticos/59420",
+      "fonte": "Agência FAPESP",
+      "categoria": "Ciência",
+      "timestamp": 0
+    }
+  ]
+}
