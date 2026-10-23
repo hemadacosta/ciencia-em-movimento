@@ -1,6 +1,285 @@
 {
-  "atualizado_em": "2026-10-22T14:30:31.602046+00:00",
+  "atualizado_em": "2026-10-23T14:13:28.242760+00:00",
   "noticias": [
+    {
+      "titulo": "Projeto analisa benefícios e ameças da IA para a cibersegurança - O Perobal - UEL",
+      "resumo": "Projeto analisa benefícios e ameças da IA para a cibersegurança  O Perobal - UEL",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckNHRFRlSE5YVnhVZXdaeUtnQzM3RUQxRE9wV0QxYkZtQTBCb3pIbDV4TVlFTEkwWWtvZU5Ud3l0TlY1YmdNbzl5d2dXdG9VeXl4YmRjRlNFWEVDUVZMMzRuRjd5ZUN3SFR3b21EcGtKa3V5NVRNcEdjd3hIdW5qVGVjWXFVSXVMemRKTWNZVGtRVXh2akprTURnZ3pRVXhsR0xCbUVmcGI3Znc?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792759440
+    },
+    {
+      "titulo": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "resumo": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792754599
+    },
+    {
+      "titulo": "Dental implants can hijack your immune system, scientists discover",
+      "resumo": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792753948
+    },
+    {
+      "titulo": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "resumo": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792753345
+    },
+    {
+      "titulo": "MIT scientists build a tiny robot that swims using living muscle cells",
+      "resumo": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "en",
+      "timestamp": 1792751636
+    },
+    {
+      "titulo": "A tiny defect in a crystal reveals a big quantum surprise",
+      "resumo": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mec",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "en",
+      "timestamp": 1792750975
+    },
+    {
+      "titulo": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "resumo": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792750211
+    },
+    {
+      "titulo": "Prevenir para ser sustentável: livro propõe novo olhar para planos de saúde - Movimento Econômico",
+      "resumo": "Prevenir para ser sustentável: livro propõe novo olhar para planos de saúde  Movimento Econômico",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmJ2VEk5RDJVNWhEa3ZINFZIWGY2bU8wYWNqMzBsYUNzQXZRMVJ0TnRENWJSaF9DS3hkYlhCWTV6TnNNS3VrdmRyRE4zWDhrTWQ1TWhFamlOSDRVUXdaSGVLYllReThfZ0tZUDFyV2dUVkpUZDBMYnNobFhGdlU4WEl4OW90YlZaWEVFeW50TXc0bjFCQ1d5THNublpIUm9OT04wanB6SXZubzduVk1XOURPZFRVYnkyOUw5Z1NfUmlZcmFGMlBuX1NyaTdJX3M?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792749574
+    },
+    {
+      "titulo": "Scientists discover a hidden messaging system deep inside the brain",
+      "resumo": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted me",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792744102
+    },
+    {
+      "titulo": "O jornal do Brasil em Portugal - DN Brasil",
+      "resumo": "O jornal do Brasil em Portugal  DN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYXpZdUxpRWRRVGNMV0duOXJfZTlITldjWG9oX0FfMnN1ZEVGWW1GRVZZbm1CQkdjdWdET2d4WWEyVE9zY1FjMWVtMTBxYnNLMy11ZnhhcU94VUplR0ZkRHZnOXVuUTlTRm54SGtQYUlZT1d0NExiTmQ0ZXBud0pBTXc4ZG1HcHdIMFllNTRla0hPc19Gc1dUOGx4bGdZYUdnVm5GWEhnRlRjSV9iNkFGOV9UUk9hVTRuQVd3ZTZQVmFfQmxITVZ1cHdWekdUTVJHckZWdm90MA?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792738800
+    },
+    {
+      "titulo": "Dois ambientes: Lula mira metas climáticas e desmatamento zero, enquanto Flávio propõe incentivos e flexibilização - O GLOBO",
+      "resumo": "Dois ambientes: Lula mira metas climáticas e desmatamento zero, enquanto Flávio propõe incentivos e flexibilização  O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMUZvLVJrU1J1MGgzWTA2Y0FDc0l5c2M4OGUxOUJ2TmQxSjV6bUgxUTJyRWN5bElXZG14dy03TE9RaDhSaWh2d1Z4VUd4VkVVby11VUJyNnFoYVNtR0ppTDlkbUFfaWlZTGRwLUVFUkRJRmdoZ05ZN0JYMENIM0tNaXAtdjJIWjhSNUgxWF9sNEZ0X2RZbWYtY0ktaXRJYlEycFVrS1puYXJQeG4yTWFjbjRxYWFHQzdjNFNJcGdCcTRpM3dBS2RIY1FCVVRPVW1haVdsMTV2Z2dEanU0MGM5OHBzRzBZQkZudlJ0LUhKSm5jeERUNTA3MzBpcFpHV0oyclZQYU1HU19OSVphc2FYcVF5NkEtOWdJdWJ0NmtOUdIBnwJBVV95cUxNMUZvLVJrU1J1MGgzWTA2Y0FDc0l5c2M4OGUxOUJ2TmQxSjV6bUgxUTJyRWN5bElXZG14dy03TE9RaDhSaWh2d1Z4VUd4VkVVby11VUJyNnFoYVNtR0ppTDlkbUFfaWlZTGRwLUVFUkRJRmdoZ05ZN0JYMENIM0tNaXAtdjJIWjhSNUgxWF9sNEZ0X2RZbWYtY0ktaXRJYlEycFVrS1puYXJQeG4yTWFjbjRxYWFHQzdjNFNJcGdCcTRpM3dBS2RIY1FCVVRPVW1haVdsMTV2Z2dEanU0MGM5OHBzRzBZQkZudlJ0LUhKSm5jeERUNTA3MzBpcFpHV0oyclZQYU1HU19OSVphc2FYcVF5NkEtOWdJdWJ0NmtOUQ?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792737000
+    },
+    {
+      "titulo": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+      "resumo": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792728300
+    },
+    {
+      "titulo": "El Niño Then and Now",
+      "resumo": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "en",
+      "timestamp": 1792728000
+    },
+    {
+      "titulo": "Brasil precisa ampliar investimentos em ciência para enfrentar pandemias e melhorar saúde pública - Jornal Somos",
+      "resumo": "Brasil precisa ampliar investimentos em ciência para enfrentar pandemias e melhorar saúde pública  Jornal Somos",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaXRTMzRzT2RHQ3JSbkNuaXRhOGFLMk42SjJIVUd1M2VJRU1xbXNTbWZUaU1OaS0zSEM1UlNLWHFmaHl2UzlVRk5sTWk2ZzBvUVAyNHAya3dlNGVacENYeUpOazlVelJ5RlBoWlFNUWt5YVdQUmR6bWVaQjBxWkMwU0ZEU2V0VnExR2dyclBvX2R5dC1LTmQwNEd6YnRMeHdTLXN3ZEpVcEJkc2M3d3RBeXdtR0VTQmZOR3ZBOTNscEZlcGZnMEtZUXRDbXlQZ21WdW0zNXh2Y2tUd2hCS2dzVzh3?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792714741
+    },
+    {
+      "titulo": "Aliados de Flávio Bolsonaro defendem fusão de Meio Ambiente à Infraestrutura, caso eleito - Estadão",
+      "resumo": "Aliados de Flávio Bolsonaro defendem fusão de Meio Ambiente à Infraestrutura, caso eleito  Estadão",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUVrcEJ0RUVDSXRJU2xjbWkySTc4ZC1HdFQ5OUdhbHhTYW90NXdMQjdHb2V1QlpRZEZDZlQ2dkZJUV8yaEpiQU5rNjJ2cW5pRWZDV1VxU3A5RUFzdWlRWU1tOEVOSmFPMkpqZFd0dUxXTWcyMkRzZy1mek45S2xOelFvUWRQcGl0VkZxUVNldTVyME5rTG9jd3EyZ0N3WEhzQVpIcHlkNzBDRXZoSEQxWFpUVnNTV2p3WVBzSGUxVGVSbjTSAcgBQVVfeXFMUFd3dmRHNlkzMmtIdVlrNlUxTWV4RDRxRlI0dHRuR2NWSHJudm5pV3htVmM3NWNOSXMzNnMyZWNnbmRhN1FlR1UtRk5CU1lUU1hDQ0pONUFFdUJrc2JDMWx6OVJtTE40WkstaHVhdmZQOG9fek5rMk15RDFTcm1HU0ZEWjZTSEtlWE5SUTlZLXhZSHpNODVFUzM3MDBTYkNadlExMmlQQmVZTFR0bXhKUWRhRFdFUDNWQlMwbC1HVDUySnhJallFNVk?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792700687
+    },
+    {
+      "titulo": "Unificar a direção organizacional e operacional e melhorar a eficácia da implementação de tarefas de inovação na Universidade Thai Nguyen. - Vietnam.vn",
+      "resumo": "Unificar a direção organizacional e operacional e melhorar a eficácia da implementação de tarefas de inovação na Universidade Thai Nguyen.  Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdDVGOXhFVFpmZmg5Y2N2cEgwZ0s4ODBoT185bFJxNG5Ub3h6UTh5ek5DRFZyOXp2cllvS255ZVhKZUU4cFdjTWI3SzVod3B0X0ZQb3VMb2VCOVNhT2s5VkpfM0ZVVk5CUkxuV2pjSGlBTU5UXzV0SmtrZzNfTHlHZ1M0REs1VVRwN2VldUVwbWtKZC1FT29lbHNtbk1YSm9TaEZxbHk3ZmxrR3dpc2tHc3UtWXJJd1RFQlE0di1NVEVmYXRHRFUta1NCbXVBcDJDR0V2LWluYUlYcHJpbFdqbGlCRFVVdw?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792700103
+    },
+    {
+      "titulo": "Diretora do Ministério da Inovação visita Semana de Ciência e Tecnologia e destaca ações de Campos - Campos 24Horas | Seu jornal na internet!",
+      "resumo": "Diretora do Ministério da Inovação visita Semana de Ciência e Tecnologia e destaca ações de Campos  Campos 24Horas | Seu jornal na internet!",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTI3elhFeVpIUWIxTWlYYWwwTE4tQzJmZ2N2RUhDdC1zX0lwSHFRcEZqZ2l5ZGZzR1VqdUkwcWlteFVXR3F5R1ZZelIxVS1QTDZXVGFUZzdSWlNzSGl5UjFEaHpLWWhrd3ZQVkJSRXdUaTdVMnVubGFZbmU2LW5GM0lqbExEaXBnLUtfUzk4dDJhTXRhRDdCa2E4TTBnVXpXYndHUHZ3RlZWczMzTW9IU0diSTZqbkhieVhNUnpoYWl6UV92UC12bzYxWTVySFkz?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792699511
+    },
+    {
+      "titulo": "Da agricultura familiar à eficiência energética: Congresso de Iniciação Científica destaca contribuição à sociedade - Jornal da Unicamp",
+      "resumo": "Da agricultura familiar à eficiência energética: Congresso de Iniciação Científica destaca contribuição à sociedade  Jornal da Unicamp",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQk5sTEh1eXU2aGd0Q0RkNW9BNXdfMVRLX0pvdGIxYzdacWtSV0xSODJJZWxBMVV3QXROZ3RObmZiVFJfM0I4RVl4ekdoNlhnOXdDOExNOTh6ZWlqblY3UkN0R1lnZXY3U2xVMmw1YlFOOXpVbjlzblh4RG9Pd2NtSUJvcDg3S3EwdjBjZGxPbFA4TXFaMGJMQUhaTGpBMlloQmZFNGpRVHotb1BFWDdjU3JsNTZ5M19ZcUJTSDZpakg5cUN1V0FPdF9PQjRXRjh6My1ZWDJ4X20yZFFsci1sdDJxZXhsam1jZXl5b2pLTElVc28?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792699363
+    },
+    {
+      "titulo": "Meio ambiente: veja o que Lula e Flávio Bolsonaro prometem e o que já existe - Gazeta do Paraná",
+      "resumo": "Meio ambiente: veja o que Lula e Flávio Bolsonaro prometem e o que já existe  Gazeta do Paraná",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjBlaHlNVkNzUmtSbGJCcDJOSXk4VGh5SnBsbldsSklDM3VqQ0NNTVA2b241OTZsd09IcVpsYXRwTXEwOXBHU3lKUVRBVEpTZkdvRXVIekFrTkI0Mm1RMVM3M19LYWl5c2htMk9QS2UzQ0xRMmtrdUJORlBKSHlUS1VwYjBpNldMX1hwZTdXMHUwNWhEcHBYYVdKWjBodEV6VTM0Qy1Ld1JQTEw5SmQxZk5lUQ?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792698208
+    },
+    {
+      "titulo": "UFMA inaugura novos laboratórios de Química para fortalecer ensino e pesquisa científica - Universidade Federal do Maranhão",
+      "resumo": "UFMA inaugura novos laboratórios de Química para fortalecer ensino e pesquisa científica  Universidade Federal do Maranhão",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnd0TDZfMHRXeFd2ZlB1VFNNU0ctMWVVZWpTNjlhdkN5eVFjdW82QkNqRlZ5ajZPcTZTWWNBSE5FbVUxRnM2V2ZqT3hQTUJfdE1xZzBnVW5pMVItY0ZzeEhrdjhZc3VSd2xYLXYwMnM3Nm1kT0ZOVzR2SVd0QjlPV3lfRnBCXzNMcmw4aHZORS05RW1tdGxTQ1lCN183RDQ4MV91OGQ3X0xsSGtBaVpSNllUMUxMM2czYkRIRjhfNUx4RHRNV3ZseVpkbw?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792696980
+    },
+    {
+      "titulo": "Mulheres relatam barreiras para ocupar espaços na ciência - UFMG",
+      "resumo": "Mulheres relatam barreiras para ocupar espaços na ciência  UFMG",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWVEUXFDZHItTkh5UUl1M2pBbTA1VEdEbXJDWUhoUE1SS09FUFp6V3RGMlZhZXdxZHlSX3d1UGdzS0hQYjRqSS1ad2ZoWEJLZHhTcHBrYnR4VjdKcmt0UHNQaWZGdkg1ZklCaGt3YVlrVVBYN2NFZ0h5MDBQeV9WcVE2S0pxZkFVbDdWWk9IcmhhWURvQ3BqWXRoQ1Y0TGNoeTJGMW5MTXJlMHRhZ0thdkxRYw?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792696440
+    },
+    {
+      "titulo": "Inteligência artificial criada na USP permite conversar com mapas para investigar calor e desigualdades urbanas - Jornal da USP",
+      "resumo": "Inteligência artificial criada na USP permite conversar com mapas para investigar calor e desigualdades urbanas  Jornal da USP",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVjNRbldFb0FDWjFrclZYVTRObmRDVHRzcXhCbUM1c3JRZE8yQl9TMWQ5Q2llakJQMmFmeWZ1dnZBRldXTEM3bDJHQ3gzRGpXUGZrUkxzb3FOU2h5UU5FbmNzU2tRMmFBeFJKcUtNazZ5Z01aR2otbkdPMFhPV1lpV3N2Ums2OE1ZUW9mTDRZejNFekZzWVRnUDhPalJSRzNST0xFX3Fmd3RWdndZcGxPbUZYSVlGZEVvWGJhMXFSRFp4MzB0ZEFncXJnUVhMajFCUnI3ZVdHOE9DRWh5ellLTQ?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792696080
+    },
+    {
+      "titulo": "Uergs lança Prêmio que reconhece pesquisas e produções desenvolvidas na Universidade - UERGS - Universidade Estadual do Rio Grande do Sul",
+      "resumo": "Uergs lança Prêmio que reconhece pesquisas e produções desenvolvidas na Universidade  UERGS - Universidade Estadual do Rio Grande do Sul",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2RWVTNINFVYTjZYQlI3a2Rhc3dhaVRGZTRuYTlINVVoSUJ3OWtTckg2c2V0NENWWGZ2NjdxSC0tXzhnRTFGc3RFVzRZeVhNMmVHQk9RZFdFS0lURmJZSERaYlhYQ2YxTDlIUXZoOVlTaVhNUTA4U2Q1elF5SXZpNDVCcmFZeXNXemREc2toR2FZTGJlUnAxdGpab3VEUXlTVFdXMHRMSEplczlITkE?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792695985
+    },
+    {
+      "titulo": "Uma nova base de conhecimento para o Brasil - Exame",
+      "resumo": "Uma nova base de conhecimento para o Brasil  Exame",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTdsODFsQUlaZUpMSXFXOUdvV2pCaGNELVUtVWdSZUl2YmRPaVhSMjFDY1ZsS0RLd3BwNjBCa0JDZFBEQXNHVGV6NnMyU1JkOUR3VWpqaXVSYUhPU2ZSV3ozcjFVaGVaZVBxcFEyYmdwRldnem04V1lNcjQ3M28wT1VNMXhOYzNF?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792695004
+    },
+    {
+      "titulo": "Encontros de Iniciação Científica e Tecnológica da PUC-Campinas reúnem mais de 500 trabalhos de pesquisa - Portal PUC-Campinas",
+      "resumo": "Encontros de Iniciação Científica e Tecnológica da PUC-Campinas reúnem mais de 500 trabalhos de pesquisa  Portal PUC-Campinas",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU0Z2RnMzcnpQZENWVVEzRG9EOXdZS0Z1TzlIU0pDQ1hBUFM4dXZkSjY4eVpSbDNNV0E4WmV4c25FTm9hcHZBQTRjTENLTExCVl9oYnVOQUwtcnJHSzBRdzEtc3ZCeFFkVjBmTFE1SnVldWMxVU1hQkt5bXdlUi1pVlE2SDJCNkM4TWw4VDNCeUFycW1wM2NLNVpLT2k3Um5DQWw3WWEzUkFzckhkcXVic1dibzhCZGVMWThOYlFUUU1NcU1nVDFYblFYcUs1bExmYXFB?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792694515
+    },
+    {
+      "titulo": "SESI Lab terá entrada gratuita durante a Semana Nacional de Ciência e Tecnologia - Agência de Notícias da Indústria",
+      "resumo": "SESI Lab terá entrada gratuita durante a Semana Nacional de Ciência e Tecnologia  Agência de Notícias da Indústria",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeUNEUUx1dmdMVW14R1k2azVyZVJXSDhXdTZTZEpZbUpxZ0c2OWlHV2x5Tk1rclBTWm11ZXNzV3lRQ01FdHBmTzJMZG80QXo1X21iN05LRFJDR2NpSnpZRGpWYkFXbkJJRW5VWUhBT2FscGc3cEhoZlVzMHdUTGtmMkpQNlBLOG85NUcyQ2RBVWJfZnh3MzNVYllOMzF4WlZHc2hrbHlpSDBpdFVrVE4wMU9sTWhGNWg3RlRVNWVFYS1wOUxsN1dWbmExMFh2ckJpVjM4X0xEOW4?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792693006
+    },
+    {
+      "titulo": "Portal UFS - UFS sedia XVII Encontro Estadual de Química com foco nos impactos da Inteligência Artificial - Portal UFS",
+      "resumo": "Portal UFS - UFS sedia XVII Encontro Estadual de Química com foco nos impactos da Inteligência Artificial  Portal UFS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2VtT0dFMGVxc1dlV2tHeDFuZGFfUklWai1fRDhiSlhvbnZGRk5vWURmYU1JeWJSX3NvY3NIaENIeUJvRmxWdExHaHhiS0MySDVyTEwtRWt2b3U2QVF0RUFhMXJ2U2xUazhsNDJ0TDA3WThtRXdJbHdNekI3Snl3TWl6LTV1S0FHVjlIQ2EtZ0RuajhGS0p2MzBVVFI4ckZxTzhKNjNvTDJlbUt0bEdYX29Qd1QzR2hQVWo0RTJjUTk4X1NH?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792692000
+    },
+    {
+      "titulo": "Embrapa Meio Ambiente completa 44 anos com debate sobre diversidade alimentar e o papel dos microrganismos na agricultura - Embrapa",
+      "resumo": "Embrapa Meio Ambiente completa 44 anos com debate sobre diversidade alimentar e o papel dos microrganismos na agricultura  Embrapa",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNSjYzR01oel84VjlhNm1NRndrX0dITUE5NjFaTktxQmJzZUNYT2Z4NGZpVnF5aTY5dXNLdzZmc2tyXzhrbDcwYVhwcVBQVzJxekJxQmRFVElMMXROMURrQkRPSlRCMDJtMEx5Yk5NVTJhdlVVTFpjR1RZaUREUl9XWDFuYTAwd013dGpZOEMwMWtOa2MtU3R5RjlYNktkSHlUY0NIVU9ZVHhaSWZFQU9CVXRweVIySy1TMlZsRnRxUXNtUVhOTlFJaDVvc3ptbWpDOUN5UWw4MDFyQVJZamdZSFp4ZXZBc1RwVUNNWW54VXhrVlhCQmtfdXk5dDVSb3JUMmI3YWxReEdubGVYemlWWjEtXzl1eHB3cUppUjZyOVNIQ09ha1Y1MG1uLTRLdXVuY19nbw?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792687503
+    },
+    {
+      "titulo": "Pesquisa revela que IA aumenta carga de trabalho para 59% dos profissionais de tecnologia - Startups",
+      "resumo": "Pesquisa revela que IA aumenta carga de trabalho para 59% dos profissionais de tecnologia  Startups",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1RfeVpiQVJXcTI0RjJOdUFJbUZ2U0ZpeFU1bjV3dnRTSmlldzJxWXhqNmpXTTZsOWdEVGNoVGlxZktvc3VIRUtRcHlhN2tIODFDYlpEWWw2ek5wbXYzY25NelFJLU9nZ2NmRDhDZll5YURESmw2Tm42SXlMc3IyNVo4VFF0NG0tWE9zdDFlcmV3Y2ZJUUxfd3dCa3pDX3UyMmlUQmd5bm5VaUJwd2FvVkR0SmlDS2dFMEZyM2ZWamRJalJNZE1KTDZB?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792687260
+    },
+    {
+      "titulo": "Vacinação, divulgação científica e atividades culturais marcam o Fiocruz Pra Você 2026 – Instituto Gonçalo Moniz - Fiocruz Bahia",
+      "resumo": "Vacinação, divulgação científica e atividades culturais marcam o Fiocruz Pra Você 2026 – Instituto Gonçalo Moniz  Fiocruz Bahia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnYyZnltWjRhZEpieU9QWUQ2VklFV21uV1lyWDJ5QXVTSm5weC1kVEl4SG54Vk9hb2djUjlVZ3lrbWlhdTdvWFF3Z2FzTFQyRmxkZFZLTmdFODlqZmdhaGlYRVpiRm9seFB4VVpxWTd3TkwzVkVzVURtUVhTNWJVeWZ4TFV2dFo3d0hEZVJGYjE5Z1ZNbnVQdTJFQ1h6RjhJMlVXalpYSVJHZmFYZVRzNFl2QXdxQQ?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792680549
+    },
+    {
+      "titulo": "Bootcamp Woman: restam poucas vagas para a imersão em tecnologia, inovação e empreendedorismo para mulheres durante a Expotec 2026 - ClickPB",
+      "resumo": "Bootcamp Woman: restam poucas vagas para a imersão em tecnologia, inovação e empreendedorismo para mulheres durante a Expotec 2026  ClickPB",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORE83dUZnMkpzVDQyZkJKTlh1Q2Q3VW5uQkNaQ04yOUo5QjYycm9qaXpaeEhlYTY5bXNpdHdNdm1xTkJCRkpWQW1aLXJRZUdsMjZRVTlVNVViZkdJQzJucVJTbGdLNndDY2hzTnZ4Vl9CNDNzRU8xVThSSEQ4QkRFSg?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792680497
+    },
     {
       "titulo": "Portal UFS - UFS é a 6ª melhor universidade do Nordeste e tem onze cursos entre os 30 melhores do país no Ranking Universitário Folha 2026 - Portal UFS",
       "resumo": "Portal UFS - UFS é a 6ª melhor universidade do Nordeste e tem onze cursos entre os 30 melhores do país no Ranking Universitário Folha 2026  Portal UFS",
@@ -9,6 +288,15 @@
       "categoria": "Ciência e Pesquisa",
       "idioma": "pt",
       "timestamp": 1792677720
+    },
+    {
+      "titulo": "Conexão entre recursos marinhos e saúde ambiental e humana é pauta de webinário - inpo.org.br",
+      "resumo": "Conexão entre recursos marinhos e saúde ambiental e humana é pauta de webinário  inpo.org.br",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFhKSlJEejJ1NWNhVVN5ZG1vRU1NRHdrTHp1MERveldURTBjT0QzUkRERzZ5ZXNQUmczRmtPT081Sk1mN2xIbHUyWWJuLVUxRmhfLUZObnhKYmE0dS1hdFEzSHVEeG1aZlVPUTNfOUdxVmwzakNQaWhyb0IzZ2Jya0pwMmNfdktPSDlYSUtrdGJpZHFPT1o2MGVWYXpUSi1RVVE?oc=5",
+      "fonte": "Saúde e Pesquisa — Brasil",
+      "categoria": "Saúde",
+      "idioma": "pt",
+      "timestamp": 1792676897
     },
     {
       "titulo": "Carlos Madeiro: Plano de Flávio ao meio ambiente ignora mudanças climáticas e ataca ONGs - UOL Notícias",
@@ -29,42 +317,6 @@
       "timestamp": 1792671260
     },
     {
-      "titulo": "Birds are more afraid of women than men. Scientists have no idea why",
-      "resumo": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, r",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792670774
-    },
-    {
-      "titulo": "Oxford scientists discover how viruses build themselves without a blueprint",
-      "resumo": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecul",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792669325
-    },
-    {
-      "titulo": "A revolutionary new microscope could reveal the hidden machinery of life",
-      "resumo": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing scientists to examine ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792668649
-    },
-    {
-      "titulo": "Honey bees are bullying other bees, scientists discover",
-      "resumo": "Honeybees are aggressively pushing wild pollinators away from flowers, with scientists documenting how they chase off rivals and dominate valuable food sources. New research warns that rising temperatures and increasing honeybee populations",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231227.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792668044
-    },
-    {
       "titulo": "Inteligência Artificial desenvolvida na UFSM é finalista do 1º Prêmio Estadual de Educação Fiscal - UFSM – Universidade Federal de Santa Maria",
       "resumo": "Inteligência Artificial desenvolvida na UFSM é finalista do 1º Prêmio Estadual de Educação Fiscal  UFSM – Universidade Federal de Santa Maria",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMjY1RnJuaFJGaDc1azNxTmZJYVk1a2JOVG9jemJGZ0hNeVdSc3FuanhLUE5yVjVHcnl6Qm9Qa1dKUllDQWUtckcwY1JRcTJTeXhZcnI0aXVlMWUzM1J3a0xOMUFVREw5R1B3T1FBNmQzbFE1c3Z3TjFnSHBMSnd5V0NkY2c2NDRwY0xienlyVTM0VHJNdzc5OWpWRTVXQ0xSU3RiUzRJelRqQVFScDJPYmJEZDdENGpYeHlBRUNWdjZMcUhxbkxoQTRvdHBfcjhQeEhsV254SUNkbTcxV2QwYlp2SHQ5Y3dxZi1mYW45QlZpcEswUDN1Vk5qRUk3bVhBaGh3YTk5WQ?oc=5",
@@ -72,15 +324,6 @@
       "categoria": "Inteligência Artificial",
       "idioma": "pt",
       "timestamp": 1792667488
-    },
-    {
-      "titulo": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "resumo": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the se",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792667029
     },
     {
       "titulo": "Robôs e pesquisas escolares marcam abertura da Semana de Ciência e Tecnologia em Campos - J3News",
@@ -101,15 +344,6 @@
       "timestamp": 1792665300
     },
     {
-      "titulo": "Scientists discover a surprising secret behind the human brain’s wrinkles",
-      "resumo": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates. The secret lies in subtle changes to brain-building cells that slow neuron production, revealing new ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792663823
-    },
-    {
       "titulo": "IA ainda é pouco utilizada nos conselhos de administração, mostra pesquisa - Valor Econômico",
       "resumo": "IA ainda é pouco utilizada nos conselhos de administração, mostra pesquisa  Valor Econômico",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1Vic0E0QzlMT1ZTOVJ5aEphUVhEQzFnLVFDVkJXSXpKQTROR3ZCVVF4QU00ZEpOWUQ1bHp4V2Zqb1BOQlhTcVVhLTBTdTViRGJhd3VYZ0piMDhlQW9ZbnQwcnVwd2VLdjhjblNFYTZ3M2ZxZkpGUnU5ek42ZHBsTU03bHQxckhlS2RmQkxnWDdUODJ1MHRERDFXakZHeG9UVFVFSnpaNGphNzUtUUlrVzU1cjU3UndxQVRQTUc5UkZqZDc2OGZBUWF5TdIB2gFBVV95cUxPTGNjcG8tR2FqNUo5MF8wZDZOUklEQTF0LVk1Wm5ldUk5cWhpTXY1cXFrNF9sSVdPRXMyNF9Ga1h1U3VUZ2hHSUpsM1FEbUxkbFUzb3JfUncyMjh2V1BaSV9yRDVwbDNCR3UwMTVmc3JxVk9CdzFhM0RMMmNzZXNoVkZfMWRtb0J1a0t5a0dFQ1hBNzdlb1pQckkybmVQaUtqNzhfaTBWLUpPczQ4Z2N6a3U2MDNUM0xHR1pQNDJ0dmI3SV9fTF9YZS15WWJNbVo4UTJIcmtISzVFZw?oc=5",
@@ -128,31 +362,13 @@
       "timestamp": 1792651539
     },
     {
-      "titulo": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-      "resumo": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasci",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792641900
-    },
-    {
-      "titulo": "Fires Char New Guinea",
-      "resumo": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792641660
-    },
-    {
-      "titulo": "People are taking an unapproved weight-loss drug. AI found something surprising",
-      "resumo": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ fr",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792636621
+      "titulo": "Anubis Cultural 2026 aborda biodiversidade e mudanças climáticas em Salvador - CQCS",
+      "resumo": "Anubis Cultural 2026 aborda biodiversidade e mudanças climáticas em Salvador  CQCS",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0k4WS15dUpFbGxCSENpRHE5ak9KeUpQMUZURU1wN2hTSzV1SHJOeXhPdGtaaXBuaXQ5cVlYeGJrZlFVVG14RC1xRFNnMEJMR2tleHZsN0dvVW5sRGhsbm9jd3JGYjhnODk0b0UyX21MRS1INlZYZmFaUy04eG1oY3c5Y1B3RURWWU9mMlZ3WnA1MnVHY1BYZlNXZWRrR2tTTXN4LUtWc3Q?oc=5",
+      "fonte": "Ambiente e Clima — Brasil",
+      "categoria": "Meio Ambiente",
+      "idioma": "pt",
+      "timestamp": 1792638757
     },
     {
       "titulo": "Unemat participa da Semana Nacional de Ciência e Tecnologia com debates sobre equidade, inovação e educação climática - UNEMAT Sinop",
@@ -182,229 +398,13 @@
       "timestamp": 1792614780
     },
     {
-      "titulo": "Inteligência artificial redefine avaliação e estratégias de private equity aponta pesquisa da BDO - Brasil Inovador",
-      "resumo": "Inteligência artificial redefine avaliação e estratégias de private equity aponta pesquisa da BDO  Brasil Inovador",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVBHYjFkSE9Oa29HaFQ2SERHbUk0YnYxeUdISkQ4Y1FsYXFDcVNpSlJNMDhCa2xMR2VNWHdvVi1UdFdLekJvTGxReF9raXNHVTdBczgyd0lQVXdGM1g0bTc5QUdKY05ONE4za2xLS0J6TDVSRzl6S2U0X29sTzZvTjZOWk9VVlNhbndYYWpxRGZjYzVGbnpfRTZSX1NMejFsenJzUHFBTGZZbUpZYTZCak9SLWhUTGVzNXVFOTh0dDMtYi0taWZN?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792614614
-    },
-    {
-      "titulo": "Unioeste é palco do maior evento de ciência, tecnologia e conhecimento aberto à comunidade - Coluna do Meio",
-      "resumo": "Unioeste é palco do maior evento de ciência, tecnologia e conhecimento aberto à comunidade  Coluna do Meio",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHRaMlI0bEdxN0l2clRXei1HZUQxYlpSSTBZalRuMmk3ZFpVX2pVdGVkNlVINkxRbFo1ZHBmemxzTWZ5Q0JYdnFnbTNKLWNEb0o2ZTVzMmZpeEpRc1Ayc04tMFdOd29vTlJxcGVudEFOQ2ZZb0xDZW5xUXNuVmEyX1V6cmt3blJPdFQ1ZU9jMDlmRlJDdEsxQmIxbUNwWi1lUlRPNzI4Y1VPdlpuQUNESnNVUTVVRllvLVdKMEM5MXpsdDlyZnRfeQ?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792614300
-    },
-    {
-      "titulo": "Iniciativa da UFRJ facilita o desenvolvimento da infraestrutura científica no Brasil - Conexão UFRJ",
-      "resumo": "Iniciativa da UFRJ facilita o desenvolvimento da infraestrutura científica no Brasil  Conexão UFRJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEtGc0twUzhpSVpSazVCMUlhdklSQUwwWW40UUpzend0cGRrbUliVXltUXdOdjF5amlkWU9IQ0xPMVpmalRacW9EUGdST2JnVHdwNlhUT1l6RWZDbEZ1UGpJeUkxeU1tdUdvemJRbmhzSFRRbUxPS2lmVl9vZS1HMjJhYWxtM3dZTVk0SW5rX3hIVl9nVFNhMWtiTGlpV3RsYnBtYm1YRjMxQ3Vyc3MxaUMwb2ZtVXFF?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792613519
-    },
-    {
-      "titulo": "Unemat participa da Semana Nacional de Ciência e Tecnologia com debates sobre equidade, inovação e educação climática - UNEMAT - Universidade do Estado de Mato Grosso",
-      "resumo": "Unemat participa da Semana Nacional de Ciência e Tecnologia com debates sobre equidade, inovação e educação climática  UNEMAT - Universidade do Estado de Mato Grosso",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMlgzQ0l0YWl0ZnhkRjJTbElQbk1xaC0tQmY3RDNBYjk3X0lkLTNjZkdNRjNHNWJLTVZIVTJxMEFMSHo2V29UOTZXQ2c3MlBiYWJLWFBCM29rOFluQS03V2w1M1RfQlhoWG5HX0Zyc2RESmdHVmpwM3lpSzA3MjBObnZlOWU2OWpxZFdiSk9SQWd4cXNRUjJYWmRpVGI1NFQ1MXZlNlh3Wm0wTXZHaDQ3ZWlOMWhBUTJCc1Q0ZDl5TW5QeHREamthbXA0TGpHanl5eE9JYVNnaUJ5aUdIcTZZT213dmhZWnJURjkyMkd2NXVpLVJJ?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792613119
-    },
-    {
-      "titulo": "Andifes participa de anúncio de imunidade tributária para importações destinadas à pesquisa científica - Andifes",
-      "resumo": "Andifes participa de anúncio de imunidade tributária para importações destinadas à pesquisa científica  Andifes",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbFVhUDNlWEJSMjE0YnhjZHduZFVKQ1hNMHQ1Y1l6MWlZaDNoSTBtNGpxU1dQQmVwbjlTeFl6QjNYQ1p0dEwwZnlxN29CMXFSaV9XNXVMZ2MzSXd0U21aWWRqTEdEOXo1bkpQSmJUMmpPbUhNUkxVcjZ1VkFSSS1tMVk4QTdZN1NFZ3I0NmVDdjE0U0hxeHBfMVJVVl9oOFlLUWNjcWFRTWJ2Y3FLSGZmanBKa2hXUEI2MkRGcXE0bFBLVWZnV2xoMVFyckRqdU90YmE4QUlVNnc?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792611965
-    },
-    {
-      "titulo": "“Temos que pensar em uma saída para mais de 200 milhões de pessoas” - Comunica UFU",
-      "resumo": "“Temos que pensar em uma saída para mais de 200 milhões de pessoas”  Comunica UFU",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEtoc1V0Tmd0dUxZbE9Vd190WWJrSFp4WXFXNGFTYzhtWEtKeDU4SjM4U2gyOXdOQmMzbDA1dDBuQ2wwVzU3RGFtRk1mMVYwZmpxWTlmOVJTaDhKWVFtMUl4REZDWmNVaS05bFdkZksyRzgyNnhfbXQwTHFaTzNsNHMtd2x2eEdKbWhwLWVscFptcHJPNWxCNHowVmJ2T0ZzR041QjQtVzJKZw?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792611300
-    },
-    {
-      "titulo": "Importações para pesquisas das universidades federais podem contar com imunidade tributária, anuncia Ministério da Fazenda - Governo Federal",
-      "resumo": "Importações para pesquisas das universidades federais podem contar com imunidade tributária, anuncia Ministério da Fazenda  Governo Federal",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUFBTcFU4QkdoSkZIZEhtdVE1RlN2QlJWUlR3elEwa3pCS2ZNYTYyYUZfYS1kLVRJVTZVYzJhN2VVRXhPeFRYaHQ4N3BYT1BseUthNGRGREg1U2NBMEVPWHRKVEhJVnZWdkYwaUlxWHdSRC1rdTJfYjRoaXVRZGZjOHBHSjRMQVNpUE1iTklHa1l2Z1hoTEdCaXJRWk5RSE5vMG5KQ2VuNktUR3c1NldVUGhVODM5a01WTTNTZW9zOUpYWjlzVmhzTUxLVklLOE9ibWs1ZDJlY2Z6aEJCTE5IYlNGYnpmVVpzX3VfZHZ0NnVWMjVLVFhIWUhXSmJXdTJFZXZUNDdYMEQ?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792610520
-    },
-    {
-      "titulo": "Pibid Biologia leva discussões sobre ensino e ciência para Sinpete 2026 - Universidade Federal de Alagoas",
-      "resumo": "Pibid Biologia leva discussões sobre ensino e ciência para Sinpete 2026  Universidade Federal de Alagoas",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNODdrZmZQM0JRZE5CcmJpTVE4SDN0RnFqM25fWFE2dXhNeFhVNENDTlZIc25WZ1Q5ZXhBOVFvVzAtYnpIQmtSbHlPbDdhaHl4aGxUc0pRS2J2aktLYzh3WHV2MzZoanpQUDh3YU5UQU9qTnhIQWJLVlY2dG1SQlIxLXdNTlFkUk5JOHZSYTdsMHo0Qzg4UEoyd1lhNzl1ZWZXTTNjQW9QNUpFRTRoSTJWUWx4X3ZvYjBsNk5zYlF2QVk1MjdQWFE?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792609620
-    },
-    {
-      "titulo": "BNDES, BNB e Ministério do Meio Ambiente abrem 2º ciclo de apoio a projetos para recuperar a Caatinga - Banco do Nordeste",
-      "resumo": "BNDES, BNB e Ministério do Meio Ambiente abrem 2º ciclo de apoio a projetos para recuperar a Caatinga  Banco do Nordeste",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQWVJ0X2FrUUJwY1hQZWZON2x5TnAxNlpRN2JueTJRTUcyZlpqVjVtRFpoRmQ4aV9keWRxWHp1c01IZVZCbjNmNTV4VUVGTXBQTW1ia0g1dmh4eFIyY1RFQ2tkMEN0ek9mMmFyaEdPT2N5OURhWG5oeWs3Y2J0VThUeUNNUmVpY0lTc3VzQTkySWVVRGE3SjB0UnAxbExxSWpza2JIaFlaQmczREFWRV9veW1CdzYzeHhzUnJjZnBDMzU0b0E3LW5faTRyVTBBVEJJckJrWk13LVRPV0pYS0V1OWM3UkhlalZybXhIMkhEYUJheWR1VGlrYXZVLWxvRS1UU182cGxOUnUwc0ZBSkZOZXc1M2QwRHUyUVJ0dDdld1YwRGtXbG10M2FkaHNYLUE?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792609575
-    },
-    {
-      "titulo": "Prefeitura de Gurupi lança projetos de inovação social e segurança alimentar durante o UniSaberes 2026 - Agência Tocantins",
-      "resumo": "Prefeitura de Gurupi lança projetos de inovação social e segurança alimentar durante o UniSaberes 2026  Agência Tocantins",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcElOR2w1V01MbTV2UWFna1JRVWFINU9DY3JVRnhGdXdSOWFrcFVHNUVidzMtelVkOGxkOUdCNGU4UHJCTzhlQ3A0a1RIMXowazB4QkstTDNLejl2QUM1Vlp1UkhxTVRrd1B5ak9GXzk1WGxrYlhqSkhDZHFmQk9Jd1c5NVpaOE5EX0RmVU5qcFNtSDdtb2puaElENTVuWUV1UTFmNmNReHMwSndyMkFTcWpHMlY2eWQ4UUgxZzBYblJFWEtVdGc1eDZZTkZncUhZblRNN1VKQms1UXAtSGdYLUJSbmhjR0tZ?oc=5",
+      "titulo": "23ª Semana Nacional de Ciência e Tecnologia tem início em Cuiabá com programação voltada à pesquisa, inovação e cultura digital - plantaonews.com.br",
+      "resumo": "23ª Semana Nacional de Ciência e Tecnologia tem início em Cuiabá com programação voltada à pesquisa, inovação e cultura digital  plantaonews.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMmV3U3Rrbk5tMVJlNk5KZG5ESGg0QWxnbzVaUEJmSmtwSU54NEI2SmMtVG5IQ3JYRENRTTg0eTdhR3FOZVJFWkdsRFcwZHhDOERJbHNkRC1yc1YyMHU3N3BMemd2ZEEwS05YZFRHQ291ZXFmR2t5RzBzN2kwZ0VTQUdNQmhJSkItcVNNR1NXTDhRaFJudlBjeTRudlI0R1h3VmlZNjd5Zk9DMUVVVXdVbWRqbG1QeDQtUng4MlJjaVRYRkt4NlJKNXBTbF9KaGNYY3VJdFZLWnBMRHAzblVGRmowX2dLbWZHdmc?oc=5",
       "fonte": "Tecnologia e Inovação — Brasil",
       "categoria": "Tecnologia e Inovação",
       "idioma": "pt",
-      "timestamp": 1792608904
-    },
-    {
-      "titulo": "“Semana do Livro e da Biblioteca” na USP vai discutir inovação e futuro da pesquisa científica - Jornal da USP",
-      "resumo": "“Semana do Livro e da Biblioteca” na USP vai discutir inovação e futuro da pesquisa científica  Jornal da USP",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWNvWDVHLUM3TXhndGstUzR3Y2RHbE4xSGVYeVhGdnhDZUozTEFxNFgtS3ViNkd2YkJYMUlneVc0dUtUMEpGNFNuSFIzRXphM1MtMDZGNnZNdjlxdjZhUDZUY3d5a05IYWMxR3U3ZzJYM1R3aGVmaU1CM3JzdXJQNkdlekRHSnQtOU1CUGg2MEs0bnRSTkNiVjVWVlQwTExFN0duWDVZdTlMMDF0UEh2MkFtVnF1amJrZ2pyNkFpeTk0WG13cDk4?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792604520
-    },
-    {
-      "titulo": "USP em Bauru vai sediar centro de ciência, inovação e cuidados fonoaudiológicos no SUS - Jornal da USP",
-      "resumo": "USP em Bauru vai sediar centro de ciência, inovação e cuidados fonoaudiológicos no SUS  Jornal da USP",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdVYweVp2OWdfaHM2X1NPcVpOaFZRMXBGY3NpWVRyWDYweVdJM0Q5SDlBSnZReE8wSTQzQUs2UkRBMEFzdXQ5dUZGTHVXd0lzajFhQ2RxLWV1V2swYW9ZLXNYYWM5RXJsM1AtNktvaG5EcjBETkZndnZoOTZOZ0dZZTJFLWpYM0dnQVkxLUlUbFcwWDcyX3UzbVdTT1dBTExLMnJOQXRZbFh3N28zb3JkaHp0T1N1TmdEdEZnekpB?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792604280
-    },
-    {
-      "titulo": "IA na pesquisa acadêmica: novas ferramentas e uma velha questão metodológica - JOTA Info",
-      "resumo": "IA na pesquisa acadêmica: novas ferramentas e uma velha questão metodológica  JOTA Info",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY2dXTmZQYm11OHVIcjdJNVoweVYzVXZCWjhYdENnYV9qdDRPNF9acFFqNDdVRzh3OHZ6RXdiYkRxNUhiVm1vamlQUUxXY0o5UHlraXlGMUUxcWFFZ3NjX3l2c1lHckwwTWI0UHE1c3FtVlRMVU1Vb1R3b1lUbFkzWUo0bXozcGpQaGY0VDlocm1zR1dkcWRnU0ZaWE1tQTRGRUloN2hLY3dWUUlHUzJXamY3VjdRbXZXcndyMnJHRHZkZ1pRa1RKX3VkYlN3QjdtY25TQ3MySDA3eDFQNzJ3dQ?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792602619
-    },
-    {
-      "titulo": "Educação musical na era da inteligência artificial: implicações éticas e desafios para o ensino e a pesquisa em música - UERGS - Universidade Estadual do Rio Grande do Sul",
-      "resumo": "Educação musical na era da inteligência artificial: implicações éticas e desafios para o ensino e a pesquisa em música  UERGS - Universidade Estadual do Rio Grande do Sul",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkYzVTBQZGhIcDl4b3BlY0kxbXB3Wl9fM00wem5zTElZY2xwaWJPdDh4azJySjR3b0NuZlFLc0RFWjUzTHBWUTRKRHpjWHZmbVNwRzF0X3BPcHl3RUtqZ3hlX3kxZFJuSmF0bGp4OGFXUTB5cUhpendHSjFJVWZfdkYwQnNVSHRDZ2ozc181ZHJtRjJGaGE2bHZ2WTZxdlZKakxIWkkwOEdGNEh4UmxoblAyOVFFOGZUN1lMcHVsQzNrVEhmYnZTdmZVZ1dSSy1vSEJkSjFWVGVfZw?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792602296
-    },
-    {
-      "titulo": "Unioeste de Marechal Cândido Rondon promove o IV Encontro de Ensino, Pesquisa e Extensão em Educação Física - Coluna do Meio",
-      "resumo": "Unioeste de Marechal Cândido Rondon promove o IV Encontro de Ensino, Pesquisa e Extensão em Educação Física  Coluna do Meio",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFRDVkhPNEFuOFkwWXNGejlGTnhvS1EzV1hLeFlLV214R0ZjTWlkNVNpbGlIV3Y5OFFLOXR5djh0Ulp6dDhjX2tYMUNwU3ZOQjE3ZTVqT0FWQm5uQXRvME9id2hOQWhsd1dXTWx0QjNVSFpBdXdrTXFNS01Nb0V0a253N3ZVUVZrbTR0WHIxX1RfY3REY284WTVjR2drU0ZldzNwUzVYRk9iV0tUY2FaUms3QTlOaXJxMEFoMUEyUkI5emtCVG5NRkcyUlJYVXdLdTdNREtXRW1QSTd0bzlR?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792600440
-    },
-    {
-      "titulo": "ONU alerta sobre o agravamento das mudanças climáticas e aponta EUA como principal responsável - Tribuna do Sertão",
-      "resumo": "ONU alerta sobre o agravamento das mudanças climáticas e aponta EUA como principal responsável  Tribuna do Sertão",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUgzZGd5YXRNUXkzX24ycWRlRWJwUzNCYXdYLXpZSUh3bVFjRjYzVzhHN0V4V1lkX3VsaGpRd1NLLWFhSUwyakVzYXJZNGtHYVJpNXBYUHEzR1d3WThPWWRzNkJ1Tjg2Tkl5VGNHZWRLaFZjY2g3Ql9sdkpIcEt3RlBCM3hGUXZFNldmNjBmT1B4RW1hYUd2OGhXd0lDeC1Ed2tvc2hzMG1IeWhUYW05aFJCbHVqMlZzUzByNlpGQldsR2FrRW1LbjBQTVdtaGh4WVZQbjQ0QlljamdyWHlzb09DVS1aR3RFYlE?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792597980
-    },
-    {
-      "titulo": "Matemáticos criam associação para frear avanço da IA na pesquisa científica - CartaCapital",
-      "resumo": "Matemáticos criam associação para frear avanço da IA na pesquisa científica  CartaCapital",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWEtM2l2Ri03NE1SS1FiR2ZoWnozMEtYNnpObVdLb0R3OHRHY1NkQm9Sb1lxMVdlOWRkZFBjWV84eUhrVFhwejNXem1yWEI5VkhBbjBPQ2lmMEFlWHZNcDF5Tk5mY3JGSXVUOGdqRlpWVnMzZkNKSDJmWElXQWxZcTM5ZG1USG9NcTF5am5WNWswaW1oZ3RuX1g5dzEzV2hHRUtnZUlLVlRrMVNZZ2ZBWThXZTFBckZC?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792597320
-    },
-    {
-      "titulo": "OpenEvidence: a IA de US$ 15 bilhões que ganha espaço nos consultórios dos EUA - Exame",
-      "resumo": "OpenEvidence: a IA de US$ 15 bilhões que ganha espaço nos consultórios dos EUA  Exame",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1UxQmpkdEdoYmNXTjlOLWdMSjBtTjgwS1hDMnZxdmd2elRQUzhsbW83V25NaVNGUnNLbEk0NUFTdlhoS3ltZW4xZkh4d25tQU92cE9FcFV0U3Z1V0hkY2NVMFRENEVYVW1fcDg2SFRPR2duV0l2d2NXaVlUY0twS2RpdG1WWUljbVRFdjRVRGZpdmRRR0w0YUgzLUhQTTlUamVXTzNndFBsZ1AtQktXMUM1YXNHcS10aUtj?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792596424
-    },
-    {
-      "titulo": "Pesquisadores repatriados dizem temer corte de recursos e fuga de cérebros - Folha de S.Paulo",
-      "resumo": "Pesquisadores repatriados dizem temer corte de recursos e fuga de cérebros  Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZjNReFVHY0ZWeXJ1d1Z4M1RNaFgyNDNvQ0JPV0dINUY0Mk5hSVVvSGlRMzNWVkstVFhWOGQ1TmpPNjhYSGFwcXcxbDZDbGg2OGlLMTBZTEs5WTZfRTZWTTk1ZVB2SExaQnJRWHVfczlyMURWVk5DdUpRNnQ1NU84MjA5TTYxdXVzUFNrZVhnZl9wenhwaHZ3WGNjQ3ZqWHJJaWMxV3VwWnhWMFNjLWVHUzY2bDJIRHFWb2VEaURWS2JPM21Y?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792596000
-    },
-    {
-      "titulo": "Ação humana com fogo e desmatamento afeta mais Amazônia do que a seca, diz estudo na Nature - G1",
-      "resumo": "Ação humana com fogo e desmatamento afeta mais Amazônia do que a seca, diz estudo na Nature  G1",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkNMa01zVjRXV3RodTBEZG03SFZPQmk0UFpHTXBCTUlNOWZMM1RpZl80Q0VURTdKQzhtdURuUzdtM0FPaWI5RUpRSUt6QnU0dzdhSVo4YkVsUEFVRmtPNFVuZmlQTnU4RW5Ici1zeVVRNGcxZWJYcW82cUdrWjV6RTJaT1A0WGtiOGlLVHdQQXV3UC1NNXZOMmlocElZVThtQ0VDZm1BYkpfMnRTdjBTTklyWFNGREwxTlVXUDYwdUQwWFdKX2fSAdQBQVVfeXFMTUx3VW5JSWhzdElON25hV0RtT0o4aktBZW1tR2FadGw5RTE5YkJjNk56MVR6ekxrdVp5WnVxa2h6eDNnR01zVndEY3dTUllDWmhySV9rMkhUNUZNRDBoS1pBV0VndEhfZnlSem9QcGwtM0l3Y2hIVjV5YlllWlJFZFFmbzAtZVJiQjdncTFJVXFUYU50bTluSk13Mlh5LUpFME02bWJBUUlLRmhDWm9wS2xGdzJrREcxN1hHQjdMcVVJbnQ2VTB4NWs1RWJKSVcwdFEzUVI?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792594894
-    },
-    {
-      "titulo": "Unifor realiza IV Jornada de Estudos sobre Processos de Exclusão Social - Unifor",
-      "resumo": "Unifor realiza IV Jornada de Estudos sobre Processos de Exclusão Social  Unifor",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmdGS09EYld1LVpLYjZfc29ITjdJaXlGdDJ2U0pHX3AtcmVlUU9Qc1lUUUxXangyVkRpTUlDc1VMbm5zZ0JjLXM5X1J1Y2RfRS0tRWZDaGk5TzVZdzU4SWVjT0NZZXFIZkloRVh4R2VmOUF0SU1ScWpoZ1FFVXNYLXdPR25maWdWa1dkQ2ZkX2E5YWdGdFJ5YW14VFl4Rm9LNWF6eFVlNHpiYWt5RnhSQw?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792594525
-    },
-    {
-      "titulo": "Fazenda amplia benefício tributário para importações de universidades destinadas à pesquisa científica - Valor Econômico",
-      "resumo": "Fazenda amplia benefício tributário para importações de universidades destinadas à pesquisa científica  Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVV9oZWpheHZNams3RW9ZVWVCSFBLZjJsSngtY08yUmhpTTNMdVNBTGt4MmMyT2NhR3QwZnV4YVZCOW94VHlkT0o1X05lcTRGQkNpYWkxNzlBTjlQbENrRXc4ejhzbjBhMnJnVHJiOEhqTWc4Q2htaUVJN0R2ZEFsd0tRLWRPbWw3bWdJUDNaUEE1dDl6dUhKcDhiY3dQdlF6UVBiMEZLVThGaHNfbzdLN1NOS3IzOGViWVBHTzdLU0c2alVhcGR2eFJSeFctOGIzMkhvMWVGcXo1X2xCeG00TmIySk9zd9IB9AFBVV95cUxPX3VDSHBWXzQxNGF3V045TzBPcl9RU0ZfMXprLUJmNERzVWZjSFVzYXFtWXcyOXo2aFdPRW1WSVRoNU1ER3RrVW5RUEoya0xGQ3BHNGJFTG0tMnVCV09sOHNsU29TeXVrTjNhSGE1MWZKUF9jMWVvVDRJR18tWTBJN0J2ZHRsZXNxMmFxTXBwVnpxb2diSVFRNURHU01jZEh2eWxyc1FVSndXQWNjR2VHc3c1aXV0YTZoNll1VVBLMHVneGNzZFRuWkg2TFk2bkZBaml4SXF4OEx6bXhNajlNa3EyYWxtWTZYUTBrbENYNjZ4SFFl?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792593609
-    },
-    {
-      "titulo": "Pesquisadora da Fiocruz Bahia, Claudia Brodskyn, toma posse como membro da Academia de Ciências da Bahia - Fiocruz Bahia",
-      "resumo": "Pesquisadora da Fiocruz Bahia, Claudia Brodskyn, toma posse como membro da Academia de Ciências da Bahia  Fiocruz Bahia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaVFScGF3MGoxc2FmMXN3SHo4X0lkcTJDeEJHdmFnNEJkTE1QLWtiMHZhQkhTbGxpaWxvb1lGNjVzSTF1YmdaUWZTZEZkWjIzSnRBVzVkbGN4RDVKRUpfalhia2hxbTVENkpTSXFaYmZDQzZ5MlRNNW9KYXY1LW9pMlp3N1dJakxSZ1JlVTQ5Wnh4d1Q5TEJ6cTNaTTdXOEFyRnhwNWQyV1NBUmhmbGdxelVpR0dNM1lvR3h0SkQwSmxrbnIzdnJ5ZHJrY2k?oc=5",
-      "fonte": "Saúde e Pesquisa — Brasil",
-      "categoria": "Saúde",
-      "idioma": "pt",
-      "timestamp": 1792592337
-    },
-    {
-      "titulo": "Inteligência artificial e vacinas: uma nova maneira de fazer ciência – por Dimas Covas - Futuro da Saúde",
-      "resumo": "Inteligência artificial e vacinas: uma nova maneira de fazer ciência – por Dimas Covas  Futuro da Saúde",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1JfdFMxdnJVaVZCaEZQMDMyd0w5dm45R3pKc0NYUUUwSWI5Z1NnbFlhY3FzakJuN1FVLVZ5T3ZTMXNaak1hVGpYWkFISzJVZTdpdktVYThxQ21yakNwTDY0eFZHbXJxZHRwUXNJN1g0SlJ2ZS1ZclBQT3ljN2c4ckxpV2l1WnlZNGc?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792592222
-    },
-    {
-      "titulo": "O Vietname e a Dinamarca elevam a sua Parceria Estratégica, promovendo a cooperação em ciência e tecnologia, inovação e transformação digital. - Vietnam.vn",
-      "resumo": "O Vietname e a Dinamarca elevam a sua Parceria Estratégica, promovendo a cooperação em ciência e tecnologia, inovação e transformação digital.  Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQazQwUk9WSXpiQ0Y3Q2NSN0dwT0ZmOElqRnZud3lsMzBGUjU4MzY2ZnMxTlZJci0zS1Q4R2p3WnpCeHVlTXlNZC1nUjFzWWgzNmVkeENhSm5sOXpLTG5sOUE0cjR3R1FaVWQ3TDZpU1lmbnpTdkRKX0FDY0xKbTk4amlFSncycm9jR1B1RTJEaDhKVVQ1SlJyN1NDZDNYMlZKdkdZQ2NBOTBmb3JzbklHaHh4cFlfMjdqUkdR?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792591599
+      "timestamp": 1792614720
     }
   ]
 }
