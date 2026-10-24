@@ -1,6 +1,15 @@
 {
-  "atualizado_em": "2026-10-24T16:40:52.495146+00:00",
+  "atualizado_em": "2026-10-24T16:59:16.716616+00:00",
   "noticias": [
+    {
+      "titulo": "Unioeste é palco do maior evento de ciência, tecnologia e conhecimento aberto à comunidade - Gazeta de Toledo",
+      "resumo": "Unioeste é palco do maior evento de ciência, tecnologia e conhecimento aberto à comunidade  Gazeta de Toledo",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYWQxZmtXbldyVkVrVXN3TzQxZkJYNFV3YjNDaTNiZWd1WVlLWHcwcTRKa2ZWWXNFejhCWTgtd3h5SjAtUnI4VElwZFlONllpMEFnXy1lVVpsdm84elBSZzBQSXV1YjVsZTMtQmlOSTFtNGlpbThGbUwwZjVpN3U3QWpwZllWb0hlQW51VzV6X3M5emtPT3NkTkJQSzc1azJCb192ZEp1cjBKQ3lNQ0R2Wk9KRS1kMGNobkREWQ?oc=5",
+      "fonte": "Educação e Ciência — Brasil",
+      "categoria": "Educação",
+      "idioma": "pt",
+      "timestamp": 1792849522
+    },
     {
       "titulo": "Could lowering high blood pressure be as simple as stimulating your ear?",
       "resumo": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and wel",
@@ -72,6 +81,15 @@
       "categoria": "Meio Ambiente",
       "idioma": "pt",
       "timestamp": 1792839452
+    },
+    {
+      "titulo": "Orientar os alunos para a aplicação da IA ​​na pesquisa científica. - Vietnam.vn",
+      "resumo": "Orientar os alunos para a aplicação da IA ​​na pesquisa científica.  Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFlBN2stZ29RMUtnSEx5d2NRS09hal9mWVVKSmxCYkhNOU53cks4bXdHS1ktTWNFdzU4SUFuZWNBS2tnWEwyMGljaWd4d1VnV1liSndFcXU0TkZWWDFKLTlIalMtNzVEc2FsOWs2eTB5V1l1V1hpbXVMaFd0RTc5V2hMRXRtUWV6ZnN4Sg?oc=5",
+      "fonte": "Tecnologia e Inovação — Brasil",
+      "categoria": "Tecnologia e Inovação",
+      "idioma": "pt",
+      "timestamp": 1792831173
     },
     {
       "titulo": "Fogo e desmatamento transformam amazônia em fonte de carbono para a atmosfera - Folha de S.Paulo",
@@ -182,6 +200,24 @@
       "timestamp": 1792776673
     },
     {
+      "titulo": "72% dos criadores de vídeos já utilizam inteligência artificial - TV Guararapes",
+      "resumo": "72% dos criadores de vídeos já utilizam inteligência artificial  TV Guararapes",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW1ZTWM2OGFOOHM0aHVmRmZjc3RzLUYyc3lSTllobTdIVlVBbzZTdXVFcTMyVGtmRnZVZEpKM2J2c2JsZVpBMXIydS1aWU1GWHY2VUJTNE1oZUZsa21GdTBucldWNEtWYjd3UWd6SWxpT2tFRnJPZm9uZDc4V09NaVhZYWVyWU9zVGJzNk5xRFNVOGZRVC1mNS1iY3czd0diSDZqSmZhdUgxWmpYbkhNdUt3SnlnTlRMOGhlWVVR?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792775760
+    },
+    {
+      "titulo": "Produção científica da Uesb ganha destaque com bolsas de produtividade - UESB",
+      "resumo": "Produção científica da Uesb ganha destaque com bolsas de produtividade  UESB",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3hySnJFZzFxRjBicElvTEgtU1hIeG5lZ19LdmdVTGJZMDlneEtuWWF1TzBXOTdLZ05kU0dxNV9sNk91VHdFZTBONlpnZjI3QnUzS0c4YVJsNFdvaEVCejhPR28tb1g2akVndktsSTBSejNaOC1zRThYcEFFZVR0Q3BDdHVNYkVqRkVnbzI0ZzF6UzZ0OS1LQ0tYQzNrMHIyTUE?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792774474
+    },
+    {
       "titulo": "Inteligência artificial duplica descobertas de falhas digitais - CNN Brasil",
       "resumo": "Inteligência artificial duplica descobertas de falhas digitais  CNN Brasil",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdlJLNG9BM0VDSGVQSUVURV8yUC04TGppZWMyOHQ3ZmhYckp0Q0JFTWVjTWRFOG5JZ1BiU3hSenB5SHF2RnJGd3R6MHl3dk50aGdBaVhMR1B6QzVQOXhLVklLSVd4VFJWcC1Wekl5ZHlVekJfYzEzcklwaFF0TFBsR094S01EcVVJb080dHBscHdJTmtoSmJ2d1JuTFN5U2M1MHN5LWowSExzdmxQU3FDZGtoYmFPc0haNkdtZ3M1RWxLZmktQXgwZ0RCQQ?oc=5",
@@ -198,6 +234,15 @@
       "categoria": "Ciência e Pesquisa",
       "idioma": "pt",
       "timestamp": 1792771561
+    },
+    {
+      "titulo": "Integra UFMS 2026 premia trabalhos de destaque e celebra reconhecimento nacional da Universidade - UFMS",
+      "resumo": "Integra UFMS 2026 premia trabalhos de destaque e celebra reconhecimento nacional da Universidade  UFMS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHk0SlJPTE5zbHJPOHFhVlZ6aUhWZEVkR1FEQUdQTElHaVhjZHI5d3lJZGNWN0UzVWh4NC0teHJxNnA1UEh1QTRmb3ZKbGlYd25oXzhYWnRyZzJhT2E2cDJwN0l2aTN2cnUyb1UzcmhYdFJFX3ZRLTNPQXVkVDh0b1dzOFZzb3NZNDNwajM1N0lqRDAtY1FyT1BDZkRNQUo0R3BKdzRGWVlUYWFhVm1TVmxuZU1ZeGRB?oc=5",
+      "fonte": "Ciência e Pesquisa — Brasil",
+      "categoria": "Ciência e Pesquisa",
+      "idioma": "pt",
+      "timestamp": 1792770915
     },
     {
       "titulo": "Parceria entre USP e universidade belga promove workshop sobre inteligência artificial, eletroquímica e ciência dos materiais - Instituto de Ciências Matemáticas e de Computação (ICMC)",
@@ -317,6 +362,15 @@
       "timestamp": 1792751443
     },
     {
+      "titulo": "Brasil supera média latino-americana no uso de IA para decisões de compra - Valor Econômico",
+      "resumo": "Brasil supera média latino-americana no uso de IA para decisões de compra  Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcVliRUFKTlpkeTA1MVRubFlYTlVIcTA2Q2lSWmhic09FR0hHZU9yRWhFZjBFNmxhMUxzSmd6S3ZOMjhQTlkxcmVXVE50NjJ0QUlySlBaektsanlwNjdRTkl0V3lUMXBlcDB5Y2JkYlVyZE5DVl9jOHF2b1NTX2t0OXA0WUxVMjlweHlhcE90U3J5MGVOYllCRVRBQW1LT04wU3hJbE85S3hRTERORzUwSGlHYWVadXlqamQ3VzZMeW1DREpMUVBxZE5ReS1BOGNSaVJDd2h0bXjSAecBQVVfeXFMT1U3eUFxa3B2SXpZdDhWM0RUUEtmZ2phVl9ia2N3Y0ZLQm1qbWd4Vk51c2hDTkRmdWZBcnlKcTAxYWdkZGJVaHFXTVR0SlRTRE9HTnJYUmVCU3NaM256clFWX2FyYnVJaVE1ZTAyNzNZQ3FFZlh2Y2hKSzgyTmRHY1F5VS1DcVJneFppZU1iSktDV05LNElBLUVXb3FrTG9uSUVoMlVOenJLbExZR3JxQXdaNlViN3NUUTZhNWNiVk5RbGRMRHNFRDNsTWw0cGMybXBkX1RmdDNndXJtZDkzMEJUNGRVZ19B?oc=5",
+      "fonte": "Inteligência Artificial — Brasil",
+      "categoria": "Inteligência Artificial",
+      "idioma": "pt",
+      "timestamp": 1792749600
+    },
+    {
       "titulo": "Prevenir para ser sustentável: livro propõe novo olhar para planos de saúde - Movimento Econômico",
       "resumo": "Prevenir para ser sustentável: livro propõe novo olhar para planos de saúde  Movimento Econômico",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmJ2VEk5RDJVNWhEa3ZINFZIWGY2bU8wYWNqMzBsYUNzQXZRMVJ0TnRENWJSaF9DS3hkYlhCWTV6TnNNS3VrdmRyRE4zWDhrTWQ1TWhFamlOSDRVUXdaSGVLYllReThfZ0tZUDFyV2dUVkpUZDBMYnNobFhGdlU4WEl4OW90YlZaWEVFeW50TXc0bjFCQ1d5THNublpIUm9OT04wanB6SXZubzduVk1XOURPZFRVYnkyOUw5Z1NfUmlZcmFGMlBuX1NyaTdJX3M?oc=5",
@@ -351,60 +405,6 @@
       "categoria": "Meio Ambiente",
       "idioma": "pt",
       "timestamp": 1792737000
-    },
-    {
-      "titulo": "Brasil precisa ampliar investimentos em ciência para enfrentar pandemias e melhorar saúde pública - Jornal Somos",
-      "resumo": "Brasil precisa ampliar investimentos em ciência para enfrentar pandemias e melhorar saúde pública  Jornal Somos",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaXRTMzRzT2RHQ3JSbkNuaXRhOGFLMk42SjJIVUd1M2VJRU1xbXNTbWZUaU1OaS0zSEM1UlNLWHFmaHl2UzlVRk5sTWk2ZzBvUVAyNHAya3dlNGVacENYeUpOazlVelJ5RlBoWlFNUWt5YVdQUmR6bWVaQjBxWkMwU0ZEU2V0VnExR2dyclBvX2R5dC1LTmQwNEd6YnRMeHdTLXN3ZEpVcEJkc2M3d3RBeXdtR0VTQmZOR3ZBOTNscEZlcGZnMEtZUXRDbXlQZ21WdW0zNXh2Y2tUd2hCS2dzVzh3?oc=5",
-      "fonte": "Saúde e Pesquisa — Brasil",
-      "categoria": "Saúde",
-      "idioma": "pt",
-      "timestamp": 1792714741
-    },
-    {
-      "titulo": "Aliados de Flávio Bolsonaro defendem fusão de Meio Ambiente à Infraestrutura, caso eleito - Estadão",
-      "resumo": "Aliados de Flávio Bolsonaro defendem fusão de Meio Ambiente à Infraestrutura, caso eleito  Estadão",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUVrcEJ0RUVDSXRJU2xjbWkySTc4ZC1HdFQ5OUdhbHhTYW90NXdMQjdHb2V1QlpRZEZDZlQ2dkZJUV8yaEpiQU5rNjJ2cW5pRWZDV1VxU3A5RUFzdWlRWU1tOEVOSmFPMkpqZFd0dUxXTWcyMkRzZy1mek45S2xOelFvUWRQcGl0VkZxUVNldTVyME5rTG9jd3EyZ0N3WEhzQVpIcHlkNzBDRXZoSEQxWFpUVnNTV2p3WVBzSGUxVGVSbjTSAcgBQVVfeXFMUFd3dmRHNlkzMmtIdVlrNlUxTWV4RDRxRlI0dHRuR2NWSHJudm5pV3htVmM3NWNOSXMzNnMyZWNnbmRhN1FlR1UtRk5CU1lUU1hDQ0pONUFFdUJrc2JDMWx6OVJtTE40WkstaHVhdmZQOG9fek5rMk15RDFTcm1HU0ZEWjZTSEtlWE5SUTlZLXhZSHpNODVFUzM3MDBTYkNadlExMmlQQmVZTFR0bXhKUWRhRFdFUDNWQlMwbC1HVDUySnhJallFNVk?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792700687
-    },
-    {
-      "titulo": "Unificar a direção organizacional e operacional e melhorar a eficácia da implementação de tarefas de inovação na Universidade Thai Nguyen. - Vietnam.vn",
-      "resumo": "Unificar a direção organizacional e operacional e melhorar a eficácia da implementação de tarefas de inovação na Universidade Thai Nguyen.  Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdDVGOXhFVFpmZmg5Y2N2cEgwZ0s4ODBoT185bFJxNG5Ub3h6UTh5ek5DRFZyOXp2cllvS255ZVhKZUU4cFdjTWI3SzVod3B0X0ZQb3VMb2VCOVNhT2s5VkpfM0ZVVk5CUkxuV2pjSGlBTU5UXzV0SmtrZzNfTHlHZ1M0REs1VVRwN2VldUVwbWtKZC1FT29lbHNtbk1YSm9TaEZxbHk3ZmxrR3dpc2tHc3UtWXJJd1RFQlE0di1NVEVmYXRHRFUta1NCbXVBcDJDR0V2LWluYUlYcHJpbFdqbGlCRFVVdw?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792700103
-    },
-    {
-      "titulo": "Diretora do Ministério da Inovação visita Semana de Ciência e Tecnologia e destaca ações de Campos - Campos 24Horas | Seu jornal na internet!",
-      "resumo": "Diretora do Ministério da Inovação visita Semana de Ciência e Tecnologia e destaca ações de Campos  Campos 24Horas | Seu jornal na internet!",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTI3elhFeVpIUWIxTWlYYWwwTE4tQzJmZ2N2RUhDdC1zX0lwSHFRcEZqZ2l5ZGZzR1VqdUkwcWlteFVXR3F5R1ZZelIxVS1QTDZXVGFUZzdSWlNzSGl5UjFEaHpLWWhrd3ZQVkJSRXdUaTdVMnVubGFZbmU2LW5GM0lqbExEaXBnLUtfUzk4dDJhTXRhRDdCa2E4TTBnVXpXYndHUHZ3RlZWczMzTW9IU0diSTZqbkhieVhNUnpoYWl6UV92UC12bzYxWTVySFkz?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792699511
-    },
-    {
-      "titulo": "Da agricultura familiar à eficiência energética: Congresso de Iniciação Científica destaca contribuição à sociedade - Jornal da Unicamp",
-      "resumo": "Da agricultura familiar à eficiência energética: Congresso de Iniciação Científica destaca contribuição à sociedade  Jornal da Unicamp",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQk5sTEh1eXU2aGd0Q0RkNW9BNXdfMVRLX0pvdGIxYzdacWtSV0xSODJJZWxBMVV3QXROZ3RObmZiVFJfM0I4RVl4ekdoNlhnOXdDOExNOTh6ZWlqblY3UkN0R1lnZXY3U2xVMmw1YlFOOXpVbjlzblh4RG9Pd2NtSUJvcDg3S3EwdjBjZGxPbFA4TXFaMGJMQUhaTGpBMlloQmZFNGpRVHotb1BFWDdjU3JsNTZ5M19ZcUJTSDZpakg5cUN1V0FPdF9PQjRXRjh6My1ZWDJ4X20yZFFsci1sdDJxZXhsam1jZXl5b2pLTElVc28?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792699363
-    },
-    {
-      "titulo": "Meio ambiente: veja o que Lula e Flávio Bolsonaro prometem e o que já existe - Gazeta do Paraná",
-      "resumo": "Meio ambiente: veja o que Lula e Flávio Bolsonaro prometem e o que já existe  Gazeta do Paraná",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjBlaHlNVkNzUmtSbGJCcDJOSXk4VGh5SnBsbldsSklDM3VqQ0NNTVA2b241OTZsd09IcVpsYXRwTXEwOXBHU3lKUVRBVEpTZkdvRXVIekFrTkI0Mm1RMVM3M19LYWl5c2htMk9QS2UzQ0xRMmtrdUJORlBKSHlUS1VwYjBpNldMX1hwZTdXMHUwNWhEcHBYYVdKWjBodEV6VTM0Qy1Ld1JQTEw5SmQxZk5lUQ?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792698208
     }
   ]
 }
