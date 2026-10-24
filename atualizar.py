@@ -31,7 +31,6 @@ FONTES = [
     ('ScienceDaily — Tecnologia', 'https://www.sciencedaily.com/rss/top/technology.xml', 'Tecnologia e Inovação', 'en'),
     ('ScienceDaily — Ciência', 'https://www.sciencedaily.com/rss/top/science.xml', 'Ciência e Pesquisa', 'en'),
     ('NASA — Notícias', 'https://www.nasa.gov/news-release/feed/', 'Ciência e Pesquisa', 'en'),
-    ('UnB - Notícias', 'https://noticias.unb.br/publicacoes', 'Educação'),
 ]
 
 
