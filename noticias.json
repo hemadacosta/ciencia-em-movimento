@@ -1,6 +1,102 @@
 {
-  "atualizado_em": "2026-10-25T15:41:26.352699+00:00",
+  "atualizado_em": "2026-10-26T16:06:22.486057+00:00",
   "noticias": [
+    {
+      "titulo": "NASA’s X-59 Aircraft and Test Pilot",
+      "resumo": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first su",
+      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793028347
+    },
+    {
+      "titulo": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "resumo": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for Uni",
+      "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793022865
+    },
+    {
+      "titulo": "Exercise doesn't just strengthen your heart. It rewires it",
+      "resumo": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793014553
+    },
+    {
+      "titulo": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+      "resumo": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793012768
+    },
+    {
+      "titulo": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+      "resumo": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after th",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793011811
+    },
+    {
+      "titulo": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "resumo": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793010260
+    },
+    {
+      "titulo": "Tiny magnetic vortices could help computers work more like your brain",
+      "resumo": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a realit",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793009176
+    },
+    {
+      "titulo": "Archaeologists may have just found the world's oldest shipwreck",
+      "resumo": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues ab",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793008275
+    },
+    {
+      "titulo": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+      "resumo": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was nearl",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793006721
+    },
+    {
+      "titulo": "2026 October 26 – M42: The Great Nebula in Orion",
+      "resumo": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascin",
+      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792987500
+    },
+    {
+      "titulo": "Hunting Red Leaves with Satellites",
+      "resumo": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1792987260
+    },
+    {
+      "titulo": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "resumo": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even w",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1792978968
+    },
     {
       "titulo": "Dengue em nível epidêmico já atinge 292 microrregiões, o dobro de 2006, mostra Fiocruz - soubrasilia.com",
       "resumo": "Dengue em nível epidêmico já atinge 292 microrregiões, o dobro de 2006, mostra Fiocruz  soubrasilia.com",
@@ -420,111 +516,6 @@
       "categoria": "Ciência e Pesquisa",
       "idioma": "pt",
       "timestamp": 1792771561
-    },
-    {
-      "titulo": "Integra UFMS 2026 premia trabalhos de destaque e celebra reconhecimento nacional da Universidade - UFMS",
-      "resumo": "Integra UFMS 2026 premia trabalhos de destaque e celebra reconhecimento nacional da Universidade  UFMS",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHk0SlJPTE5zbHJPOHFhVlZ6aUhWZEVkR1FEQUdQTElHaVhjZHI5d3lJZGNWN0UzVWh4NC0teHJxNnA1UEh1QTRmb3ZKbGlYd25oXzhYWnRyZzJhT2E2cDJwN0l2aTN2cnUyb1UzcmhYdFJFX3ZRLTNPQXVkVDh0b1dzOFZzb3NZNDNwajM1N0lqRDAtY1FyT1BDZkRNQUo0R3BKdzRGWVlUYWFhVm1TVmxuZU1ZeGRB?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792770915
-    },
-    {
-      "titulo": "Parceria entre USP e universidade belga promove workshop sobre inteligência artificial, eletroquímica e ciência dos materiais - Instituto de Ciências Matemáticas e de Computação (ICMC)",
-      "resumo": "Parceria entre USP e universidade belga promove workshop sobre inteligência artificial, eletroquímica e ciência dos materiais  Instituto de Ciências Matemáticas e de Computação (ICMC)",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMDEtckVOOFdvbUNFbVpnRGJkX0hobzQzSHNxUzY0a2VNWmF1MGtnM3NBbk1CNzN4QlN2cVRabEktQ0ZGSXZ5clVaNmhuVzNBbzU5YzlBRjlUdUQzQ19vRmxkaUFwMnljZ1JpbUtfYm1GM0U4SEhtYUhPOGVrZEtWRTF0S19JMFktMl9fYjdNS1lReTBPLXNBTWZxTzRNTUx4aU1CSTM1Z2IzcWJsaXIya0JZUFA2czY2eTNMWFllMGI1RjRBa2wzVlFIRW9VWFpGNmVjekZlODVBLXpZVWpBc0ZDQ2FDbDh4TXZ0OUc5a2RNbFZJ?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792769761
-    },
-    {
-      "titulo": "UEMS coordena pesquisa científica em projeto de R$ 5,2 milhões da Finep para descarbonização ferroviária - UEMS",
-      "resumo": "UEMS coordena pesquisa científica em projeto de R$ 5,2 milhões da Finep para descarbonização ferroviária  UEMS",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFpvUTJ4U0k5RFI5VkVjRjNSSjQ2NFdwU0JCOGpuWXkwX2N3elNyUzd5ZXl3TjV1ZWFMNUdNbVFRcG9YR2VoeHBRSlBQeEhxeG9KSjhHTlZ0SzFfSUdaUk5HZDd2ZjZlTjFlWlpJR3ItM0doZE1xR3hUMG1ZcFJVOXZCcXdDQTVwRFA5b0d3TW9sVF8tV3hGQzZMZGtVM0FZYXFJNWNZS1Rmdjh6THVyaE5wTFByS3BhZ2RnTVhqSlVEZ0hid2htWVNHR2dpdXNYSTFTT1hjRFI?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792767960
-    },
-    {
-      "titulo": "Revista Brasileira de Contabilidade destaca parceria Brasil-Portugal e pesquisas sobre inteligência artificial e reforma tributária - ::Conselho Federal de Contabilidade:: |",
-      "resumo": "Revista Brasileira de Contabilidade destaca parceria Brasil-Portugal e pesquisas sobre inteligência artificial e reforma tributária  ::Conselho Federal de Contabilidade:: |",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM28wNlRsTlE5ajJwOVZycC1vZG5NRHNRRlJxMEtaWENMMUhieGtfNDRiN1FLZHBUZmZ2dGlPamxsMjgwWEZMVVR1WWFySTlvWk5DQm5WODNFWHFsRThzVGl1NVBDUmlsdEVLVkgzTzVsaURJU282OXVSOFVQWWxYREJmTXNqQWFNSmNzd3VhUGNpXzhyOTZKMEplY1pKRS1JV1Y0b1Rxck1oOTI3QVE5ZkdjcXUzX1I1eTdxOWtEZ1BORnAtanFaUXlrV3R4SWZWZWtwQlBtTFM5NUtCSXdIQW5UOXZmM3luUFgzeGdITEtpeVVhOTZBUQ?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792767688
-    },
-    {
-      "titulo": "Inovação, Ciência e Protagonismo Feminino Tomam Conta da Unicap na Semana Nacional de Tecnologia - Taís Paranhos",
-      "resumo": "Inovação, Ciência e Protagonismo Feminino Tomam Conta da Unicap na Semana Nacional de Tecnologia  Taís Paranhos",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXUxU0RQY3VYblVpNjlvbmhJakxDUjBid1YtV2FCTm5XeHo3TjM3NXlUX1JVX0UyVERDNGNLLUIzMTBhbXNKTnN1aXNHMkNOOFlSbUZmVUdnQU9rUGxBZFBxT29IVzZDS0VGbGJBU3ZDTkxJRkZ6S25PUjJjX2hRWXVR?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792767240
-    },
-    {
-      "titulo": "Seminário em homenagem a Roberto Santos debate a importância dos museus de ciência no Brasil - Fiocruz Bahia",
-      "resumo": "Seminário em homenagem a Roberto Santos debate a importância dos museus de ciência no Brasil  Fiocruz Bahia",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNVQ0TVVadEJaSkUtUDQ1UEh4aGRzdTQ4Vkh1dnN0SmdyNUNINElHZk1XWF9jLV9BX25oOC1xVHdmR3lmRmtPZWRZMm5mSGt5M1ZKaWFQM3czM3d0UU9PNDg2aTlFVExvZGQ2R2JvT3FDWDdkX0xzenFuYXpwSjBEQWp1QzlLOVl3QnI1U045T0h6SERKYUpoRXAzbEZzRm5Ld1FWZnhOMWpNU2FGeXdFUjFwbFREOGNVUDVZd2JMYw?oc=5",
-      "fonte": "Saúde e Pesquisa — Brasil",
-      "categoria": "Saúde",
-      "idioma": "pt",
-      "timestamp": 1792766995
-    },
-    {
-      "titulo": "Encerramento da XXXI SU reafirma papel social da Uece na redução de desigualdades - Universidade Estadual do Ceará",
-      "resumo": "Encerramento da XXXI SU reafirma papel social da Uece na redução de desigualdades  Universidade Estadual do Ceará",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSV9SdnZmbTRvS3J1WHpqM0FmalJLejNOSTNiX0l5RnJVZFlsRVV0QmdNa1FGcXBGYjBsNm81Q0FSSFZ0VjVjTU5KN2NRa3pvNWw5djIta1dEVTBjNXk3RTJvWjhRbDJKOEFRdnBmd3EyZ3dMT3Z5T0hRVXphWlpZejdVNDBJZnVwVDJ2R0pqUGNiQUUxa3ZXMGVWM2JYYzR1YXRhdE1QZWJVM1FHT2haSA?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792766640
-    },
-    {
-      "titulo": "UFSM lança guia com orientações para o uso responsável da inteligência artificial - UFSM",
-      "resumo": "UFSM lança guia com orientações para o uso responsável da inteligência artificial  UFSM",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzZtbjRnQ0ZNVFNHYkdrXzVRRHVlWUw3MXFWTF9jaVdsdUY4ZVpBYnRPMlVRLVdZZ1d6ZzJXd0ZDRXYxblI5U0RWakdneldwZ2xzaGdZMmVZMDdQckUtM0JwcTJ2eHJELTY5bl9pMk5SeDFneWFOWjlqUDdGT2JuV3NVdmx2dFBXUEN0N25qX0J0Nlc1X3RnQWFIYzZ4X09VenZYNzhqWkloay1DOTM2U0l30gG3AUFVX3lxTFA2SzdPdjRXa3BCN0tsMnlCR1Atbm8xeHIwYkROOVdQdmd4TWszTFhvRHBOTGdoeGxsQ0RwcGE5OXFtQzc5cE41Q2dBUXFiYUszWnRUdWF2clNITC15VElvUk1WTFdpUU0tYlNnOURBSEVuY19ITFlpMVByb1pDbVhVU3dRWTk2QnZIY0hhRzJUSGNJQmo1TEVudnE0UE9Fdzl0d3hnZ2pNS2g0R3E4NG55ZXVKNVA2Yw?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792765138
-    },
-    {
-      "titulo": "Cooperação e presença internacional: Fiotec participa de missão na Alemanha ao lado da Fiocruz - Fiotec-Fiocruz",
-      "resumo": "Cooperação e presença internacional: Fiotec participa de missão na Alemanha ao lado da Fiocruz  Fiotec-Fiocruz",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaFl0bW1vaW9NTi1xT0JlLXN4U2Jxc0tnOG81X2hFWWd1LWtoUzJBbktBYm10QVdVWmFoNF9fbHFYbUNfbHpETU9EVkI3UEN2VkFGQktxa3lTcFpYcTU4OEhCekRNaGNadUxzU2o4REZ5TDFyVFdDNnFyQlZnZ2FGa2xGODlXUTRXaTZ0djd5TWs0THRncW15NTY4M3h1VE1ic1U0T3RnVHVUWHlXRmJOMW9vdGZ5QldsRlhuTDZHWDFES29vc0ZfUDE4Vi1PUXdTbXM4Q2Q5Z1hjWnRuMV9BNE9pRTM?oc=5",
-      "fonte": "Saúde e Pesquisa — Brasil",
-      "categoria": "Saúde",
-      "idioma": "pt",
-      "timestamp": 1792764769
-    },
-    {
-      "titulo": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-      "resumo": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792754599
-    },
-    {
-      "titulo": "MIT scientists build a tiny robot that swims using living muscle cells",
-      "resumo": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792751636
-    },
-    {
-      "titulo": "A tiny defect in a crystal reveals a big quantum surprise",
-      "resumo": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mec",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792750975
     }
   ]
 }
