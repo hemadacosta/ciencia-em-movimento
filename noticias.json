@@ -1,6 +1,150 @@
 {
-  "atualizado_em": "2026-10-26T16:06:22.486057+00:00",
+  "atualizado_em": "2026-10-27T15:20:15.822431+00:00",
   "noticias": [
+    {
+      "titulo": "Common drugs may help dangerous viruses spread through the body",
+      "resumo": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory dis",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793097981
+    },
+    {
+      "titulo": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "resumo": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793096452
+    },
+    {
+      "titulo": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+      "resumo": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreat",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793094515
+    },
+    {
+      "titulo": "A tiny laser beam could make computer memory 1,000 times faster",
+      "resumo": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By precisely shaping and s",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793092926
+    },
+    {
+      "titulo": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "resumo": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, ",
+      "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793084871
+    },
+    {
+      "titulo": "Do spiders dream? Scientists just found a surprising clue",
+      "resumo": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fim",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793076791
+    },
+    {
+      "titulo": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "resumo": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793073900
+    },
+    {
+      "titulo": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+      "resumo": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793073746
+    },
+    {
+      "titulo": "A-81 Reaches South Georgia",
+      "resumo": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793073600
+    },
+    {
+      "titulo": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+      "resumo": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and identify new strategies ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793068358
+    },
+    {
+      "titulo": "1.9-million-year-old discovery rewrites the story of human evolution",
+      "resumo": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793064908
+    },
+    {
+      "titulo": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+      "resumo": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough a",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793059023
+    },
+    {
+      "titulo": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "resumo": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swep",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793054892
+    },
+    {
+      "titulo": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "resumo": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penet",
+      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793048848
+    },
+    {
+      "titulo": "NEO Surveyor’s Sunshade Gets Inspected",
+      "resumo": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure s",
+      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793047993
+    },
+    {
+      "titulo": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "resumo": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, t",
+      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793047944
+    },
+    {
+      "titulo": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "resumo": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research tea",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793042888
+    },
+    {
+      "titulo": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "resumo": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793034824
+    },
     {
       "titulo": "NASA’s X-59 Aircraft and Test Pilot",
       "resumo": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first su",
@@ -359,163 +503,6 @@
       "categoria": "Saúde",
       "idioma": "pt",
       "timestamp": 1792806378
-    },
-    {
-      "titulo": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "resumo": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed bot",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792795179
-    },
-    {
-      "titulo": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "resumo": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre ",
-      "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792795073
-    },
-    {
-      "titulo": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "resumo": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telesco",
-      "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792792279
-    },
-    {
-      "titulo": "IDP se torna universidade e amplia autonomia para pesquisa e ensino - Correio Braziliense",
-      "resumo": "IDP se torna universidade e amplia autonomia para pesquisa e ensino  Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa0JWUUdaVFhuUWlsUnBIeHdtc212Y3JHUkxyY0tiN2U4MVVCTHE5eldna0xEc2ltY3pmTWM5RDNsaEZaVDQwOG5GYlUtaVl3ZXRhZTJFaEN5NmhZZGVhMnA5Q2RUWFdFNjluSEpBcGxzMVR6ZE1ZY08zQVgwYXZmVGJ2QzEya0hfcVZIaVA4U3N2NHFTZmFtemJ0YXIxWUF6c3VxaEd4V2ZnOEp1cFNySHEtUUttdGNHTEF3Y28xSUx4TFByVW1xX2lzbnFvdjVVeVlR?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792791900
-    },
-    {
-      "titulo": "Opinião - Marina Izidro: Esporte, meio ambiente e o nosso futuro - Folha de S.Paulo",
-      "resumo": "Opinião - Marina Izidro: Esporte, meio ambiente e o nosso futuro  Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXd5TndpZHdCRFR3SjBtWUExUGdzZnpfTV8yaFI0X2FHcUpLa1RBMWdVR2tRRGQxQzVNRmlYem96dUFqd0dEaTA2clB3amltOUdnemJwa2g2cnI3dVpKZUluYVFPa1NfNVhnZ2xXVWczaWEtbTFIMEV4WWgzYTVJWWtSaFVYVjZEa2JCZ05wN0dSYTFXY3hpdGZBLWlpYzNSM0ZVajF5Yw?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792791720
-    },
-    {
-      "titulo": "Estudantes das Escolas Técnicas de MT apresentam pesquisas na 18ª Mostra Estadual de Ciência, Tecnologia e Inovação - LOCAL MT",
-      "resumo": "Estudantes das Escolas Técnicas de MT apresentam pesquisas na 18ª Mostra Estadual de Ciência, Tecnologia e Inovação  LOCAL MT",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPXzQ1aXdaYS16UFRodWVqcFVfYUtzUWt4TWpfVGR2ZmU1bkF0YUl0Q0xLS2tDdzAzOS1GV2U3OU4xS1JwOTZqU2dEZFV1d0FuOVptWjZ4MTVzU05oT2gzbGpfSk1VUDFyT3FpaV9xX24yZDRjczcyMEZ6aVF4YVJWNFFLM1NuM2YtRm5fcjdiV1pKNG9BMFk4ZE5vV1RnZlVpYnNTTkZ5UE1CQVNpNlRVc2Fhd1FKMlpxemxGNXRsT2lleEtjY0RIcnlHMS1pbEhScVR2SjFpa21VU3QyRVRjOG40MjY?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792786102
-    },
-    {
-      "titulo": "Semana Nacional de Ciência e Tecnologia começa nesta segunda-feira em Friburgo - Jornal A Voz da Serra",
-      "resumo": "Semana Nacional de Ciência e Tecnologia começa nesta segunda-feira em Friburgo  Jornal A Voz da Serra",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTW15Wm1HdFR4QVM3NW5iOHFoVkctcUFVdkNIUDhfb1V3aFAyRDgyWVJKdDg1Z1RsamMxc2xBXzF4eU80ZVJZaW9HcXpyU2VoLWdTNVBTVWdPeWVJOFN3QXRNOGZzZjNPQ0FGQ0dHMGg2aERBTHRka3RDOU9nV2M5cWQyMmJCb2JFc29WbVdMTmxwNmFnZjRTcEs3VlBYdi1UNWRsUG9NVHdDc0N2aHBYVUlmYlc?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792783929
-    },
-    {
-      "titulo": "Única estadual do PR com três finalistas no Prime, UEL investe em projetos inovadores - O Perobal - UEL",
-      "resumo": "Única estadual do PR com três finalistas no Prime, UEL investe em projetos inovadores  O Perobal - UEL",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmxGLXc5NV9EdUE4SWtEUTR2dTlQU1RYajM1ZTFFTVY4SkFRSy1NT1hUbUE0WVhQLTBJbkQtTjR3SHNPb01QeG04Z3RDc3BtZGFaVWt2VkZfb2ZaTGo1Rm8tRlI0aS1rOFVQZlhLRnNXbEpfOEh6cVROMDhsancwaklLNlpuNjZrbm9BNU9qUm1EcngzcWRLSVc0aVZiQlhOVUZaWHdWWGZUTXNTVXEzbEFDek0xX21Z?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792783020
-    },
-    {
-      "titulo": "RS-25 Engine Tests at NASA Stennis",
-      "resumo": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire duri",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792781824
-    },
-    {
-      "titulo": "Universidade pública: direito de todas(os) ou apenas uma mercadoria? - APP-Sindicato",
-      "resumo": "Universidade pública: direito de todas(os) ou apenas uma mercadoria?  APP-Sindicato",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUtsbWRtS2VnbzZ1c2Y5QmVZS2poOVlzN0M4MG4tZ2xIN2lzRGEwR2hMOXlDVlRXOW10R0tDdGNMbzBlRzBXejVQVmltSm44N1JDelB2ZEdGYnl4a3dIbVZzWjBrU2QtNVBUTUp0NDVfS29UWVpiS1pjUGFKbXRLNWRxS25DVTZCTm9vUU8ySEREaUZOQkpIag?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792780365
-    },
-    {
-      "titulo": "Evento discute vigilância em saúde integrada no Cerrado - Fundação Oswaldo Cruz (Fiocruz)",
-      "resumo": "Evento discute vigilância em saúde integrada no Cerrado  Fundação Oswaldo Cruz (Fiocruz)",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1c1bGZKNFNZTXgxLU8td1lKTnNhbkNXTk9JeXZSb21JR3ZJSlhnRkdSYUJUVkoxM3NSSW5KbFQ3dVFweEhCWFpONGdmQjA5bnZZbzBiWWN4ZlE0OEY5RkwwZllFQWpoWHF1UXBZSG5IQjNZQzE5SVBTVFN1cGVRZThGYXRfTXl6ZVgtcUNpMS1fVGsx?oc=5",
-      "fonte": "Saúde e Pesquisa — Brasil",
-      "categoria": "Saúde",
-      "idioma": "pt",
-      "timestamp": 1792779720
-    },
-    {
-      "titulo": "E se Flávio Bolsonaro vencer? Grandes riscos para o meio ambiente nas eleições brasileiras de 2026 - Amazônia Real",
-      "resumo": "E se Flávio Bolsonaro vencer? Grandes riscos para o meio ambiente nas eleições brasileiras de 2026  Amazônia Real",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUc1S0Rvck4xVEZjV2VwN1F4dEhiSENOTlVZa080YzY0cTMwbnkyZG1TYUxwRXBhSHZKNFRjUTZ6SzlpdGJORmxBYThBbkJ2ZmVYcmRWcDJaZzdFNUNSalZFOHRsREVaaWpLR0tCQmxjNlNZN3lyY3drenUxN1doT2hEYmMwS2drWF91VXVPM1pQa2w1dmJibVNWWkR5dEZPbnpMYlNHcEJBclhiVldJMkppMWtxZTR3ZEx5NWxqamFUWnBt?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792777860
-    },
-    {
-      "titulo": "NASA, Virginia Launch Power Partnership for Energy Security",
-      "resumo": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, deliv",
-      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792777821
-    },
-    {
-      "titulo": "Santo André Sedia 12ª Reunião Do Comitê Técnico De Mudanças Climáticas Na Câmara Municipal - ABC Agora",
-      "resumo": "Santo André Sedia 12ª Reunião Do Comitê Técnico De Mudanças Climáticas Na Câmara Municipal  ABC Agora",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PSWk2MVpsY0d4WU9SU2F4R3hldHV0VzdPc0QtX1NCYkxMTnZCaWVoaDZDeFozU3FmNUNRSWpabDkyd2NNTVJsYlhLNWY1Sy05Y1REcS1iNld1azV5WFVpQUx3S1NZVjBybjBpNHRndXdVYmFBNkE?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792776673
-    },
-    {
-      "titulo": "72% dos criadores de vídeos já utilizam inteligência artificial - TV Guararapes",
-      "resumo": "72% dos criadores de vídeos já utilizam inteligência artificial  TV Guararapes",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW1ZTWM2OGFOOHM0aHVmRmZjc3RzLUYyc3lSTllobTdIVlVBbzZTdXVFcTMyVGtmRnZVZEpKM2J2c2JsZVpBMXIydS1aWU1GWHY2VUJTNE1oZUZsa21GdTBucldWNEtWYjd3UWd6SWxpT2tFRnJPZm9uZDc4V09NaVhZYWVyWU9zVGJzNk5xRFNVOGZRVC1mNS1iY3czd0diSDZqSmZhdUgxWmpYbkhNdUt3SnlnTlRMOGhlWVVR?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792775760
-    },
-    {
-      "titulo": "Produção científica da Uesb ganha destaque com bolsas de produtividade - UESB",
-      "resumo": "Produção científica da Uesb ganha destaque com bolsas de produtividade  UESB",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3hySnJFZzFxRjBicElvTEgtU1hIeG5lZ19LdmdVTGJZMDlneEtuWWF1TzBXOTdLZ05kU0dxNV9sNk91VHdFZTBONlpnZjI3QnUzS0c4YVJsNFdvaEVCejhPR28tb1g2akVndktsSTBSejNaOC1zRThYcEFFZVR0Q3BDdHVNYkVqRkVnbzI0ZzF6UzZ0OS1LQ0tYQzNrMHIyTUE?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792774474
-    },
-    {
-      "titulo": "Inteligência artificial duplica descobertas de falhas digitais - CNN Brasil",
-      "resumo": "Inteligência artificial duplica descobertas de falhas digitais  CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdlJLNG9BM0VDSGVQSUVURV8yUC04TGppZWMyOHQ3ZmhYckp0Q0JFTWVjTWRFOG5JZ1BiU3hSenB5SHF2RnJGd3R6MHl3dk50aGdBaVhMR1B6QzVQOXhLVklLSVd4VFJWcC1Wekl5ZHlVekJfYzEzcklwaFF0TFBsR094S01EcVVJb080dHBscHdJTmtoSmJ2d1JuTFN5U2M1MHN5LWowSExzdmxQU3FDZGtoYmFPc0haNkdtZ3M1RWxLZmktQXgwZ0RCQQ?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792773110
-    },
-    {
-      "titulo": "30º Seminário de Iniciação Científica da Uesb destaca formação de novos pesquisadores - UESB",
-      "resumo": "30º Seminário de Iniciação Científica da Uesb destaca formação de novos pesquisadores  UESB",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZWFVa3dNeUctSjRUQmJxVFpONEhzdXcwUkJpbzFESjhmRHR5bzFJTnNHU2xSZEsteGpWakwtYkdCVmFhZzVTMlVZMGlyX0ptUHFfODJaU05ZMndXWF81dGx6TUNVNTFlU3pnYWI1dHdncVVwT0RWb3g1U3FGMGk1Rlc1NHZmQWZWR1BtY25SazNkVEZqdWtzbUo5bFJsN19raW5RcU8xdHo5YzdfU1pFbm9JYURhZw?oc=5",
-      "fonte": "Ciência e Pesquisa — Brasil",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "pt",
-      "timestamp": 1792771561
     }
   ]
 }
