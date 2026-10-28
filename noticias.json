@@ -1,6 +1,118 @@
 {
-  "atualizado_em": "2026-10-27T15:20:15.822431+00:00",
+  "atualizado_em": "2026-10-28T15:59:41.538332+00:00",
   "noticias": [
+    {
+      "titulo": "Webb Sees Turbulent Star Nursery",
+      "resumo": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satelli",
+      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793201590
+    },
+    {
+      "titulo": "Smaller EV batteries, longer range? Scientists may have found a way",
+      "resumo": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793190343
+    },
+    {
+      "titulo": "Scientists discover a secret glow in toxic fire salamanders",
+      "resumo": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their t",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793189512
+    },
+    {
+      "titulo": "Scientists discover a hidden 100-million-year-old volcanic system",
+      "resumo": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an ancient ocean and the ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793188817
+    },
+    {
+      "titulo": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+      "resumo": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793185705
+    },
+    {
+      "titulo": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+      "resumo": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793183376
+    },
+    {
+      "titulo": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "resumo": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793165986
+    },
+    {
+      "titulo": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+      "resumo": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasci",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793160300
+    },
+    {
+      "titulo": "The Land of the Standing-Up Rocks",
+      "resumo": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793160060
+    },
+    {
+      "titulo": "The autistic brain processes faces differently than scientists thought",
+      "resumo": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become m",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793156558
+    },
+    {
+      "titulo": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
+      "resumo": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mobile genetic elements",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793151635
+    },
+    {
+      "titulo": "Scientists discover the immune system’s hidden sense of touch",
+      "resumo": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, usin",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793148894
+    },
+    {
+      "titulo": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "resumo": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health a",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793129242
+    },
+    {
+      "titulo": "NASA’s Neo Surveyor Sunshade",
+      "resumo": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its b",
+      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793123937
+    },
     {
       "titulo": "Common drugs may help dangerous viruses spread through the body",
       "resumo": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory dis",
@@ -384,125 +496,6 @@
       "categoria": "Educação",
       "idioma": "pt",
       "timestamp": 1792849522
-    },
-    {
-      "titulo": "Could lowering high blood pressure be as simple as stimulating your ear?",
-      "resumo": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and wel",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792847700
-    },
-    {
-      "titulo": "A hidden bias in human language challenges 70 years of science",
-      "resumo": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even mo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792846882
-    },
-    {
-      "titulo": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "resumo": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792846206
-    },
-    {
-      "titulo": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-      "resumo": "Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created. Using special fluorescent molecules and a type of polarized light ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792845556
-    },
-    {
-      "titulo": "Astronomers uncover a mysterious magnetic web above the Sun",
-      "resumo": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, app",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792844618
-    },
-    {
-      "titulo": "These tiny snakes roll four times faster than they slither",
-      "resumo": "Tiny snakes in Southeast Asia have mastered an extraordinary escape technique: rolling across the ground at speeds up to four times faster than ordinary slithering. Scientists discovered that dwarf reedsnakes accomplish this feat through pr",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792843923
-    },
-    {
-      "titulo": "Eleições 2026: quais os planos de governo de Lula e Flávio sobre o meio ambiente e clima? - Rádio Itatiaia",
-      "resumo": "Eleições 2026: quais os planos de governo de Lula e Flávio sobre o meio ambiente e clima?  Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQXBjUnZKOEJRZUJNYkl0bGlUd0QzQmxTNzJockhwN25DSlk2aU5hOGJWVUxrZ1UtSksyV1MyUncteXVwRHFueTVrcWJuOEtiTFQ5RmZkZlB3VmxOMHNIaDhlYWQ0dEZJTHFvb3lFREhwNXc1cml1b1VxeGYzWm80UzhLY2dianVfektJVW1KUGctUExpQ1lBd1h6cGZycmVlYjIyR3hDYjlGazdfeU1SeGRIaW1XVzJiVEJ5UTNCZFlIcnBlaldHYXNB?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792839452
-    },
-    {
-      "titulo": "Orientar os alunos para a aplicação da IA ​​na pesquisa científica. - Vietnam.vn",
-      "resumo": "Orientar os alunos para a aplicação da IA ​​na pesquisa científica.  Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFlBN2stZ29RMUtnSEx5d2NRS09hal9mWVVKSmxCYkhNOU53cks4bXdHS1ktTWNFdzU4SUFuZWNBS2tnWEwyMGljaWd4d1VnV1liSndFcXU0TkZWWDFKLTlIalMtNzVEc2FsOWs2eTB5V1l1V1hpbXVMaFd0RTc5V2hMRXRtUWV6ZnN4Sg?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792831173
-    },
-    {
-      "titulo": "Fogo e desmatamento transformam amazônia em fonte de carbono para a atmosfera - Folha de S.Paulo",
-      "resumo": "Fogo e desmatamento transformam amazônia em fonte de carbono para a atmosfera  Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTVRRQ0k5MXRXYXBMb1ZBNF9IX0Q1alRiQWJJZ0l3WjR6Sjlwdm5TX0dWQUpLaTdBNnZOZ0gyQlpzajlCaUg3dUIxcnlUXzZ3MHltNWVSYzBNQU5CaFppZEFLQXRZNGdwY2tQbXNHdkZpMHlleWJmdlhYenlNWDFlSVptLURxRElVTzdRRzF1ZWpUZnRCa2FHZ01ERDk3d1REa012OU1KWmdwNG9pSzJZczRydDJwMGlTcXFNVWtrM2dJQVRscEowSktB?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792828800
-    },
-    {
-      "titulo": "Inteligência artificial e qualidade da água: como tecnologia ajuda a monitorar rios no interior de SP - G1",
-      "resumo": "Inteligência artificial e qualidade da água: como tecnologia ajuda a monitorar rios no interior de SP  G1",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUXN3bkJuWUI2VER6M3VPWEk3UFFmY3BZNnVjb0VkeEEzRXRTS21JSlFQY0s2blRleVpUM1FYVFRtRmwxV3RhQm5SUmlQYUUxQzVHTHlkTmpXWGpyb2lNaTA4WktxZ2RUeXZYQlY2a2ZtaDJCXzM2UFJGdDJqa2VLNmlKaThTODVvMjJnamdkRDF4NGRtYXhOYllQVnEtd1BKcXNwci1TS051YjVGeGZCSkFwLUhXbkJvSldpVjE0YlhTUzc4djJfQUEwbVZMdU5oWUN4bnB6empFSGZTcW5oZnFkZ3dEcms1VHF3SExvdnZ0S0NWQms0d1YyTXlWRTNyT3fSAZACQVVfeXFMUDJlTVYwMzJ1YWFzcEpPZGg2bkVRQ2FORUdyTVB5N1h4dG50czF2VlpXeldkXzdrbmM4MkZJNnlMcmV5UGNWSWRYZkJvSmN3eFZodnBjRVRUcWhDaWxsVVVVQjNNY3pVMER0SkVPZC1seEQ2anAxZFdwZXMtSXQ5NDVzdWVzTnFCLVU3OHI1RDlhbHRBWkR6cFdWZzAyYURob0lmZmk1V0pnYlJLT3pfeWFGUjRZWFdaZlZDRDVOTXRfU3Z3V0tWREl4THhsZkJHV3NXOTdjMEt2bW9yd2RzREpGM2huN0dRM3MwVUxkWWQyUVhWSnVQM3FvaTR3LWVhSVJibWlxNEI0dEdwYTNpdk8?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792825200
-    },
-    {
-      "titulo": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "resumo": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792814700
-    },
-    {
-      "titulo": "UFMA conquista liderança no Maranhão em Ciências Contábeis, segundo ranking nacional - Conselho Regional de Contabilidade do Maranhão",
-      "resumo": "UFMA conquista liderança no Maranhão em Ciências Contábeis, segundo ranking nacional  Conselho Regional de Contabilidade do Maranhão",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmJNb2stcnNQa2djOVlwclB1eTdZMmZ3RWZPZDlKSjdZY1p6NlNmZXppSi12MmpPS0h1QWE3UmQ5bjRUU3RRLW1fbmJHYk5hWTVCX0d4VmtsUmNCb1dxX3ByZVk4aVdyR3ZyRk5UaGVyckpmZ3ZMUlpyZ25XV2xYYnVCU3RCdmNwbThfYzlTb0VFRWhQREJCcks4NHhXQmNoV0lieXU0TmIwSkhuM1Rsd3Vnaw?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792809999
-    },
-    {
-      "titulo": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
-      "resumo": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example o",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1792809739
-    },
-    {
-      "titulo": "VERDADEIRO: Brasil só teve a primeira universidade 420 anos depois da chegada dos portugueses, como disse Lula? - Revista Fórum",
-      "resumo": "VERDADEIRO: Brasil só teve a primeira universidade 420 anos depois da chegada dos portugueses, como disse Lula?  Revista Fórum",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3pNUmY4eU50QUk1UnZRclBpcEVWTlgwY2lXS2p6OFlaWjJURGFfZHdLcDBjaVBoeWVZZE1pTjViMjdYbWdLd3R0WnJvVm43LVY0eVJGelNTcmtKeC1XNm9EUXlybUg1M0M1ZnRrRi1fMzFXaVp6OWNRdDlkaTA4LVRB?oc=5",
-      "fonte": "Saúde e Pesquisa — Brasil",
-      "categoria": "Saúde",
-      "idioma": "pt",
-      "timestamp": 1792806378
     }
   ]
 }
