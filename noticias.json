@@ -1,6 +1,174 @@
 {
-  "atualizado_em": "2026-10-28T15:59:41.538332+00:00",
+  "atualizado_em": "2026-10-29T16:05:52.742270+00:00",
   "noticias": [
+    {
+      "titulo": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "resumo": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo d",
+      "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793287283
+    },
+    {
+      "titulo": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "resumo": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fl",
+      "link": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793286618
+    },
+    {
+      "titulo": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+      "resumo": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inf",
+      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793286400
+    },
+    {
+      "titulo": "NASA’s Hubble Marks Way for Roman Space Telescope",
+      "resumo": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope ",
+      "link": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793285367
+    },
+    {
+      "titulo": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+      "resumo": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 li",
+      "link": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793282461
+    },
+    {
+      "titulo": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+      "resumo": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, ",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793280454
+    },
+    {
+      "titulo": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "resumo": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discover",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793279692
+    },
+    {
+      "titulo": "Six popular sugar substitutes linked to faster brain aging",
+      "resumo": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweetene",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793279044
+    },
+    {
+      "titulo": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
+      "resumo": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793277533
+    },
+    {
+      "titulo": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "resumo": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793276785
+    },
+    {
+      "titulo": "Einstein's equations may explain the universe without dark energy",
+      "resumo": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793275678
+    },
+    {
+      "titulo": "Less than 42 minutes of bright daylight linked to higher dementia risk",
+      "resumo": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with lo",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793273432
+    },
+    {
+      "titulo": "128,000-year-old ice in Tibet could rewrite climate history",
+      "resumo": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793261447
+    },
+    {
+      "titulo": "APOD: 29 October 2026 – The Horns of Venus",
+      "resumo": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasci",
+      "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793246700
+    },
+    {
+      "titulo": "Arnab Strikes India",
+      "resumo": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793246460
+    },
+    {
+      "titulo": "Your blood pressure could be dangerous even when your numbers look normal",
+      "resumo": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new trea",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793246077
+    },
+    {
+      "titulo": "Scientists just broke a textbook rule of physics",
+      "resumo": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously acc",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793245167
+    },
+    {
+      "titulo": "Meteors don't just burn up. What really happens is far more violent",
+      "resumo": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help expl",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793243201
+    },
+    {
+      "titulo": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "resumo": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NA",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793242199
+    },
+    {
+      "titulo": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+      "resumo": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions ma",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793236385
+    },
+    {
+      "titulo": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "resumo": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at ",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793224201
+    },
     {
       "titulo": "Webb Sees Turbulent Star Nursery",
       "resumo": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satelli",
@@ -312,190 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793009176
-    },
-    {
-      "titulo": "Archaeologists may have just found the world's oldest shipwreck",
-      "resumo": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues ab",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793008275
-    },
-    {
-      "titulo": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
-      "resumo": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was nearl",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793006721
-    },
-    {
-      "titulo": "2026 October 26 – M42: The Great Nebula in Orion",
-      "resumo": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascin",
-      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792987500
-    },
-    {
-      "titulo": "Hunting Red Leaves with Satellites",
-      "resumo": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1792987260
-    },
-    {
-      "titulo": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-      "resumo": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even w",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1792978968
-    },
-    {
-      "titulo": "Dengue em nível epidêmico já atinge 292 microrregiões, o dobro de 2006, mostra Fiocruz - soubrasilia.com",
-      "resumo": "Dengue em nível epidêmico já atinge 292 microrregiões, o dobro de 2006, mostra Fiocruz  soubrasilia.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXNGaUpjcFRPOEJNMzg1a0RuM2gwOEhsMlM4M3Z6dENucGx1QkZKVkZBejFweV8wNWROUnJkZ3RDcWlBXzhUS2RrblcxRkt1MXpMXzd2QVRaSnMzMzBmNDFwT2pNQW1rcXpBQ1pFZG9xQWZKSllfcV9WS05mWFJWY2dXTDV5TzUxVnhiR1I5SEJVUld6Qk9HRA?oc=5",
-      "fonte": "Saúde e Pesquisa — Brasil",
-      "categoria": "Saúde",
-      "idioma": "pt",
-      "timestamp": 1792933560
-    },
-    {
-      "titulo": "Three giant black holes discovered in a galaxy from the dawn of time",
-      "resumo": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792930021
-    },
-    {
-      "titulo": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Agência Brasil",
-      "resumo": "Mudanças climáticas já causam aumento de doenças infecciosas no país  Agência Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQURmYWoyM2JjSXFMNE5BQnZvaUg0TXo5WW96REdINWZVNTdTcDdpNHFZYXNJOVFVNUI3TV9UeXVmckpCaGJWVTdnZ2ZROW5vLU1CcGVJc3pkd0l4WTRCSVpCVjRzVEhybmdtYXB2UUJkMjJBVm4xSm1KTTl2MUFmQUJQSHRKOWxxUDhhMk50LUZHWndIM0FpS2JHdWRCUDQxNm9EeXBwVmF3aERnbFFpbUliUEwwTi11eUp2cGF1YW8?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792929960
-    },
-    {
-      "titulo": "New evidence suggests spinosaurus spent most of its life underwater",
-      "resumo": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues abo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792929174
-    },
-    {
-      "titulo": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-      "resumo": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes,",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792926025
-    },
-    {
-      "titulo": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-      "resumo": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though p",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792923708
-    },
-    {
-      "titulo": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "resumo": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasc",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792916388
-    },
-    {
-      "titulo": "This mysterious mushroom makes people see hundreds of tiny humans",
-      "resumo": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have i",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792910170
-    },
-    {
-      "titulo": "Astronomers may have discovered the first moon beyond our Solar System",
-      "resumo": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792897985
-    },
-    {
-      "titulo": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
-      "resumo": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken supercondu",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência e Pesquisa",
-      "idioma": "en",
-      "timestamp": 1792894747
-    },
-    {
-      "titulo": "Unex Feira de Santana recebe Semana Municipal de Ciência, Inovação e Tecnologia - Jornal Grande Bahia",
-      "resumo": "Unex Feira de Santana recebe Semana Municipal de Ciência, Inovação e Tecnologia  Jornal Grande Bahia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS24yT281MTJ3bloweTJ3Qk9IUW5DQXNsVVM0SEFJLTd3OFVNRFBMc1lfd3JNTXVTWmJFRE41a1dxTDBRa2FIaDQ2VzQycnRzazdVUlJPV0pXRDZ2NHNBUkZ1dmE5dlItM0hxMndwQUxWSF9SUEtJSWxpdEcxY3ZQVmxLbGF6ZmV5Q0RZMW5lM25vNXhBMUJvc25keEdzVmdSZHZidzJnODBMSXB0NWx3TTFFR2E1U3dQSFJPWA?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792879228
-    },
-    {
-      "titulo": "Uso de inteligência artificial em currículos atrasa 74% das contratações, diz pesquisa - Diário do Grande ABC",
-      "resumo": "Uso de inteligência artificial em currículos atrasa 74% das contratações, diz pesquisa  Diário do Grande ABC",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUtuNFlveUZCd0ZnZnlNVnQ0cW9HaTBDbmRvTk9Db1ZjSDA0WURtcXlBbHFlSHN2Z3BQUVpjcHg0SFROUVdRanByOWNNMjNZV0V6cjdJN1JNeVExM21FbTBVeVliekU3TUhaTWhKOVlOUHZLZFVOWWNxZEt1SXVKWXdtYWFzUk8wM2FmUTQ0Q3dEcDI4M1NxNHhCMFBERUMwdkR5X0FkZmdsY0ZUcEFfeDVRcy1xekdsTGFpR2Q0WmdIUDg?oc=5",
-      "fonte": "Inteligência Artificial — Brasil",
-      "categoria": "Inteligência Artificial",
-      "idioma": "pt",
-      "timestamp": 1792877400
-    },
-    {
-      "titulo": "Rio Branco está entre dez municípios selecionados para iniciativa nacional de adaptação climática - Acre Agora",
-      "resumo": "Rio Branco está entre dez municípios selecionados para iniciativa nacional de adaptação climática  Acre Agora",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEwybG9FQkRrcC1QWjBCbXdFZWh0cXJONS01R1d2WlpWa3FKbUM0bDl3c0NWSG1nMHdkOVhqS19pRGJDcFd3bTFWVHJEUUJZbzZBekJyeEdRSExDQ0VQZm5uSVBoOHNhd19ZU2syODF2dUQxRUthOEZ1eTNiVFVUR1kxOXk2TjFLdGp0TXBjZlJzdGlIU0txbGctVU8tcGttbk55QXgxZWM5N005QkQzeWgwdVJ6TUtwODFWd09mSGFJbFdDdTdXTi1ab9IBywFBVV95cUxPZEwybG9FQkRrcC1QWjBCbXdFZWh0cXJONS01R1d2WlpWa3FKbUM0bDl3c0NWSG1nMHdkOVhqS19pRGJDcFd3bTFWVHJEUUJZbzZBekJyeEdRSExDQ0VQZm5uSVBoOHNhd19ZU2syODF2dUQxRUthOEZ1eTNiVFVUR1kxOXk2TjFLdGp0TXBjZlJzdGlIU0txbGctVU8tcGttbk55QXgxZWM5N005QkQzeWgwdVJ6TUtwODFWd09mSGFJbFdDdTdXTi1abw?oc=5",
-      "fonte": "Ambiente e Clima — Brasil",
-      "categoria": "Meio Ambiente",
-      "idioma": "pt",
-      "timestamp": 1792876495
-    },
-    {
-      "titulo": "Can Tho remove obstáculos ao desenvolvimento da ciência e tecnologia, da inovação e da transformação digital. - Vietnam.vn",
-      "resumo": "Can Tho remove obstáculos ao desenvolvimento da ciência e tecnologia, da inovação e da transformação digital.  Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck1xY1MzM204Um1yVEIwQkIyWkk0M1FEODJNR1pwTW5wZEo1N3RqNGUwckxHb29kbVRsTWVZdEtENlkxaEZLY29ucUFhbzU4LXNTc3B4TUk1VWVOMFNZRXNzX0U4YURBeEZsbHhrLTNGbXlRdmhPSUNTQUlhd3hicXJvY1VpVi15cEpqOHdIamZuUm1jRWc?oc=5",
-      "fonte": "Tecnologia e Inovação — Brasil",
-      "categoria": "Tecnologia e Inovação",
-      "idioma": "pt",
-      "timestamp": 1792875667
-    },
-    {
-      "titulo": "Centro de Ciências é inaugurado em parceria com a USP e recebe estudantes em exposição interativa - Região em Destake",
-      "resumo": "Centro de Ciências é inaugurado em parceria com a USP e recebe estudantes em exposição interativa  Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWE5Y0NJOTdlUzRPdC1ueGdWamxtNU1kWXVZNW5tMU5NNzhteHJHRXlfRWRlb3NzWUJwRW1Xdy03MVJUemhaU0U4dFRNeHlTWC1LRWlkOXFPZzdzalNKYmhEQzVVTjZMOTgxRjVFOE5mc25GNTJySTFQNGNTWE8wLWJYdHJGVGF5Mkw1cTAzWkZlb0hYQzFR?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792853804
-    },
-    {
-      "titulo": "Unioeste é palco do maior evento de ciência, tecnologia e conhecimento aberto à comunidade - Gazeta de Toledo",
-      "resumo": "Unioeste é palco do maior evento de ciência, tecnologia e conhecimento aberto à comunidade  Gazeta de Toledo",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYWQxZmtXbldyVkVrVXN3TzQxZkJYNFV3YjNDaTNiZWd1WVlLWHcwcTRKa2ZWWXNFejhCWTgtd3h5SjAtUnI4VElwZFlONllpMEFnXy1lVVpsdm84elBSZzBQSXV1YjVsZTMtQmlOSTFtNGlpbThGbUwwZjVpN3U3QWpwZllWb0hlQW51VzV6X3M5emtPT3NkTkJQSzc1azJCb192ZEp1cjBKQ3lNQ0R2Wk9KRS1kMGNobkREWQ?oc=5",
-      "fonte": "Educação e Ciência — Brasil",
-      "categoria": "Educação",
-      "idioma": "pt",
-      "timestamp": 1792849522
     }
   ]
 }
