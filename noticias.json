@@ -1,6 +1,150 @@
 {
-  "atualizado_em": "2026-10-29T16:05:52.742270+00:00",
+  "atualizado_em": "2026-10-30T15:55:07.547866+00:00",
   "noticias": [
+    {
+      "titulo": "Physicists created a tiny universe and watched time emerge without a clock",
+      "resumo": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher bu",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793360556
+    },
+    {
+      "titulo": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+      "resumo": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed the",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793360056
+    },
+    {
+      "titulo": "A computer scientist breaks through a limit that stood since 1996",
+      "resumo": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without s",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793358532
+    },
+    {
+      "titulo": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+      "resumo": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful wind",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793357422
+    },
+    {
+      "titulo": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
+      "resumo": "A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year. Researchers found that as many as 7 million people coul",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072117.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793356620
+    },
+    {
+      "titulo": "November’s Night Sky Notes: Light-Day Away",
+      "resumo": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity as",
+      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793354400
+    },
+    {
+      "titulo": "Astronauts just gave the International Space Station a powerful upgrade",
+      "resumo": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station wil",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793340775
+    },
+    {
+      "titulo": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "resumo": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793333100
+    },
+    {
+      "titulo": "Vega Island Frozen in Fright",
+      "resumo": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793332860
+    },
+    {
+      "titulo": "A mysterious star system just 16 light-years away may be hiding habitable planets",
+      "resumo": "Astronomers have solved a 170-year-old planetary mystery in a nearby two-star system, discovering that a mysterious wobble was caused by stellar activity rather than a giant planet. Although Jupiter-sized worlds have been ruled out in key r",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793330237
+    },
+    {
+      "titulo": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+      "resumo": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed \"sea muppets,\" ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793326039
+    },
+    {
+      "titulo": "Scientists discover why chronic back pain feels so personal",
+      "resumo": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793319997
+    },
+    {
+      "titulo": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "resumo": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorit",
+      "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793318859
+    },
+    {
+      "titulo": "Slice of Martian Meteorite Teghaza 001",
+      "resumo": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals ",
+      "link": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793316755
+    },
+    {
+      "titulo": "Halloween Aboard the International Space Station",
+      "resumo": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire cr",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793310263
+    },
+    {
+      "titulo": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "resumo": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece ",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793297889
+    },
+    {
+      "titulo": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "resumo": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and op",
+      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793296835
+    },
+    {
+      "titulo": "NIH–NASA QuSAFE Challenge",
+      "resumo": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and ",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793295877
+    },
     {
       "titulo": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
       "resumo": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo d",
@@ -336,150 +480,6 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1793073900
-    },
-    {
-      "titulo": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-      "resumo": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793073746
-    },
-    {
-      "titulo": "A-81 Reaches South Georgia",
-      "resumo": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793073600
-    },
-    {
-      "titulo": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
-      "resumo": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and identify new strategies ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793068358
-    },
-    {
-      "titulo": "1.9-million-year-old discovery rewrites the story of human evolution",
-      "resumo": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793064908
-    },
-    {
-      "titulo": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
-      "resumo": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough a",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793059023
-    },
-    {
-      "titulo": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "resumo": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swep",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793054892
-    },
-    {
-      "titulo": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "resumo": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penet",
-      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793048848
-    },
-    {
-      "titulo": "NEO Surveyor’s Sunshade Gets Inspected",
-      "resumo": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure s",
-      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793047993
-    },
-    {
-      "titulo": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "resumo": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, t",
-      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793047944
-    },
-    {
-      "titulo": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "resumo": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research tea",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793042888
-    },
-    {
-      "titulo": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "resumo": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793034824
-    },
-    {
-      "titulo": "NASA’s X-59 Aircraft and Test Pilot",
-      "resumo": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first su",
-      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793028347
-    },
-    {
-      "titulo": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-      "resumo": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for Uni",
-      "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793022865
-    },
-    {
-      "titulo": "Exercise doesn't just strengthen your heart. It rewires it",
-      "resumo": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793014553
-    },
-    {
-      "titulo": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
-      "resumo": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793012768
-    },
-    {
-      "titulo": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
-      "resumo": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after th",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793011811
-    },
-    {
-      "titulo": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "resumo": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793010260
-    },
-    {
-      "titulo": "Tiny magnetic vortices could help computers work more like your brain",
-      "resumo": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a realit",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793009176
     }
   ]
 }
