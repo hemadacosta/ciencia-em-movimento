@@ -1,6 +1,94 @@
 {
-  "atualizado_em": "2026-10-30T15:55:07.547866+00:00",
+  "atualizado_em": "2026-10-31T15:18:38.951975+00:00",
   "noticias": [
+    {
+      "titulo": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+      "resumo": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societi",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793452189
+    },
+    {
+      "titulo": "Scientists discover metals that defy the deep freeze at -424°F",
+      "resumo": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking, two experimental al",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793450759
+    },
+    {
+      "titulo": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
+      "resumo": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon pierced the chest and",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793444720
+    },
+    {
+      "titulo": "Scientists discover a bacterial defense so strange they thought it was broken",
+      "resumo": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusua",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793443110
+    },
+    {
+      "titulo": "A surprising vitamin A discovery is changing what scientists know about vision",
+      "resumo": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, rese",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793421101
+    },
+    {
+      "titulo": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "resumo": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793419500
+    },
+    {
+      "titulo": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "resumo": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collision",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793412578
+    },
+    {
+      "titulo": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+      "resumo": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an e",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793408392
+    },
+    {
+      "titulo": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "resumo": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
+      "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793388662
+    },
+    {
+      "titulo": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "resumo": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by ",
+      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793375786
+    },
+    {
+      "titulo": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "resumo": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793371881
+    },
     {
       "titulo": "Physicists created a tiny universe and watched time emerge without a clock",
       "resumo": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher bu",
@@ -392,94 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793156558
-    },
-    {
-      "titulo": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
-      "resumo": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mobile genetic elements",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793151635
-    },
-    {
-      "titulo": "Scientists discover the immune system’s hidden sense of touch",
-      "resumo": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, usin",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793148894
-    },
-    {
-      "titulo": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "resumo": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health a",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793129242
-    },
-    {
-      "titulo": "NASA’s Neo Surveyor Sunshade",
-      "resumo": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its b",
-      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793123937
-    },
-    {
-      "titulo": "Common drugs may help dangerous viruses spread through the body",
-      "resumo": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory dis",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793097981
-    },
-    {
-      "titulo": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-      "resumo": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793096452
-    },
-    {
-      "titulo": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-      "resumo": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreat",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793094515
-    },
-    {
-      "titulo": "A tiny laser beam could make computer memory 1,000 times faster",
-      "resumo": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By precisely shaping and s",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793092926
-    },
-    {
-      "titulo": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "resumo": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, ",
-      "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793084871
-    },
-    {
-      "titulo": "Do spiders dream? Scientists just found a surprising clue",
-      "resumo": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fim",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793076791
-    },
-    {
-      "titulo": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "resumo": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793073900
     }
   ]
 }
