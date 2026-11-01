@@ -1,6 +1,62 @@
 {
-  "atualizado_em": "2026-10-31T15:18:38.951975+00:00",
+  "atualizado_em": "2026-11-01T15:59:51.982170+00:00",
   "noticias": [
+    {
+      "titulo": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "resumo": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect the",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793536393
+    },
+    {
+      "titulo": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+      "resumo": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793534146
+    },
+    {
+      "titulo": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+      "resumo": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused ultrasound, tiny na",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793530153
+    },
+    {
+      "titulo": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+      "resumo": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middle East, rather than ",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793529166
+    },
+    {
+      "titulo": "Scientists say a forgotten particle may explain why the universe exists",
+      "resumo": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectab",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793507616
+    },
+    {
+      "titulo": "APOD: 2026 November 1 – Colors of the Moon",
+      "resumo": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793505900
+    },
+    {
+      "titulo": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+      "resumo": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forest",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793501068
+    },
     {
       "titulo": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
       "resumo": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societi",
@@ -424,62 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793189512
-    },
-    {
-      "titulo": "Scientists discover a hidden 100-million-year-old volcanic system",
-      "resumo": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an ancient ocean and the ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793188817
-    },
-    {
-      "titulo": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-      "resumo": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793185705
-    },
-    {
-      "titulo": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-      "resumo": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793183376
-    },
-    {
-      "titulo": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "resumo": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793165986
-    },
-    {
-      "titulo": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "resumo": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasci",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793160300
-    },
-    {
-      "titulo": "The Land of the Standing-Up Rocks",
-      "resumo": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793160060
-    },
-    {
-      "titulo": "The autistic brain processes faces differently than scientists thought",
-      "resumo": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become m",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793156558
     }
   ]
 }
