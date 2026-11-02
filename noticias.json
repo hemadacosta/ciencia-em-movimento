@@ -1,6 +1,94 @@
 {
-  "atualizado_em": "2026-11-01T15:59:51.982170+00:00",
+  "atualizado_em": "2026-11-02T19:28:00.331586+00:00",
   "noticias": [
+    {
+      "titulo": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "resumo": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), Ja",
+      "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793645442
+    },
+    {
+      "titulo": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "resumo": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor ",
+      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793643598
+    },
+    {
+      "titulo": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "resumo": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793640802
+    },
+    {
+      "titulo": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "resumo": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793631639
+    },
+    {
+      "titulo": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+      "resumo": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusiv",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793626927
+    },
+    {
+      "titulo": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
+      "resumo": "NASA’s Perseverance rover has set a historic record by traveling 28.10 miles across Mars, farther than any vehicle has ever driven on another world. Armed with groundbreaking autonomous navigation technology and increasingly advanced drivin",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793618884
+    },
+    {
+      "titulo": "NASA reveals a haunting skull hidden in Antarctica’s ice",
+      "resumo": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have exposed large areas of dar",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793613036
+    },
+    {
+      "titulo": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+      "resumo": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic clues from human remai",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793604631
+    },
+    {
+      "titulo": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "resumo": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascina",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793595900
+    },
+    {
+      "titulo": "Pennsylvania’s Grand Canyon",
+      "resumo": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793595660
+    },
+    {
+      "titulo": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+      "resumo": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have rem",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793588821
+    },
     {
       "titulo": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
       "resumo": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect the",
@@ -392,94 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793261447
-    },
-    {
-      "titulo": "APOD: 29 October 2026 – The Horns of Venus",
-      "resumo": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasci",
-      "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793246700
-    },
-    {
-      "titulo": "Arnab Strikes India",
-      "resumo": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793246460
-    },
-    {
-      "titulo": "Your blood pressure could be dangerous even when your numbers look normal",
-      "resumo": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new trea",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793246077
-    },
-    {
-      "titulo": "Scientists just broke a textbook rule of physics",
-      "resumo": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously acc",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793245167
-    },
-    {
-      "titulo": "Meteors don't just burn up. What really happens is far more violent",
-      "resumo": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help expl",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793243201
-    },
-    {
-      "titulo": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-      "resumo": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NA",
-      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793242199
-    },
-    {
-      "titulo": "Scientists discover a hidden oxygen reservoir deep inside Earth",
-      "resumo": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions ma",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793236385
-    },
-    {
-      "titulo": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-      "resumo": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at ",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793224201
-    },
-    {
-      "titulo": "Webb Sees Turbulent Star Nursery",
-      "resumo": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satelli",
-      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793201590
-    },
-    {
-      "titulo": "Smaller EV batteries, longer range? Scientists may have found a way",
-      "resumo": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793190343
-    },
-    {
-      "titulo": "Scientists discover a secret glow in toxic fire salamanders",
-      "resumo": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their t",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793189512
     }
   ]
 }
