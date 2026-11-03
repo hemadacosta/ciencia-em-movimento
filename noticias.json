@@ -1,6 +1,142 @@
 {
-  "atualizado_em": "2026-11-02T19:28:00.331586+00:00",
+  "atualizado_em": "2026-11-03T17:00:13.196289+00:00",
   "noticias": [
+    {
+      "titulo": "Astronaut and Earth",
+      "resumo": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astron",
+      "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793723862
+    },
+    {
+      "titulo": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "resumo": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. T",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793720114
+    },
+    {
+      "titulo": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "resumo": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of Class",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793718950
+    },
+    {
+      "titulo": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
+      "resumo": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memor",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793710982
+    },
+    {
+      "titulo": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
+      "resumo": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog population",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793710313
+    },
+    {
+      "titulo": "Scientists identify two overlooked skills that predict reading success",
+      "resumo": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabula",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793708118
+    },
+    {
+      "titulo": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+      "resumo": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing ev",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793703504
+    },
+    {
+      "titulo": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+      "resumo": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793699181
+    },
+    {
+      "titulo": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
+      "resumo": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientifi",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793693470
+    },
+    {
+      "titulo": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "resumo": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793682300
+    },
+    {
+      "titulo": "The Pacific’s Busy Storm Season",
+      "resumo": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793682060
+    },
+    {
+      "titulo": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+      "resumo": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimenta",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793679118
+    },
+    {
+      "titulo": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
+      "resumo": "Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe moments after the Big Bang. Known as quar",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793673544
+    },
+    {
+      "titulo": "Scientists just found a loophole that could let black holes split in two",
+      "resumo": "Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two. The surprising finding raises the possibility of a",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793669269
+    },
+    {
+      "titulo": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
+      "resumo": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793666099
+    },
+    {
+      "titulo": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "resumo": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793655359
+    },
+    {
+      "titulo": "TB 26-09 Measured Hammer-Tap Inputs",
+      "resumo": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response ",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793652461
+    },
     {
       "titulo": "NASA’s CHAPEA Crew “Returns” to Earth",
       "resumo": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), Ja",
@@ -344,142 +480,6 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1793316755
-    },
-    {
-      "titulo": "Halloween Aboard the International Space Station",
-      "resumo": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire cr",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793310263
-    },
-    {
-      "titulo": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "resumo": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece ",
-      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793297889
-    },
-    {
-      "titulo": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-      "resumo": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and op",
-      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793296835
-    },
-    {
-      "titulo": "NIH–NASA QuSAFE Challenge",
-      "resumo": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and ",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793295877
-    },
-    {
-      "titulo": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-      "resumo": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo d",
-      "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793287283
-    },
-    {
-      "titulo": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "resumo": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fl",
-      "link": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793286618
-    },
-    {
-      "titulo": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-      "resumo": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inf",
-      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793286400
-    },
-    {
-      "titulo": "NASA’s Hubble Marks Way for Roman Space Telescope",
-      "resumo": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope ",
-      "link": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793285367
-    },
-    {
-      "titulo": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
-      "resumo": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 li",
-      "link": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793282461
-    },
-    {
-      "titulo": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
-      "resumo": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, ",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793280454
-    },
-    {
-      "titulo": "A single brain signal may explain schizophrenia's most puzzling symptoms",
-      "resumo": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discover",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793279692
-    },
-    {
-      "titulo": "Six popular sugar substitutes linked to faster brain aging",
-      "resumo": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweetene",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793279044
-    },
-    {
-      "titulo": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-      "resumo": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793277533
-    },
-    {
-      "titulo": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-      "resumo": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793276785
-    },
-    {
-      "titulo": "Einstein's equations may explain the universe without dark energy",
-      "resumo": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793275678
-    },
-    {
-      "titulo": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-      "resumo": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with lo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793273432
-    },
-    {
-      "titulo": "128,000-year-old ice in Tibet could rewrite climate history",
-      "resumo": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793261447
     }
   ]
 }
