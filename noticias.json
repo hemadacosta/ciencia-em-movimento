@@ -1,6 +1,134 @@
 {
-  "atualizado_em": "2026-11-03T17:00:13.196289+00:00",
+  "atualizado_em": "2026-11-04T17:12:50.803312+00:00",
   "noticias": [
+    {
+      "titulo": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "resumo": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilitie",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793811163
+    },
+    {
+      "titulo": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "resumo": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nea",
+      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793809001
+    },
+    {
+      "titulo": "Hubble Reveals Cosmic Mystery",
+      "resumo": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — incl",
+      "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793807976
+    },
+    {
+      "titulo": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
+      "resumo": "Weather provided ideal conditions for enhanced ozone depletion",
+      "link": "https://science.nasa.gov/earth/2026-ozone-hole/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793804414
+    },
+    {
+      "titulo": "Scientists may have finally explained why our brains and bodies are cross-wired",
+      "resumo": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish. Rather than evolving fo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793798692
+    },
+    {
+      "titulo": "Permanent daylight saving time has a dark side, scientists warn",
+      "resumo": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks. Researchers f",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793796648
+    },
+    {
+      "titulo": "A tiny squeeze dramatically changes the magnetism of exotic materials",
+      "resumo": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets. The surprising breakthrough could open the door to faster, more ener",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793795872
+    },
+    {
+      "titulo": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+      "resumo": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new gene",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793795016
+    },
+    {
+      "titulo": "NASA is racing against time to save the Hubble Space Telescope",
+      "resumo": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without inter",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793791353
+    },
+    {
+      "titulo": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+      "resumo": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that pr",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793789024
+    },
+    {
+      "titulo": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+      "resumo": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793775426
+    },
+    {
+      "titulo": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "resumo": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasci",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793768700
+    },
+    {
+      "titulo": "Before the Dawn in America’s Heartland",
+      "resumo": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793768460
+    },
+    {
+      "titulo": "Gene editing could replace a lifetime of medication, but there's a catch",
+      "resumo": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduc",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793766657
+    },
+    {
+      "titulo": "Scientists trick cancer cells into making the drugs that kill them",
+      "resumo": "Scientists have developed a promising new cancer-fighting strategy that uses carbon monoxide naturally produced by tumor cells to manufacture powerful drugs inside the cancer cells themselves. Early laboratory experiments suggest the techni",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793765131
+    },
+    {
+      "titulo": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "resumo": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormou",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793760736
+    },
     {
       "titulo": "Astronaut and Earth",
       "resumo": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astron",
@@ -352,134 +480,6 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1793388662
-    },
-    {
-      "titulo": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "resumo": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by ",
-      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793375786
-    },
-    {
-      "titulo": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "resumo": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793371881
-    },
-    {
-      "titulo": "Physicists created a tiny universe and watched time emerge without a clock",
-      "resumo": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher bu",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793360556
-    },
-    {
-      "titulo": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-      "resumo": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed the",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793360056
-    },
-    {
-      "titulo": "A computer scientist breaks through a limit that stood since 1996",
-      "resumo": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without s",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793358532
-    },
-    {
-      "titulo": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-      "resumo": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful wind",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793357422
-    },
-    {
-      "titulo": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
-      "resumo": "A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year. Researchers found that as many as 7 million people coul",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072117.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793356620
-    },
-    {
-      "titulo": "November’s Night Sky Notes: Light-Day Away",
-      "resumo": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity as",
-      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793354400
-    },
-    {
-      "titulo": "Astronauts just gave the International Space Station a powerful upgrade",
-      "resumo": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station wil",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793340775
-    },
-    {
-      "titulo": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-      "resumo": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793333100
-    },
-    {
-      "titulo": "Vega Island Frozen in Fright",
-      "resumo": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793332860
-    },
-    {
-      "titulo": "A mysterious star system just 16 light-years away may be hiding habitable planets",
-      "resumo": "Astronomers have solved a 170-year-old planetary mystery in a nearby two-star system, discovering that a mysterious wobble was caused by stellar activity rather than a giant planet. Although Jupiter-sized worlds have been ruled out in key r",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793330237
-    },
-    {
-      "titulo": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-      "resumo": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed \"sea muppets,\" ",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793326039
-    },
-    {
-      "titulo": "Scientists discover why chronic back pain feels so personal",
-      "resumo": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793319997
-    },
-    {
-      "titulo": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-      "resumo": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorit",
-      "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793318859
-    },
-    {
-      "titulo": "Slice of Martian Meteorite Teghaza 001",
-      "resumo": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals ",
-      "link": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793316755
     }
   ]
 }
