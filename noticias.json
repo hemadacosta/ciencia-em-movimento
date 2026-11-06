@@ -1,6 +1,78 @@
 {
-  "atualizado_em": "2026-11-05T17:22:28.201544+00:00",
+  "atualizado_em": "2026-11-06T16:44:12.111445+00:00",
   "noticias": [
+    {
+      "titulo": "M30’s Sparkling Stars",
+      "resumo": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other d",
+      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793982221
+    },
+    {
+      "titulo": "Scientists just found dinosaur blood that survived 115 million years",
+      "resumo": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clu",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793964481
+    },
+    {
+      "titulo": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+      "resumo": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although farmers have reporte",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793957616
+    },
+    {
+      "titulo": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+      "resumo": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793953268
+    },
+    {
+      "titulo": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "resumo": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793949175
+    },
+    {
+      "titulo": "APOD: 2026 November 6 – A Farewell to Swift",
+      "resumo": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascina",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793941500
+    },
+    {
+      "titulo": "Taking a Gander at Utah’s Goosenecks",
+      "resumo": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793941260
+    },
+    {
+      "titulo": "Dead stars could break one of physics' most famous limits",
+      "resumo": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Su",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1793934669
+    },
+    {
+      "titulo": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+      "resumo": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1793927479
+    },
     {
       "titulo": "Midwestern City Lights",
       "resumo": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and th",
@@ -408,78 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793626927
-    },
-    {
-      "titulo": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
-      "resumo": "NASA’s Perseverance rover has set a historic record by traveling 28.10 miles across Mars, farther than any vehicle has ever driven on another world. Armed with groundbreaking autonomous navigation technology and increasingly advanced drivin",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793618884
-    },
-    {
-      "titulo": "NASA reveals a haunting skull hidden in Antarctica’s ice",
-      "resumo": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have exposed large areas of dar",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793613036
-    },
-    {
-      "titulo": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
-      "resumo": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic clues from human remai",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793604631
-    },
-    {
-      "titulo": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "resumo": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascina",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793595900
-    },
-    {
-      "titulo": "Pennsylvania’s Grand Canyon",
-      "resumo": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793595660
-    },
-    {
-      "titulo": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-      "resumo": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have rem",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793588821
-    },
-    {
-      "titulo": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-      "resumo": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect the",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793536393
-    },
-    {
-      "titulo": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-      "resumo": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793534146
-    },
-    {
-      "titulo": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-      "resumo": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused ultrasound, tiny na",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793530153
     }
   ]
 }
