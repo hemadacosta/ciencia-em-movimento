@@ -1,6 +1,54 @@
 {
-  "atualizado_em": "2026-11-06T16:44:12.111445+00:00",
+  "atualizado_em": "2026-11-07T15:38:54.863953+00:00",
   "noticias": [
+    {
+      "titulo": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
+      "resumo": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exh",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794045603
+    },
+    {
+      "titulo": "Scientists discover Europe's ancient forests were nothing like we imagined",
+      "resumo": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery ch",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794044688
+    },
+    {
+      "titulo": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+      "resumo": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years a",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794042763
+    },
+    {
+      "titulo": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "resumo": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794027900
+    },
+    {
+      "titulo": "A dead star's mysterious rings reveal what could happen when our Sun dies",
+      "resumo": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that researchers believe is maint",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794003176
+    },
+    {
+      "titulo": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+      "resumo": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture. The surprising breakthrough, achieved using relatively simple che",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794000484
+    },
     {
       "titulo": "M30’s Sparkling Stars",
       "resumo": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other d",
@@ -8,6 +56,14 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1793982221
+    },
+    {
+      "titulo": "Supercomputing Tech Demo Schedule",
+      "resumo": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortra",
+      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1793981032
     },
     {
       "titulo": "Scientists just found dinosaur blood that survived 115 million years",
@@ -424,62 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793666099
-    },
-    {
-      "titulo": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "resumo": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793655359
-    },
-    {
-      "titulo": "TB 26-09 Measured Hammer-Tap Inputs",
-      "resumo": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response ",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793652461
-    },
-    {
-      "titulo": "NASA’s CHAPEA Crew “Returns” to Earth",
-      "resumo": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), Ja",
-      "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793645442
-    },
-    {
-      "titulo": "What’s Up: November 2026 Skywatching Tips from NASA",
-      "resumo": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor ",
-      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793643598
-    },
-    {
-      "titulo": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "resumo": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793640802
-    },
-    {
-      "titulo": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-      "resumo": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793631639
-    },
-    {
-      "titulo": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-      "resumo": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusiv",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793626927
     }
   ]
 }
