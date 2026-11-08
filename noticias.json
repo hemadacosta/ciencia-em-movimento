@@ -1,6 +1,94 @@
 {
-  "atualizado_em": "2026-11-07T15:38:54.863953+00:00",
+  "atualizado_em": "2026-11-08T15:57:05.750865+00:00",
   "noticias": [
+    {
+      "titulo": "NASA Announces $1 Million to Students for Moon Base Challenge",
+      "resumo": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794151598
+    },
+    {
+      "titulo": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "resumo": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794132685
+    },
+    {
+      "titulo": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "resumo": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of e",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794125663
+    },
+    {
+      "titulo": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "resumo": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794114300
+    },
+    {
+      "titulo": "Scientists discover hidden brain changes linked to common sleep disorders",
+      "resumo": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behav",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794113272
+    },
+    {
+      "titulo": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
+      "resumo": "Scientists have created record-breaking X-ray flashes lasting just 300 attoseconds, concentrating enormous power into an incredibly tiny spot. The breakthrough could unlock a new way to observe electrons in action and potentially control th",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794109611
+    },
+    {
+      "titulo": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+      "resumo": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794106348
+    },
+    {
+      "titulo": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "resumo": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical ener",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794100195
+    },
+    {
+      "titulo": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "resumo": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electro",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794094459
+    },
+    {
+      "titulo": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "resumo": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover nam",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794091623
+    },
+    {
+      "titulo": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "resumo": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and l",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794075117
+    },
     {
       "titulo": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
       "resumo": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exh",
@@ -392,94 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793710982
-    },
-    {
-      "titulo": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-      "resumo": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog population",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793710313
-    },
-    {
-      "titulo": "Scientists identify two overlooked skills that predict reading success",
-      "resumo": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabula",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793708118
-    },
-    {
-      "titulo": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
-      "resumo": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing ev",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793703504
-    },
-    {
-      "titulo": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-      "resumo": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793699181
-    },
-    {
-      "titulo": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
-      "resumo": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientifi",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793693470
-    },
-    {
-      "titulo": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "resumo": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793682300
-    },
-    {
-      "titulo": "The Pacific’s Busy Storm Season",
-      "resumo": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793682060
-    },
-    {
-      "titulo": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-      "resumo": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimenta",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793679118
-    },
-    {
-      "titulo": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
-      "resumo": "Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe moments after the Big Bang. Known as quar",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793673544
-    },
-    {
-      "titulo": "Scientists just found a loophole that could let black holes split in two",
-      "resumo": "Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two. The surprising finding raises the possibility of a",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793669269
-    },
-    {
-      "titulo": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
-      "resumo": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793666099
     }
   ]
 }
