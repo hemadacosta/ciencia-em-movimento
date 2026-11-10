@@ -1,6 +1,94 @@
 {
-  "atualizado_em": "2026-11-09T19:46:30.606856+00:00",
+  "atualizado_em": "2026-11-10T17:00:15.340112+00:00",
   "noticias": [
+    {
+      "titulo": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "resumo": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LIS",
+      "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794326426
+    },
+    {
+      "titulo": "CHAPEA Crew Leaves a Mark",
+      "resumo": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31",
+      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794322675
+    },
+    {
+      "titulo": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "resumo": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794287100
+    },
+    {
+      "titulo": "Autumn Mornings Bring Valley Fog",
+      "resumo": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794286800
+    },
+    {
+      "titulo": "Alzheimer’s may have early warning signs outside the brain",
+      "resumo": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794275254
+    },
+    {
+      "titulo": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "resumo": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. A",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794272865
+    },
+    {
+      "titulo": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "resumo": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusion",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794272748
+    },
+    {
+      "titulo": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+      "resumo": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794271372
+    },
+    {
+      "titulo": "Scientists finally discover why we learn to love bitter coffee",
+      "resumo": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods a",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794266375
+    },
+    {
+      "titulo": "Rubies on Mars?",
+      "resumo": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studyin",
+      "link": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794263232
+    },
+    {
+      "titulo": "Newest Sample, Oldest Rock?",
+      "resumo": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previ",
+      "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794263152
+    },
     {
       "titulo": "La NASA busca a la próxima generación de astronautas",
       "resumo": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agenc",
@@ -8,6 +96,14 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1794252440
+    },
+    {
+      "titulo": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "resumo": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of ",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794250550
     },
     {
       "titulo": "NASA Advanced Mid-Power Electric Rocket Challenge",
@@ -384,102 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1793887447
-    },
-    {
-      "titulo": "A clever molecular trick unlocks previously impossible properties in glass",
-      "resumo": "Scientists have discovered how to reprogram the internal structure of glass using a special molecule that rearranges chemical bonds while lowering the melting temperature. The breakthrough could unlock entirely new glass materials with prec",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793885811
-    },
-    {
-      "titulo": "400,000-year-old teeth reveal a stunning twist in human evolution",
-      "resumo": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,00",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793883912
-    },
-    {
-      "titulo": "Hubble Learns Galactic History From Stars",
-      "resumo": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793883381
-    },
-    {
-      "titulo": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "resumo": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793855100
-    },
-    {
-      "titulo": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "resumo": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793854860
-    },
-    {
-      "titulo": "A tiny supercurrent could unlock quantum information without destroying it",
-      "resumo": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achiev",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793850429
-    },
-    {
-      "titulo": "Scientists turn viruses into weapons against deadly superbugs",
-      "resumo": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized ",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793846433
-    },
-    {
-      "titulo": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "resumo": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the de",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793843001
-    },
-    {
-      "titulo": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "resumo": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration pl",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793826250
-    },
-    {
-      "titulo": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "resumo": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifica",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793815202
-    },
-    {
-      "titulo": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "resumo": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilitie",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793811163
-    },
-    {
-      "titulo": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "resumo": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nea",
-      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793809001
     }
   ]
 }
