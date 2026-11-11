@@ -1,6 +1,102 @@
 {
-  "atualizado_em": "2026-11-10T17:00:15.340112+00:00",
+  "atualizado_em": "2026-11-11T17:05:50.841245+00:00",
   "noticias": [
+    {
+      "titulo": "The mystery of how hair knows where to grow may finally be solved",
+      "resumo": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and reveal how nature c",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794401310
+    },
+    {
+      "titulo": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+      "resumo": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prev",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794400368
+    },
+    {
+      "titulo": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
+      "resumo": "A bizarrely deformed 1834 British silver coin found at a car boot sale may preserve evidence of a rare minting accident nearly 200 years ago. Advanced 3D scans and microscopic analysis revealed unusual metal distortions suggesting the coin ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794394102
+    },
+    {
+      "titulo": "Where are all the males? Ancient human fossils reveal a startling mystery",
+      "resumo": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794390235
+    },
+    {
+      "titulo": "A radical theory says the universe is twice as old as we thought",
+      "resumo": "A provocative new cosmological model suggests the Universe could be 26.7 billion years old and might not need dark matter or dark energy to explain its behavior. University of Ottawa researchers tested the theory against several major astro",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794379590
+    },
+    {
+      "titulo": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "resumo": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasc",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794373500
+    },
+    {
+      "titulo": "Water Surges Into Navajo Reservoir",
+      "resumo": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794373260
+    },
+    {
+      "titulo": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "resumo": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed a",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794360964
+    },
+    {
+      "titulo": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "resumo": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amph",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794358772
+    },
+    {
+      "titulo": "Astronomers discover hidden alien planet in James Webb images",
+      "resumo": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare o",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794354964
+    },
+    {
+      "titulo": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "resumo": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and an",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794338565
+    },
+    {
+      "titulo": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "resumo": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris W",
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794333993
+    },
     {
       "titulo": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
       "resumo": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LIS",
@@ -18,6 +114,30 @@
       "timestamp": 1794322675
     },
     {
+      "titulo": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+      "resumo": "NASA's Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794313809
+    },
+    {
+      "titulo": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
+      "resumo": "A century-old theory about the origins of life on Earth may be wrong. New research from the University of Cambridge suggests that comets traveled too fast and struck at unfavorable angles for the fragile molecules needed for life to survive",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794301315
+    },
+    {
+      "titulo": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
+      "resumo": "Global fossil fuel emissions are projected to fall in 2026 as renewable energy and electric vehicles gain ground, but rising emissions from deforestation threaten to push total CO2 emissions to a new record. Scientists warn that the world's",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794290725
+    },
+    {
       "titulo": "APOD: 2026 November 10 – Saturn Behind the Moon",
       "resumo": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
@@ -26,12 +146,36 @@
       "timestamp": 1794287100
     },
     {
+      "titulo": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "resumo": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming M",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794286841
+    },
+    {
       "titulo": "Autumn Mornings Bring Valley Fog",
       "resumo": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
       "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1794286800
+    },
+    {
+      "titulo": "NASA offers $500,000 to develop next-generation electric rocket engines",
+      "resumo": "NASA is putting $500,000 on the line in a new competition to accelerate the development of advanced electric rocket engines for satellites and future space exploration. The AMPERE Challenge will reward up to two U.S. companies with cash pri",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205404.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794278181
+    },
+    {
+      "titulo": "Why heart attacks can still happen even when bad cholesterol is low",
+      "resumo": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794275655
     },
     {
       "titulo": "Alzheimer’s may have early warning signs outside the brain",
@@ -336,150 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1794045603
-    },
-    {
-      "titulo": "Scientists discover Europe's ancient forests were nothing like we imagined",
-      "resumo": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery ch",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794044688
-    },
-    {
-      "titulo": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
-      "resumo": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years a",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794042763
-    },
-    {
-      "titulo": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-      "resumo": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794027900
-    },
-    {
-      "titulo": "A dead star's mysterious rings reveal what could happen when our Sun dies",
-      "resumo": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that researchers believe is maint",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794003176
-    },
-    {
-      "titulo": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
-      "resumo": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture. The surprising breakthrough, achieved using relatively simple che",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794000484
-    },
-    {
-      "titulo": "M30’s Sparkling Stars",
-      "resumo": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other d",
-      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793982221
-    },
-    {
-      "titulo": "Supercomputing Tech Demo Schedule",
-      "resumo": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortra",
-      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793981032
-    },
-    {
-      "titulo": "Scientists just found dinosaur blood that survived 115 million years",
-      "resumo": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clu",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793964481
-    },
-    {
-      "titulo": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
-      "resumo": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although farmers have reporte",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793957616
-    },
-    {
-      "titulo": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
-      "resumo": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach ",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793953268
-    },
-    {
-      "titulo": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "resumo": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793949175
-    },
-    {
-      "titulo": "APOD: 2026 November 6 – A Farewell to Swift",
-      "resumo": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascina",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793941500
-    },
-    {
-      "titulo": "Taking a Gander at Utah’s Goosenecks",
-      "resumo": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793941260
-    },
-    {
-      "titulo": "Dead stars could break one of physics' most famous limits",
-      "resumo": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Su",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1793934669
-    },
-    {
-      "titulo": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-      "resumo": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged ",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793927479
-    },
-    {
-      "titulo": "Midwestern City Lights",
-      "resumo": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and th",
-      "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793891839
-    },
-    {
-      "titulo": "NASA Astronauts to Answer Questions from Florida Students",
-      "resumo": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 1",
-      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1793891485
-    },
-    {
-      "titulo": "Scientists discover that a clogged filter could revolutionize oil refining",
-      "resumo": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon e",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1793887447
     }
   ]
 }
