@@ -1,6 +1,86 @@
 {
-  "atualizado_em": "2026-11-11T17:05:50.841245+00:00",
+  "atualizado_em": "2026-11-12T17:34:00.835762+00:00",
   "noticias": [
+    {
+      "titulo": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "resumo": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794489520
+    },
+    {
+      "titulo": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "resumo": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space sh",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794488400
+    },
+    {
+      "titulo": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "resumo": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794472722
+    },
+    {
+      "titulo": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+      "resumo": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinat",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794459900
+    },
+    {
+      "titulo": "Scotland’s Flow Country",
+      "resumo": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794459660
+    },
+    {
+      "titulo": "A massive new simulation reveals how the universe emerged from darkness",
+      "resumo": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794456444
+    },
+    {
+      "titulo": "Inside this quantum computer, memory vibrates like a guitar string",
+      "resumo": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated adva",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794450920
+    },
+    {
+      "titulo": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "resumo": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794447909
+    },
+    {
+      "titulo": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "resumo": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by ",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794444095
+    },
+    {
+      "titulo": "Scientists discover that necks didn't evolve for the reason we thought",
+      "resumo": "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution. Rather than evolving to help animals turn their heads, nec",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794440943
+    },
     {
       "titulo": "The mystery of how hair knows where to grow may finally be solved",
       "resumo": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and reveal how nature c",
@@ -400,86 +480,6 @@
       "fonte": "ScienceDaily — Ciência",
       "categoria": "Ciência",
       "timestamp": 1794132685
-    },
-    {
-      "titulo": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "resumo": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of e",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794125663
-    },
-    {
-      "titulo": "APOD: 2026 November 8 – Major Fireball Meteor",
-      "resumo": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinati",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794114300
-    },
-    {
-      "titulo": "Scientists discover hidden brain changes linked to common sleep disorders",
-      "resumo": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behav",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794113272
-    },
-    {
-      "titulo": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
-      "resumo": "Scientists have created record-breaking X-ray flashes lasting just 300 attoseconds, concentrating enormous power into an incredibly tiny spot. The breakthrough could unlock a new way to observe electrons in action and potentially control th",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794109611
-    },
-    {
-      "titulo": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
-      "resumo": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that ",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794106348
-    },
-    {
-      "titulo": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-      "resumo": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical ener",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794100195
-    },
-    {
-      "titulo": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "resumo": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electro",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794094459
-    },
-    {
-      "titulo": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "resumo": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover nam",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794091623
-    },
-    {
-      "titulo": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-      "resumo": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and l",
-      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794075117
-    },
-    {
-      "titulo": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
-      "resumo": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exh",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794045603
     }
   ]
 }
