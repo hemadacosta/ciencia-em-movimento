@@ -1,6 +1,110 @@
 {
-  "atualizado_em": "2026-11-12T17:34:00.835762+00:00",
+  "atualizado_em": "2026-11-13T17:11:05.244015+00:00",
   "noticias": [
+    {
+      "titulo": "Outbursts from a Massive Star",
+      "resumo": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu",
+      "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794587973
+    },
+    {
+      "titulo": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "resumo": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks,",
+      "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794585954
+    },
+    {
+      "titulo": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "resumo": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and wea",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794574511
+    },
+    {
+      "titulo": "Superheated magma could fuel towering lava fountains",
+      "resumo": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that supe",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794570999
+    },
+    {
+      "titulo": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+      "resumo": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switche",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794568114
+    },
+    {
+      "titulo": "The Sun unleashed a monster storm. Earth may have made it worse",
+      "resumo": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85% of the charged parti",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794563376
+    },
+    {
+      "titulo": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "resumo": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794547601
+    },
+    {
+      "titulo": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "resumo": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fasc",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794546300
+    },
+    {
+      "titulo": "A Global Rebound for Mangroves",
+      "resumo": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794546060
+    },
+    {
+      "titulo": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+      "resumo": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promisi",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794534017
+    },
+    {
+      "titulo": "I Am Artemis Katie Spicer",
+      "resumo": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems ",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794514202
+    },
+    {
+      "titulo": "Heart in the Sky at NASA Kennedy",
+      "resumo": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Flor",
+      "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794510769
+    },
+    {
+      "titulo": "NASA Ames Stars of the Month: November 2026",
+      "resumo": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technica",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+      "fonte": "NASA — Notícias",
+      "categoria": "Espaço",
+      "timestamp": 1794506072
+    },
     {
       "titulo": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
       "resumo": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
@@ -16,6 +120,46 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1794488400
+    },
+    {
+      "titulo": "Crows can make decisions twice as fast as humans, scientists discover",
+      "resumo": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 millisecon",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794485839
+    },
+    {
+      "titulo": "AI-powered bionic eye breakthrough could help the blind see again",
+      "resumo": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's b",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794484555
+    },
+    {
+      "titulo": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "resumo": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these com",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794483426
+    },
+    {
+      "titulo": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "resumo": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie i",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794482687
+    },
+    {
+      "titulo": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+      "resumo": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794480463
     },
     {
       "titulo": "Earth's fiery birth may have created hundreds of oceans' worth of water",
@@ -336,150 +480,6 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1794246162
-    },
-    {
-      "titulo": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
-      "resumo": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del C",
-      "link": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794245793
-    },
-    {
-      "titulo": "Astronauts Across Generations Share the Stage",
-      "resumo": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, ",
-      "link": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794243389
-    },
-    {
-      "titulo": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-      "resumo": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-da",
-      "link": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794240430
-    },
-    {
-      "titulo": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
-      "resumo": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward ",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794240107
-    },
-    {
-      "titulo": "A quantum breakthrough makes light behave like both a solid and a liquid",
-      "resumo": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum e",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794223179
-    },
-    {
-      "titulo": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
-      "resumo": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars sur",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794222000
-    },
-    {
-      "titulo": "Scientists discover a surprising link between acorns and lyme disease",
-      "resumo": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increa",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794221975
-    },
-    {
-      "titulo": "Caltech robot makes history by building a structure in space",
-      "resumo": "For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct enormous telescopes,",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1794218473
-    },
-    {
-      "titulo": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
-      "resumo": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesui",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794215608
-    },
-    {
-      "titulo": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
-      "resumo": "APODScienceAPODAPOD: 2026 November 9 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794200700
-    },
-    {
-      "titulo": "Ozone Hole Reaches Its 2026 Maximum",
-      "resumo": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
-      "link": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794200400
-    },
-    {
-      "titulo": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
-      "resumo": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past a",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794192504
-    },
-    {
-      "titulo": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
-      "resumo": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport more than six times as m",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794186873
-    },
-    {
-      "titulo": "Scientists discover stunning new Amazon fish that may already be endangered",
-      "resumo": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures less than three centime",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794182174
-    },
-    {
-      "titulo": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "resumo": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other c",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794177901
-    },
-    {
-      "titulo": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
-      "resumo": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identif",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-      "fonte": "ScienceDaily — Tecnologia",
-      "categoria": "Tecnologia",
-      "timestamp": 1794176082
-    },
-    {
-      "titulo": "NASA Announces $1 Million to Students for Moon Base Challenge",
-      "resumo": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794151598
-    },
-    {
-      "titulo": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "resumo": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically ",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794132685
     }
   ]
 }
