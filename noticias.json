@@ -1,6 +1,62 @@
 {
-  "atualizado_em": "2026-11-13T17:11:05.244015+00:00",
+  "atualizado_em": "2026-11-14T15:47:36.920314+00:00",
   "noticias": [
+    {
+      "titulo": "Scientists find a simple daily routine linked to less pain and depression",
+      "resumo": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physica",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794660481
+    },
+    {
+      "titulo": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "resumo": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794659105
+    },
+    {
+      "titulo": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "resumo": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794657522
+    },
+    {
+      "titulo": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
+      "resumo": "Scientists have developed an efficient method to transform used coffee grounds into a potential source of biodiesel while preserving the leftover material for other renewable fuels and valuable chemicals. The discovery could turn millions o",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794656548
+    },
+    {
+      "titulo": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+      "resumo": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794625145
+    },
+    {
+      "titulo": "Scientists capture electrons making seemingly impossible quantum jumps",
+      "resumo": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavi",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+      "fonte": "ScienceDaily — Ciência",
+      "categoria": "Ciência",
+      "timestamp": 1794618785
+    },
+    {
+      "titulo": "AI supercharges laser physics with a stunning 250x speed boost",
+      "resumo": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside ",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "fonte": "ScienceDaily — Tecnologia",
+      "categoria": "Tecnologia",
+      "timestamp": 1794613268
+    },
     {
       "titulo": "Outbursts from a Massive Star",
       "resumo": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu",
@@ -424,62 +480,6 @@
       "fonte": "NASA — Notícias",
       "categoria": "Espaço",
       "timestamp": 1794272748
-    },
-    {
-      "titulo": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-      "resumo": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794271372
-    },
-    {
-      "titulo": "Scientists finally discover why we learn to love bitter coffee",
-      "resumo": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods a",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-      "fonte": "ScienceDaily — Ciência",
-      "categoria": "Ciência",
-      "timestamp": 1794266375
-    },
-    {
-      "titulo": "Rubies on Mars?",
-      "resumo": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studyin",
-      "link": "https://science.nasa.gov/blog/rubies-on-mars/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794263232
-    },
-    {
-      "titulo": "Newest Sample, Oldest Rock?",
-      "resumo": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previ",
-      "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794263152
-    },
-    {
-      "titulo": "La NASA busca a la próxima generación de astronautas",
-      "resumo": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agenc",
-      "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794252440
-    },
-    {
-      "titulo": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-      "resumo": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of ",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794250550
-    },
-    {
-      "titulo": "NASA Advanced Mid-Power Electric Rocket Challenge",
-      "resumo": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching th",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
-      "fonte": "NASA — Notícias",
-      "categoria": "Espaço",
-      "timestamp": 1794246162
     }
   ]
 }
